@@ -1,76 +1,72 @@
-import Quizz from "./Quizz";
+import Quizz, { TQuizz } from "./Quizz";
 import data from "./data/atbm.json";
-import { useState } from "react";
+import { useRef, useState } from "react";
 import styled from "styled-components";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
+import Slider, { Settings } from "react-slick";
 
-const list = [0, 1, 2, 4, 7, 23];
-// uuid
-// index
-
-type userData = {
-  list: {
-    [key: number]: {
-      correct: number;
-      choice: number | null;
-    };
-  };
-  totalTime: number;
-  workTime: number;
-  score: number;
-  totalQuizz: number;
+const ramdomList = (size: number) => {
+  let arr = [];
+  while (arr.length < size) {
+    let r = Math.floor(Math.random() * 134) + 1;
+    if (arr.indexOf(r) === -1) arr.push(r);
+  }
+  return arr;
 };
 
+const list = ramdomList(30);
+// uuid
+// index
+const listData = list.map((item) => ({ ...data }[Object.keys(data)[item]]));
+
+const settings: Settings = {
+  dots: false,
+  infinite: false,
+  arrows: false,
+  speed: 500,
+  slidesToShow: 1,
+  slidesToScroll: 1,
+};
 function App() {
-  const [currentIndex, setCurrentIndex] = useState(0);
-  
-  const [userData, setUserData] = useState<{
-    [key: number]: {
-      choice: number | null;
-    };
-  }>();
-
-  const onNext = () => {
-    currentIndex < list.length - 1 && setCurrentIndex(currentIndex + 1);
-  };
-
-  const onPrev = () => {
-    currentIndex > 1 && setCurrentIndex(currentIndex - 1);
-  };
-  console.log("userData", userData);
+  const [currentIndex, setCurrentIndex] = useState<number>(0);
+  const [checkAnswer, setCheckAnwser] = useState<boolean>(true);
+  const refSlider = useRef<any>();
+  // console.log("listData", listData);
 
   return (
     <SApp>
-      <Quizz
-        data={data[list[currentIndex]]}
-        onChoice={(ans) => {
-          setUserData({
-            ...userData,
-            [currentIndex]: {
-              choice: ans,
-            },
-          });
+      {currentIndex + 1}/{list.length}
+      <Slider
+        ref={refSlider}
+        afterChange={(current) => {
+          setCurrentIndex(current);
         }}
-      />
-      <div className="handle">
-        {currentIndex > 1 && (
-          <button
-            onClick={() => {
-              onPrev();
-            }}
-          >
-            Quay xe
-          </button>
-        )}
-        {currentIndex < list.length - 1 && (
-          <button
-            onClick={() => {
-              onNext();
-            }}
-          >
-            Chiến tiếp
-          </button>
-        )}
-      </div>
+        {...settings}
+      >
+        {listData.map((item, index) => (
+          <Quizz
+            key={item?.id}
+            index={index}
+            currentIndex={currentIndex}
+            checkAnswer={checkAnswer}
+            data={item as TQuizz}
+            onChoice={(ans) => {}}
+          />
+        ))}
+      </Slider>
+      {currentIndex + 1 === list.length && (
+        <p>Hết rồi, quay lại để kiểm tra lại hoặc reload trang để làm mới.</p>
+      )}
+      {/* <button
+          style={{ position: "fixed", bottom: 0 }}
+          onClick={() => {
+            setCheckAnwser(true);
+            refSlider.current.slickGoTo(0);
+          }}
+        >
+          Tính điểm
+        </button> */}
     </SApp>
   );
 }
@@ -78,8 +74,9 @@ function App() {
 export default App;
 
 const SApp = styled.div`
-  .handle {
-    display: flex;
-    justify-content: space-between;
-  }
+  max-width: 600px;
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+  /* padding: 32px; */
 `;
