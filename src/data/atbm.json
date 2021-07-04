@@ -1338,7 +1338,7 @@
       "Phân phối khoá trước cho hệ mật đối xứng",
       "Lấy chữ ký sô"
     ],
-    "correct": 0
+    "correct": 2
   },
   "uusP4sK8Qoo3NFWvGYEYhM": {
     "index": 136,
@@ -1350,14 +1350,14 @@
       "Mã xác thực thông điệp (Message authentication code)",
       "Các ủy ban đa tư vấn (Multiple advisory committees)"
     ],
-    "correct": 0
+    "correct": 2
   },
   "nEPBLWMoGiBoxvG1KsY7gc": {
     "index": 137,
     "id": "nEPBLWMoGiBoxvG1KsY7gc",
     "question": "Nội dung nào sau đây không cần sử dụng mật mã ?",
     "answers": ["Bảo mật", "Xác thực", "Toàn vẹn", "Truy cập"],
-    "correct": 0
+    "correct": 2
   },
   "rxpHbvBYGm6Wyd7dyxVkbo": {
     "index": 138,
@@ -1369,7 +1369,8 @@
       "Bảo mật dữ liệu ở hai đầu mút",
       "Sử dụng hai khóa khác nhau để mã hóa và giải mã"
     ],
-    "correct": 0
+    "correct": 0,
+    "note": "public key cryptography"
   },
   "vmE14oqL4iUnomMi8vvbUb": {
     "index": 139,
@@ -1381,14 +1382,15 @@
       "Xác thực",
       "Bảo mật"
     ],
-    "correct": 0
+    "correct": 1
   },
   "ccfGnpb6TcsDwn7JnH4kSD": {
     "index": 140,
     "id": "ccfGnpb6TcsDwn7JnH4kSD",
     "question": "Khái niệm nào sau đây được dùng để xác định chuẩn thực thi các hệ thống mã hóa diện rộng?",
     "answers": ["PKE", "PKI", "Đối xứng", "Không đối xứng"],
-    "correct": 0
+    "correct": 1,
+    "note": "Trong mật mã học, hạ tầng khóa công khai (public key infrastructure) là một cơ chế để cho một bên thứ 3 cung cấp và xác thực định danh các bên tham gia vào quá trình trao đổi thông tin. Cơ chế này cũng cho phép gán cho mỗi người sử dụng trong hệ thống một cặp khóa công khai/khóa bí mật."
   },
   "tuLAiRQzVvLk2hBsEFb2SP": {
     "index": 141,
@@ -1409,7 +1411,8 @@
     "id": "nBe17KxzQLh14dbYytp4LX",
     "question": "Quy trình mã hoá nào sử dụng cùng một khoá mã ở cả hai phía của một phiên làm việc ?",
     "answers": ["Symmetrical", "Asymmetrical", "PKCS", "Split key"],
-    "correct": 0
+    "correct": 0,
+    "note": "Symmetrical : đối xứng"
   },
   "ujjyJ7D12K1vSVqR4aRtHM": {
     "index": 144,
@@ -1421,14 +1424,15 @@
       "Asymmetric/symmetric",
       "Private/private"
     ],
-    "correct": 0
+    "correct": 1,
+    "note": "PKCS (tiếng Anh: Public Key Cryptography Standards) là một chuẩn do phòng thí nghiệm RSA Data Security Inc phát triển."
   },
   "4RbyUr6n3bqgGAUCeEk2Ae": {
     "index": 145,
     "id": "4RbyUr6n3bqgGAUCeEk2Ae",
     "question": "Giao thức nào sau đây tương tự như SSL và được đề nghị sử dụng bổ sung vào các giao thức bảo mật ?",
     "answers": ["TLS", "SSH", "RSH", "X.509"],
-    "correct": 0
+    "correct": 1
   },
   "xbXGRJekabbZ6J7wSuJYnX": {
     "index": 146,
@@ -1440,28 +1444,30 @@
       "Thu hồi chứng chỉ",
       "Bảo mật khóa cá nhân"
     ],
-    "correct": 0
+    "correct": 1
   },
   "9zMwDkL3menysp6hcydKaW": {
     "index": 147,
     "id": "9zMwDkL3menysp6hcydKaW",
     "question": "Giao thức nào sau đây cung cấp dịch vụ bảo mật cho các phiên làm việc trên thiết bị đầu cuối của hệ thống UNIX từ xa ?",
     "answers": ["SSL", "TLS", "SSH", "PKI"],
-    "correct": 0
+    "correct": 2
   },
   "4xG2db41znp7WbUD9rf7Vk": {
     "index": 148,
     "id": "4xG2db41znp7WbUD9rf7Vk",
     "question": "Dịch vụ nào sau đây là một dịch vụ đơn hay một máy phục vụ để lưu trữ, phân phối, và quản lý các khóa phiên mật mã ?",
     "answers": ["KDC", "KEA", "PKI", "PKCS"],
-    "correct": 0
+    "correct": 0,
+    "note": "key distribution center (KDC) is part of a cryptosystem intended to reduce the risks inherent in exchanging keys. KDCs often operate in systems within which some users may have permission to use certain services at some times and not at others."
   },
   "m4hm5favysWkRuK4jux8WL": {
     "index": 149,
     "id": "m4hm5favysWkRuK4jux8WL",
     "question": "Bạn có một fille dữ liệu trên đĩa cứng , phương pháp nào theo bạn là tốt nhất để bảo mật dữ liệu đó",
     "answers": ["RSA", "DES", "DSA", "SHA"],
-    "correct": 0
+    "correct": 0,
+    "note": "RSA (Rivest–Shamir–Adleman)  là một thuật toán mật mã hóa khóa công khai. Đây là thuật toán đầu tiên phù hợp với việc tạo ra chữ ký điện tử đồng thời với việc mã hóa. Nó đánh dấu một sự tiến bộ vượt bậc của lĩnh vực mật mã học trong việc sử dụng khóa công cộng. RSA đang được sử dụng phổ biến trong thương mại điện tử và được cho là đảm bảo an toàn với điều kiện độ dài khóa đủ lớn. "
   },
   "hGBKwTSVcWy8UwiNwGo3zt": {
     "index": 150,
@@ -1473,7 +1479,7 @@
       "Tạo một giá trị băm có độ dài cố định 160 bit",
       "Tạo một giá trị băm có độ dài cố định 256 bit"
     ],
-    "correct": 0
+    "correct": 2
   },
   "7A7R65SH2FQ2dmRxLkcpUW": {
     "index": 151,
@@ -1485,7 +1491,7 @@
       "Phân phối khoá mật mã",
       "Kiểm tra tính toàn vẹn dữ liệu"
     ],
-    "correct": 0
+    "correct": 3
   },
   "bZKLfkg7k8d7uTnTF2B9P3": {
     "index": 152,
@@ -1497,7 +1503,7 @@
       "Biến đổi khối dữ liệu mã 16 bít thành 4 bít",
       "Biến đổi khối dữ liệu mã 32 bít thành 4 bít"
     ],
-    "correct": 0
+    "correct": 1
   },
   "inFQgvSAVmRJukVvYBQGNa": {
     "index": 153,
@@ -1509,7 +1515,7 @@
       "S = D(ek,M)",
       "S = E ( dk ,M)"
     ],
-    "correct": 0
+    "correct": 3
   },
   "ush9EM6d2Xtr7NYRMmHvXW": {
     "index": 154,
@@ -1521,7 +1527,7 @@
       "M = D(ek , S)",
       "M = E (dk ,S)"
     ],
-    "correct": 0
+    "correct": 2
   },
   "bR87HKFpHB5ThNWEzFT1wS": {
     "index": 155,
@@ -1533,14 +1539,14 @@
       "Tấn công dạng “Man in the middle”",
       "Tấn công chuyển tiếp"
     ],
-    "correct": 0
+    "correct": 2
   },
   "gcPmR8hYc4zQZqtsKND5WM": {
     "index": 156,
     "id": "gcPmR8hYc4zQZqtsKND5WM",
     "question": "Qui trình xác định topology của mạng được gọi là gì ?",
     "answers": ["In dấu chân", "Quét mạng", "Thiết bị làm nhiễu", "Liệt kê"],
-    "correct": 0
+    "correct": 1
   },
   "mLyrGgECPKDCpxae3AWUmb": {
     "index": 157,
@@ -1554,7 +1560,7 @@
     "id": "kJvcj6LqJuESrzyJADjmV9",
     "question": "Qui trình chiếm quyền truy cập đến tài nguyên mạng (đặc biệt như là các tập tin user và nhóm) được gọi là gì ?",
     "answers": ["In dấu chân", "Quét", "Thiết bị làm nhiễu", "Liệt kê"],
-    "correct": 0
+    "correct": 3
   },
   "qx9Rja1A46hj7zVPPdfpJm": {
     "index": 159,
@@ -1592,7 +1598,7 @@
       "Sử dụng các hệ thống ngăn chặn và phát hiện tấn công, đột nhập",
       "Sử dụng nhiều lớp bảo vệ có chiều sâu"
     ],
-    "correct": 0
+    "correct": 3
   },
   "boHvJsg3BzAo8LS8CyuABD": {
     "index": 163,
@@ -1604,7 +1610,7 @@
       "Vernam",
       "Tất cả các phương án trên"
     ],
-    "correct": 0
+    "correct": 3
   },
   "2rNmrekrEYEkwDRstyiGU7": {
     "index": 164,
@@ -1628,7 +1634,7 @@
       "Có thể công khai private key và cần giữ bí mật public key",
       "Có thể công khai public key nhưng phải đảm bảo tính xác thực và cần giữ bí mật private key"
     ],
-    "correct": 0
+    "correct": 3
   },
   "k6ZHKrCuuMGqDXd6747rrC": {
     "index": 166,
@@ -1640,7 +1646,7 @@
       "Máy chủ CSDL Microsoft SQL Server 2005",
       "Máy chủ CSDL Microsoft SQL Server 2000"
     ],
-    "correct": 0
+    "correct": 3
   },
   "3bxjZw7njp2aeDxJooMska": {
     "index": 167,
@@ -1676,7 +1682,7 @@
       "Giả mạo địa chỉ IP nguồn trong gói tin ICMP là địa chỉ quảng bá và chúng gửi đến máy đích",
       "Tạo và gửi rất nhiều gòi tin ICMP giả mạo có kích thước lớn đến máy đích"
     ],
-    "correct": 0
+    "correct": 1
   },
   "fdfdxQhDQYRuBzg7P5BpVp": {
     "index": 170,
@@ -1688,7 +1694,7 @@
       "Bí mật, xác thực và không chối bỏ",
       "Bí mật, toàn vẹn và sẵn dùng"
     ],
-    "correct": 0
+    "correct": 3
   },
   "p5oANNmx3XTDYLCuZJAZ16": {
     "index": 171,
@@ -1700,7 +1706,7 @@
       "SYN, SYN-ACK, ACK",
       "FIN, FIN-ACK, ACK"
     ],
-    "correct": 0
+    "correct": 2
   },
   "fSQx8JgU3iJ1Fes2HQ7AdZ": {
     "index": 172,
@@ -1724,7 +1730,7 @@
       "Có khả năng lây lan nhanh chóng bằng nhiều phương pháp khác nhau",
       "Có khả năng chiếm quyền điều khiển hệ thống"
     ],
-    "correct": 0
+    "correct": 1
   },
   "8RRxf78FBFhHSptpnp92JK": {
     "index": 174,
@@ -1743,7 +1749,7 @@
     "id": "1Xwj5MgPrFTN9CgbEQaDRB",
     "question": "Kích thước khóa hiệu dụng của hệ mã hóa DES là:",
     "answers": ["64 bit", "48 bit", "56 bit", "128 bit"],
-    "correct": 0
+    "correct": 2
   },
   "vEWSFinp8UcG6CfPG7Src8": {
     "index": 176,
@@ -1762,14 +1768,14 @@
       "Số hosts tham gia tấn công",
       "Cơ chế tấn công DDoS phức tạp hơn"
     ],
-    "correct": 0
+    "correct": 2
   },
   "naeiewwcqz73jNkE2V98mc": {
     "index": 178,
     "id": "naeiewwcqz73jNkE2V98mc",
     "question": "Số lượng vòng lặp chuyển đổi cần thực hiện để chuyển bản rõ thành bản mã trong hệ mã hóa AES khóa 128 bit là:",
     "answers": ["14", "10", "16", "12"],
-    "correct": 0
+    "correct": 1
   },
   "cBjMTV784YirYzu4tVAnA6": {
     "index": 179,
@@ -1781,7 +1787,7 @@
       "Port Scan",
       "IP sweep"
     ],
-    "correct": 0
+    "correct": 2
   },
   "bbzauk6rQs4RZgMWQowSJT": {
     "index": 180,
@@ -1793,7 +1799,7 @@
       "Trộn các cột tương ứng của ma trận state với khóa",
       "Trộn các dòng tương ứng của ma trận state với khóa"
     ],
-    "correct": 0
+    "correct": 1
   },
   "dtzGsCYpNkNJGVnmD8yoz2": {
     "index": 181,
@@ -1805,7 +1811,7 @@
       "Nghe trộm để đánh cắp mật khẩu",
       "Thử tất cả các khả năng kiểu vét cạn để tìm mật khẩu của người dùng"
     ],
-    "correct": 0
+    "correct": 1
   },
   "f893FFKG3tZCgeedtgg8sB": {
     "index": 182,
@@ -1817,7 +1823,7 @@
       "Virus, worm, zombie",
       "Virus, trojan horse, worm"
     ],
-    "correct": 0
+    "correct": 2
   },
   "k9B32PGidLx9vsq39DzArN": {
     "index": 183,
@@ -1848,7 +1854,7 @@
       "Mã hóa khóa bí mật sử dụng một mã (key) cho cả quá trình mã hóa và giải mã",
       "Mã hóa khóa bí mật có thuật toán đơn giản hơn mã hóa khóa công khai"
     ],
-    "correct": 0
+    "correct": 2
   },
   "rFZXyP4DXJDqtPsyxrRRC3": {
     "index": 186,
@@ -1860,7 +1866,7 @@
       "RBAC cấp quyền truy cập dựa trên vai trò của người dùng trong tổ chức",
       "RBAC là cơ chế điều khiển truy cập được sử dụng rộng rãi nhất"
     ],
-    "correct": 0
+    "correct": 2
   },
   "tLxuQPxZUECUYmnrQQSdYr": {
     "index": 187,
@@ -1884,7 +1890,7 @@
       "Lỗi lập trình phần mềm",
       "Lỗi tích hợp hệ thống"
     ],
-    "correct": 0
+    "correct": 2
   },
   "ruQgM1TqvJMVVxtqCT8A73": {
     "index": 189,
@@ -1896,7 +1902,7 @@
       "Các quyền truy cập vào đối tượng cho mỗi người dùng được quản lý trong một ma trận",
       "Mỗi đối tượng được gán một danh sách người dùng kèm theo quyền truy cập"
     ],
-    "correct": 0
+    "correct": 3
   },
   "daHyP65sZhY93VCYEbHvFG": {
     "index": 190,
@@ -1920,7 +1926,7 @@
       "Spoofing",
       "Man in the middle"
     ],
-    "correct": 0
+    "correct": 1
   },
   "azajAXkgwyzbHHHn2ShoNz": {
     "index": 192,
@@ -1932,7 +1938,7 @@
       "Sử dụng chứng chỉ số",
       "Sử dụng vân tay"
     ],
-    "correct": 0
+    "correct": 3
   },
   "siVq1VdgxxknHmFnmKjREU": {
     "index": 193,
@@ -1944,7 +1950,7 @@
       "Các file ảnh dạng JPG",
       "Các file tài liệu của bộ chương trình MS Office"
     ],
-    "correct": 0
+    "correct": 3
   },
   "ofEKHiHFyoQteNp9GdPg6N": {
     "index": 194,
@@ -1963,7 +1969,7 @@
     "id": "cGmN22KD3yywc1GSNa38M9",
     "question": "Trong quá trình xử lý dữ liệu tạo chuỗi băm, số lượng vòng xử lý của SHA1 là:",
     "answers": ["60", "70", "80", "90"],
-    "correct": 0
+    "correct": 2
   },
   "eiH4My3jwqRb3LB8Wts1Kk": {
     "index": 196,
@@ -1975,7 +1981,7 @@
       "Cấu hình máy chủ CSDL không cho thực thi lệnh từ xa",
       "Không cho phép người dùng nhập mã vào các form."
     ],
-    "correct": 0
+    "correct": 1
   },
   "vCmrTHW6BwV5LJXQQM2Bhg": {
     "index": 197,
@@ -1999,7 +2005,7 @@
       "Mã hóa khóa công khai",
       "Mã hóa khóa bí mật"
     ],
-    "correct": 0
+    "correct": 1
   },
   "9b6riroxKp1o7h9BKe8Lyp": {
     "index": 199,
@@ -2011,7 +2017,7 @@
       "MDC có khả năng chống đụng độ cao hơn MAC",
       "MDC là loại hàm băm không khóa, còn MAC là loại hàm băm có khóa"
     ],
-    "correct": 0
+    "correct": 3
   },
   "dPt6tczQJpWCp6B2ngAYvn": {
     "index": 200,
@@ -2023,7 +2029,7 @@
       "Xác thực, trao quyền và kiểm toán (auditing)",
       "Xác thực, trao quyền và quản trị"
     ],
-    "correct": 0
+    "correct": 3
   },
   "oyFfuttuTMkf4gApLBkG2L": {
     "index": 201,
@@ -2035,7 +2041,7 @@
       "Chi phí tính toán thấp hơn",
       "Quản lý dễ dàng hơn"
     ],
-    "correct": 0
+    "correct": 3
   },
   "1mCTx5b59hNw4k4rkvyZUp": {
     "index": 202,
@@ -2047,7 +2053,7 @@
       "Chi phí tính toán lớn",
       "Tính khó của việc phân tích số nguyên lớn"
     ],
-    "correct": 0
+    "correct": 1
   },
   "vmhrA1ZbFH7rfeYiP3Arzy": {
     "index": 203,
@@ -2059,7 +2065,7 @@
       "d là modulo của e",
       "d và e không có quan hệ với nhau"
     ],
-    "correct": 0
+    "correct": 3
   },
   "xfEwCnoX2FaZqGMbYxsAB2": {
     "index": 204,
@@ -2071,14 +2077,14 @@
       "Mỗi thực thể phải lưu n-1 khóa, KTC phải lưu n khóa",
       "Mỗi thực thể phải lưu 1 khóa, KTC phải lưu 1 khóa"
     ],
-    "correct": 0
+    "correct": 1
   },
   "bCvRkgtxk7rbrqK6CFbpcx": {
     "index": 205,
     "id": "bCvRkgtxk7rbrqK6CFbpcx",
     "question": "Số lượng các khóa phụ (subkey) cần được tạo ra từ khóa chính trong giải thuật DES là:",
     "answers": ["18", "16", "14", "12"],
-    "correct": 0
+    "correct": 1
   },
   "h8maWmBzhRNSaFU3Mobq7x": {
     "index": 206,
@@ -2090,7 +2096,7 @@
       "Số nhận dạng, khóa công khai của chủ thể, chữ ký của nhà cung cấp CA",
       "Khóa công khai của chủ thể, thông tin định danh chủ thể, chữ ký của nhà cung cấp CA"
     ],
-    "correct": 0
+    "correct": 3
   },
   "dP1KY9ouAPn33KaicVt6AN": {
     "index": 207,
@@ -2102,7 +2108,7 @@
       "Nghe trộm và bắt các gói tin khi chúng được truyền trên mạng",
       "Chặn bắt và sửa đổi thông tin"
     ],
-    "correct": 0
+    "correct": 1
   },
   "s6SrzFAbyeejrNC2aJuSX6": {
     "index": 208,
@@ -2114,7 +2120,7 @@
       "KDC sinh khóa tập trung, còn KTC sinh khóa phân tán",
       "KDC yêu cầu có một máy chủ tin cậy, còn KTC không yêu cầu có một máy chủ tin cậy"
     ],
-    "correct": 0
+    "correct": 2
   },
   "jazSjqnK5Mamb9jDRQoUmB": {
     "index": 209,
@@ -2126,7 +2132,7 @@
       "Chèn mã độc vào bộ đệm và lợi dụng cơ chế trở về từ chương trình con để thực hiện mã độc đã chèn",
       "Chèn mã độc vào bộ đệm và lợi dụng cơ chế gọi thực hiện chương trình con để thực hiện mã độc đã chèn"
     ],
-    "correct": 0
+    "correct": 1
   },
   "2dfxcapPWBGgLbKFD8aVH4": {
     "index": 210,
@@ -2138,14 +2144,14 @@
       "Chữ ký số được sử dụng để đảm bảo tính bí mật, toàn vẹn và xác thực thông điệp",
       "Chữ ký số là một chuỗi dữ liệu liên kết với một thông điệp và thực thể tạo ra thông điệp"
     ],
-    "correct": 0
+    "correct": 3
   },
   "mBRYLY7FxsZNVnuLpakT63": {
     "index": 211,
     "id": "mBRYLY7FxsZNVnuLpakT63",
     "question": "Số lượng thao tác trong mỗi vòng xử lý của MD5 là:",
     "answers": ["12 ", "16", "14", "18"],
-    "correct": 0
+    "correct": 1
   },
   "qSGUZ6VNPR3p5LF1QKAvEX": {
     "index": 212,
@@ -2169,7 +2175,7 @@
       "An ninh máy tính và An ninh mạng",
       "An toàn công nghệ thông tin và Đảm bảo thông tin"
     ],
-    "correct": 0
+    "correct": 3
   },
   "s6wYjZpddJ6hi9794FhkY1": {
     "index": 214,
@@ -2193,7 +2199,7 @@
       "Mã hóa khóa công khai",
       "Mã hóa khóa bí mật"
     ],
-    "correct": 0
+    "correct": 2
   },
   "rZnkLkcepLu6L13tSVG3Td": {
     "index": 216,
@@ -2205,7 +2211,7 @@
       "Lợi dụng các lỗ hổng an ninh để đánh cắp thông tin nhạy cảm",
       "Lợi dụng các lỗ hổng an ninh để chèn và thực hiện mã độc trên hệ thống nạn nhân"
     ],
-    "correct": 0
+    "correct": 3
   },
   "aqsZHt7bxvkcacFd1MDtC4": {
     "index": 217,
@@ -2229,14 +2235,14 @@
       "IPS có khả năng chủ động ngăn chặn tấn công so với IDS",
       "IPS có chi phí lớn hơn IDS"
     ],
-    "correct": 0
+    "correct": 2
   },
   "2tn4LRw7ijoS7AjTaYgwnd": {
     "index": 219,
     "id": "2tn4LRw7ijoS7AjTaYgwnd",
     "question": "Gửi một gói tin ICMP có kích thước lớn hơn 64Kb là một ví dụ của kiểu tấn công nào sau đây?",
     "answers": ["Buffer overflow", "Syn flood", "Teardrop", "Ping of Death"],
-    "correct": 0
+    "correct": 3
   },
   "hAEjdYdmKF4PPBPGTcY6dC": {
     "index": 220,
@@ -2248,7 +2254,7 @@
       "Tính xác thực",
       "Tính không chối bỏ"
     ],
-    "correct": 0
+    "correct": 1
   },
   "3utQSHcAyzc65XYXGNuRKy": {
     "index": 221,
@@ -2284,7 +2290,7 @@
       "RC4, RC5, IDEA, Blowfish",
       "IDEA, Blowfish, AES, Elliptic Cure"
     ],
-    "correct": 0
+    "correct": 1
   },
   "a6WCaXVcTVv2VocCtgYYfj": {
     "index": 224,
@@ -2296,7 +2302,7 @@
       "Hầu hết các thuật tóan mã hóa khối đều đối xứng",
       "Tất cả đều đúng"
     ],
-    "correct": 0
+    "correct": 3
   },
   "rqMQBL4BTeA9vgGfY23R5T": {
     "index": 225,
@@ -2308,7 +2314,7 @@
       "Application, Session",
       "Tất cả đều sai"
     ],
-    "correct": 0
+    "correct": 2
   },
   "ccRCWKPUjuPiHLqKJTkCFd": {
     "index": 226,
@@ -2320,7 +2326,7 @@
       "Xác thực trên Server",
       "Xác thực trên các máy trạm với nhau"
     ],
-    "correct": 0
+    "correct": 2
   },
   "egQWFLCh2SwYGyAhAgUeAd": {
     "index": 227,
@@ -2332,21 +2338,21 @@
       "Thực hiện mã hóa thông điệp theo thuật tóan RSA",
       "Địa chỉ của máy trạm khi kết nối vào Internet"
     ],
-    "correct": 0
+    "correct": 1
   },
   "7MX4Pyfy4UAUAYXkkRAtxD": {
     "index": 228,
     "id": "7MX4Pyfy4UAUAYXkkRAtxD",
     "question": "Công cụ/cơ chế bảo mật cho mạng không dây là",
     "answers": ["SSL", "TSL", "Giao thức PGP", "WEP"],
-    "correct": 0
+    "correct": 3
   },
   "odcf6GMb2MrjG1dUM7BZVk": {
     "index": 229,
     "id": "odcf6GMb2MrjG1dUM7BZVk",
     "question": "Giao thức SSL và TSL hoạt động ở tầng nào của mô hình OSI",
     "answers": ["Network", "Sesion", "Transport", "Từ tầng Transport trở lên"],
-    "correct": 0
+    "correct": 3
   },
   "u5vsoX3UVeQRCEnM1eaHVT": {
     "index": 230,
@@ -2358,7 +2364,7 @@
       "Cung cấp bảo mật cho Web",
       "Cung cấp bảo mật cho xác thực người dùng vào các hệ thống vận hành trên Platform Window"
     ],
-    "correct": 0
+    "correct": 2
   },
   "12BgEuZ3LAUBG9Fqdytzcz": {
     "index": 231,
@@ -2370,7 +2376,7 @@
       "Tự phát triển độc lập và lây nhiễm",
       "Tất cả đều đúng"
     ],
-    "correct": 0
+    "correct": 3
   },
   "3GZ89UWjQEUW9Qd3FbBe77": {
     "index": 232,
@@ -2382,7 +2388,7 @@
       "Nằm im, lây nhiễm, khởi sự và tàn phá",
       "Lây nhiễm, khởi sự, tàn phát, kích họat lại"
     ],
-    "correct": 0
+    "correct": 2
   },
   "ha9wFjDZ55et6qzZt1eHYA": {
     "index": 233,
@@ -2406,7 +2412,7 @@
       "MS.Exel, MX Word, Yahoo Mail",
       "Tất cả các loại file"
     ],
-    "correct": 0
+    "correct": 2
   },
   "gF2Q47nEbtcU7VC9mRJGqt": {
     "index": 235,
@@ -2418,7 +2424,7 @@
       "Từ tầng Transport trở lên đến tầng 7",
       "Tầng Session"
     ],
-    "correct": 0
+    "correct": 2
   },
   "6HoP9coh8Givx5Mgef6zvQ": {
     "index": 236,
@@ -2430,7 +2436,7 @@
       "Từ chối dịch vụ (DoS)",
       "Chèn câu truy vấn SQL."
     ],
-    "correct": 0
+    "correct": 2
   },
   "oYGaGkjbvnuz8p64Sh8dxx": {
     "index": 237,
@@ -2442,7 +2448,7 @@
       "Con người tạo ra",
       "Tất cả đều đúng"
     ],
-    "correct": 0
+    "correct": 3
   },
   "7S22FD9B28g5xqrbzvqDLT": {
     "index": 238,
@@ -2454,7 +2460,7 @@
       "Hệ thống Firewall thường bao g��m cả phần cứng lẫn phần mềm",
       "Tất cả đều đúng"
     ],
-    "correct": 0
+    "correct": 3
   },
   "9JSbWhR5KYQRo8LapBAffE": {
     "index": 239,
@@ -2466,7 +2472,7 @@
       "Application level firewall(lop ung dung)",
       "Stateful multilayer inspection firewall"
     ],
-    "correct": 0
+    "correct": 1
   },
   "smAJeu1r9Qb2GoT8w5Z9oF": {
     "index": 240,
@@ -2485,7 +2491,7 @@
       "Data confidentiality, IP Spoofing.",
       "Network mapping, Internet Viruses."
     ],
-    "correct": 0
+    "correct": 2
   },
   "pmrEotFRXt8ru4XLpURTjH": {
     "index": 242,
@@ -2497,7 +2503,7 @@
       "Là một phần mềm hoặc phần ứng có khả năng ngăn chặn tấn công từ bên trong và bên ngoài vào hệ thống.",
       "Là một giải pháp giúp hệ thống phát hiện và ngăn chặn các truy cập trái phép"
     ],
-    "correct": 0
+    "correct": 2
   },
   "jdtAaK6pt8jCv1qCTmL6yy": {
     "index": 243,
@@ -2521,7 +2527,7 @@
       "CAST-128 / IDEA/3DES",
       "Keboros, X.509"
     ],
-    "correct": 0
+    "correct": 1
   },
   "qAkyUcb6H5fMLhmxWSvBvV": {
     "index": 245,
@@ -2533,7 +2539,7 @@
       "MD5, SHA,RSA",
       "Không dùng thuật tóan nào nêu trên"
     ],
-    "correct": 0
+    "correct": 2
   },
   "m3vJA3sGg7n6PyTE76wVsM": {
     "index": 246,
@@ -2545,7 +2551,7 @@
       "a và b đều đúng",
       "Tất cả cả đều sai"
     ],
-    "correct": 0
+    "correct": 2
   },
   "mG2wMLpsMM3GWgBSXDQvoA": {
     "index": 247,
@@ -2576,7 +2582,7 @@
     "id": "qX2EEyJJ3tBTCr5FNw6JJq",
     "question": "Việc xác thực người dùng khi đăng cập vào hệ thống Window XP, 2000 hoặc 2003 sử dụng giải thuật",
     "answers": ["RSA", "Keberos", "MD5", "SHATR"],
-    "correct": 0
+    "correct": 1
   },
   "cGhTRHRF2CELc21xNwLUgs": {
     "index": 250,
@@ -2600,7 +2606,7 @@
       "Network Layer ở mô hình OSI",
       "Tất cả đều sai"
     ],
-    "correct": 0
+    "correct": 2
   },
   "us5gnMeHUQMfaFvq6BSNyL": {
     "index": 252,
@@ -2612,7 +2618,7 @@
       "Regỉstry là một thành phần của hệ điều hành Window",
       "Tất cả đều đúng"
     ],
-    "correct": 0
+    "correct": 3
   },
   "umsVHmMiJC4zjLU1Sosife": {
     "index": 253,
@@ -2631,7 +2637,7 @@
       "HKEY_CLASSES_ROOT, -USER, HKEY_LOCAL_MACHINE, REG_BINARY",
       "REG_BINARY, REG_DWORD, REG_EXPAND_SZ, REG_MULTI_SZ, REG_SZ"
     ],
-    "correct": 0
+    "correct": 3
   },
   "k4smDTTqLP9FYSenPaFG4U": {
     "index": 255,
@@ -2650,7 +2656,7 @@
       "Chỉ cần cài đặt Active Directory trên Server hệ thống",
       "Không thể thực hiện được"
     ],
-    "correct": 0
+    "correct": 2
   },
   "uqKA6LkNvqooRpUVxkps17": {
     "index": 257,
@@ -2662,7 +2668,7 @@
       "Bản Window 2000 không có bản quyền",
       "Tất cả đều đúng"
     ],
-    "correct": 0
+    "correct": 2
   },
   "eScRtWNmWssXUJES6LU4D2": {
     "index": 258,
@@ -2674,7 +2680,7 @@
       "Chỉ thực hiện việc xác thực và cấp các quyền cho users và groups",
       "Quản lý tài nguyên và người dùng; xác thực và cấp các quyền cho users và groups; giám sát họat động của các user"
     ],
-    "correct": 0
+    "correct": 3
   },
   "fYs9DJkxsFcyiPMrM54Sgx": {
     "index": 259,
@@ -2687,7 +2693,7 @@
       "DES hoặc 3DES (triple DES).",
       "Tất cả đều sai"
     ],
-    "correct": 0
+    "correct": 3
   },
   "f6R6i5zp8xD2iMwEnxd8d5": {
     "index": 260,
@@ -2699,7 +2705,7 @@
       "Trong 2 file: user.dat và system.dat trong thư mục Windows",
       "Tất cả đều sai"
     ],
-    "correct": 0
+    "correct": 2
   },
   "2AYjrHnMpJY3rfBWUyS5V5": {
     "index": 261,
@@ -2730,7 +2736,7 @@
       "IP Authentication Header, IP Encapsulating Security Payload",
       "Tất cả đều đúng"
     ],
-    "correct": 0
+    "correct": 2
   },
   "tY6K1yvSUxdyn277UCbfwL": {
     "index": 264,
@@ -2754,7 +2760,7 @@
       "Bắt gói tin trên đường truyền, mã hóa vag giải mã dữ liệu",
       "Tất cả đều đúng"
     ],
-    "correct": 0
+    "correct": 3
   },
   "vqMFM9JzmGK7eEuwBH5S79": {
     "index": 266,
@@ -2778,7 +2784,7 @@
       "Logicbomb, Virus",
       "Trapdoors, Trojan"
     ],
-    "correct": 0
+    "correct": 1
   },
   "2ngKd3gEmu7VzJqsSXhqT8": {
     "index": 268,
@@ -2790,7 +2796,7 @@
       "Cách thực hiện, biểu hiện mà nó ghi nhận, những đặc trưng ghép nối hoặc tích hợp",
       "Tất cả đều đúng"
     ],
-    "correct": 0
+    "correct": 1
   },
   "c6RwvWMLSUqBZ3DSGyozZf": {
     "index": 269,
@@ -2826,7 +2832,7 @@
       "Thông điệp số đã được thay đổi",
       "Tin nhắn đã được mã hóa đúng cách"
     ],
-    "correct": 0
+    "correct": 3
   },
   "odGL2bj9hbVFZJoJbchsMH": {
     "index": 272,
@@ -2850,7 +2856,7 @@
       "Tấn công Denial of Service",
       "Tấn công Dictionary"
     ],
-    "correct": 0
+    "correct": 3
   },
   "pyYiJJKxBDDsZrUiC3iVc1": {
     "index": 274,
@@ -2874,7 +2880,7 @@
       "Khóa riêng của người gửi",
       "Khóa công khai của người nhận"
     ],
-    "correct": 0
+    "correct": 2
   },
   "awyTZXqjHRTnDFUvmxN96G": {
     "index": 276,
@@ -2886,14 +2892,14 @@
       "Một phương pháp để cung cấp một chữ ký điện tử và mã hóa",
       "Một phương pháp để cho những người nhận của tin nhắn chứng minh nguồn gốc và sự toàn vẹn của một tin nhắn"
     ],
-    "correct": 0
+    "correct": 3
   },
   "bxvHvx3cAk3NrgUfrtfeNY": {
     "index": 277,
     "id": "bxvHvx3cAk3NrgUfrtfeNY",
     "question": "Sử dụng nhiêu bit với DES để có hiệu quả?",
     "answers": ["56", "64", "32", "16"],
-    "correct": 0
+    "correct": 1
   },
   "cem2AHuPeDr2fF3NkwigRV": {
     "index": 278,
@@ -2929,7 +2935,7 @@
       "Bruce Schneier",
       "Martin Hellman"
     ],
-    "correct": 0
+    "correct": 3
   },
   "fnguV9z3bLEtNwoR3H1G57": {
     "index": 281,
@@ -2941,7 +2947,7 @@
       "Data encoding standard",
       "Data encryption signature"
     ],
-    "correct": 0
+    "correct": 1
   },
   "5MAR4aZVxzLKUSvLFUD3S3": {
     "index": 282,
@@ -2965,7 +2971,7 @@
       "Trinh sát",
       "Dò tìm (Scanning)"
     ],
-    "correct": 0
+    "correct": 2
   },
   "riLYy6FvpSB7jWM1cLH8sN": {
     "index": 284,
@@ -3008,7 +3014,7 @@
       "quét một mạng lưới mục tiêu để phát hiện hệ điều hành các loại",
       "sơ đồ bố trí vật lý của một mạng của mục tiêu"
     ],
-    "correct": 0
+    "correct": 3
   },
   "f7iFTNpqkTYCQP8cCSEbyL": {
     "index": 288,
@@ -3046,7 +3052,7 @@
       "Một người sử dụng trái phép những người thu truy cập vào cơ sở dữ liệu người dùng của bạn và cho biết thêm mình như một người sử dụng",
       "Một máy chủ đó là phải hy sinh cho tất cả các hacking nỗ lực để đăng nhập và giám sát các hoạt động hacking"
     ],
-    "correct": 0
+    "correct": 1
   },
   "rrxSEBxJkUf7MWtnJpqhpy": {
     "index": 292,
@@ -3082,7 +3088,7 @@
       "các tập luật được xây dựng nhằm bảo vệ các tấn công bất hợp pháp từ bên ngoài",
       "Tất cả đều đúng"
     ],
-    "correct": 0
+    "correct": 1
   },
   "mqqkPMk6bork9YdELsaKk8": {
     "index": 295,
@@ -3094,7 +3100,7 @@
       "ISP, Email server",
       "Tất cả đều đúng"
     ],
-    "correct": 0
+    "correct": 1
   },
   "5JEo1ySHJR9yjdYuDwWfsp": {
     "index": 296,
@@ -3106,6 +3112,6 @@
       "Thường xuyên phải cập nhật bảng vá lỗi",
       "Thường xuyên cài đặt lại phải khi hệ thống mạng thay đổi hệ điều hành"
     ],
-    "correct": 0
+    "correct": 1
   }
 }

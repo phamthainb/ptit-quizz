@@ -9,7 +9,7 @@ import Slider, { Settings } from "react-slick";
 const ramdomList = (size: number) => {
   let arr = [];
   while (arr.length < size) {
-    let r = Math.floor(Math.random() * 134) + 1;
+    let r = Math.floor(Math.random() * 297) + 1;
     if (arr.indexOf(r) === -1) arr.push(r);
   }
   return arr;
