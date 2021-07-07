@@ -18,18 +18,15 @@ export interface Props {
   onChoice: (index: number) => void; // pick one ans
 }
 
-export default function Quizz({
-  data,
-  checkAnswer,
-  index,
-  currentIndex,
-  onChoice,
-}: Props) {
+export default function Quizz(props: Props) {
+  const { data, checkAnswer, index, currentIndex, onChoice } = props;
   const [check, setCheck] = useState(false);
+  console.log("props", props);
+
   return (
     <SQuizz className={`${currentIndex === index ? "active" : "hidden"}`}>
-      <h2 className="question">
-        {data.index + 1}. {data.question}
+    { data ? <> <h2 className="question">
+        {Number(data.index) + 1}. {data.question}
       </h2>
       <ul className="answers">
         {data.answers.map((item, index) => {
@@ -38,7 +35,6 @@ export default function Quizz({
               className="item"
               key={slugify(`${data.question}__${index}`)}
               onClick={() => {
-                // onChoice(index);
                 if (index === data.correct) setCheck(true);
                 else setCheck(false);
               }}
@@ -64,8 +60,7 @@ export default function Quizz({
           Note: <br />
           {data?.note}
         </p>
-      )}
-    </SQuizz>
+      )}</> : "chuwa cos gi"  }  </SQuizz>
   );
 }
 

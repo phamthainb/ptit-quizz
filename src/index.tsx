@@ -1,14 +1,24 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+
 import "./index.css";
-import App from "./App";
+import ListQuizz from "./ListQuizz";
 import DashBoard from "./DashBoard";
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
   <React.StrictMode>
-    {/* <App /> */}
-    <DashBoard />
+    <Router>
+      <Switch>
+        <Route exact path="/">
+          <DashBoard />
+        </Route>
+        <Route path="/quizz">
+          <ListQuizz />
+        </Route>
+      </Switch>
+    </Router>
   </React.StrictMode>,
   document.getElementById("root")
 );
