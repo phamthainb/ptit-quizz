@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Ptit Quizz",
+  "name": "Ôn thi trắc nghiệm PTIT các môn: An toàn bảo mật, Mạng máy tính,...",
   "icons": [
     {
       "src": "favicon.ico",
