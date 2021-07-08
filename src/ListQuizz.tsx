@@ -7,10 +7,10 @@ import "slick-carousel/slick/slick-theme.css";
 import Slider, { Settings } from "react-slick";
 import { useHistory } from "react-router-dom";
 import { TInput } from "./DashBoard";
-import TotalCheck from "./TotalCheck";
+// import TotalCheck from "./TotalCheck";
 
 const settings: Settings = {
-  dots: true,
+  dots: false,
   infinite: false,
   arrows: false,
   speed: 500,
@@ -26,19 +26,22 @@ function ListQuizz() {
 
   useEffect(() => {
     // user setup
-    const setupProps: any = history.location.state;
-    const listData = setupProps?.listQuizz.map(
-      (item: any) => ({ ...data }[Object.keys(data)[item]])
-    );
-    setSetUp({ ...setupProps, listData: listData });
+    const getLocal = localStorage.getItem("quizz");
+    if (getLocal) {
+      const setupProps: any = JSON.parse(getLocal);
+      const listData = setupProps?.listQuizz.map(
+        (item: any) => ({ ...data }[Object.keys(data)[item]])
+      );
+      setSetUp({ ...setupProps, listData: listData });
 
-    localStorage.setItem(
-      "quizz-current",
-      JSON.stringify({
-        ...setupProps,
-        listAnswer: Array.from({ length: setupProps.length }),
-      })
-    );
+      localStorage.setItem(
+        "quizz-current",
+        JSON.stringify({
+          ...setupProps,
+          listAnswer: Array.from({ length: setupProps.length }),
+        })
+      );
+    }
   }, [history]);
 
   const onChoice = (ans: number, quizz: number) => {
@@ -88,7 +91,7 @@ function ListQuizz() {
                   }}
                 />
               ))}
-              <TotalCheck />
+              {/* <TotalCheck /> */}
             </Slider>
           ) : (
             "Nothing here."

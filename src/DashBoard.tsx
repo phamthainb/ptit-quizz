@@ -64,12 +64,16 @@ export default function DashBoard() {
     });
 
     // console.log("data", data, listQuizz);
-
-    history.push("/quizz", {
-      ...data,
-      listQuizz: listQuizz,
-    });
+    localStorage.setItem(
+      "quizz",
+      JSON.stringify({
+        ...data,
+        listQuizz: listQuizz,
+      })
+    );
+    history.push("/quizz");
   };
+  // console.log("process.env.PUBLIC_URL", process.env.PUBLIC_URL);
 
   return (
     <SDashBoard>
