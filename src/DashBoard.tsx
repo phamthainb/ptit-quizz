@@ -12,7 +12,7 @@ export type TInput = {
   subject: TSubject;
   type: "stt" | "random";
   length: number | string;
-  checkAnswer: "now" | "last";
+  startAt?: number | string;
   [key: string]: any;
 };
 
@@ -27,13 +27,22 @@ const DataInfo: {
   },
 };
 
-const ramdomList = (size: number, maxSize: number) => {
-  let arr = [];
-  while (arr.length < size) {
-    let r = Math.floor(Math.random() * maxSize) + 1;
-    if (arr.indexOf(r) === -1) arr.push(r);
+type TRandomList = {
+  size: number;
+  maxSize: number;
+  random: boolean;
+  startAt: number;
+};
+const genList = ({ size, maxSize, random, startAt }: TRandomList) => {
+  if (random) {
+    let arr = [];
+    while (arr.length < size) {
+      let r = Math.floor(Math.random() * maxSize) + 1;
+      if (arr.indexOf(r) === -1) arr.push(r);
+    }
+    return arr;
   }
-  return arr;
+  return Array.from({ length: size }, (_, index) => startAt + index);
 };
 
 export default function DashBoard() {
@@ -45,12 +54,20 @@ export default function DashBoard() {
   } = useForm();
 
   const history = useHistory();
+
   const onSumit = (data: TInput) => {
-    console.log("data", data);
+    const listQuizz = genList({
+      size: Number(data.length),
+      maxSize: DataInfo[data.subject].size,
+      random: data.type === "random",
+      startAt: Number(data?.startAt || 0),
+    });
+
+    // console.log("data", data, listQuizz);
 
     history.push("/quizz", {
       ...data,
-      listQuizz: ramdomList(Number(data.length), DataInfo[data.subject].size),
+      listQuizz: listQuizz,
     });
   };
 
@@ -126,27 +143,33 @@ export default function DashBoard() {
                 </div>
               </div>
 
-              <div className="item">
-                <p className="item__title">Kiểm tra đáp án</p>
-                <div className="item__input">
-                  <label>
+              {watch("type") === "stt" && (
+                <div className="item">
+                  <p className="item__title">
+                    Bắt đầu từ câu:
+                    <span style={{ color: "red" }}>
+                      {watch("startAt") || 0}
+                    </span>
+                  </p>
+                  <div className="item__input">
                     <input
-                      type="radio"
-                      value="now"
-                      {...register("checkAnswer", { required: true })}
+                      style={{ width: "100%" }}
+                      type="range"
+                      defaultValue={0}
+                      min={0}
+                      max={
+                        watch("subject")
+                          ? DataInfo[watch("subject")].size -
+                            Number(watch("length"))
+                          : 100
+                      }
+                      {...register("startAt", {
+                        required: watch("type") === "stt",
+                      })}
                     />
-                    Luôn và ngay
-                  </label>
-                  <label>
-                    <input
-                      type="radio"
-                      value="last"
-                      {...register("checkAnswer", { required: true })}
-                    />
-                    Để sau
-                  </label>
+                  </div>
                 </div>
-              </div>
+              )}
               {Object.keys(errors).length > 0 && (
                 <p style={{ color: "red" }}> Chưa chọn đủ </p>
               )}
