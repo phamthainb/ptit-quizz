@@ -1,6 +1,6 @@
 import React from 'react';
 import { render, screen } from '@testing-library/react';
-import ListQuizz from './ListQuizz';
+import ListQuizz from './Quizz/ListQuizz';
 
 test('renders learn react link', () => {
   render(<ListQuizz />);

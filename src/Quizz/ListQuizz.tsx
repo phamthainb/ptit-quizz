@@ -1,5 +1,5 @@
 import Quizz, { TQuizz } from "./Quizz";
-import data from "./data/atbm.json";
+
 import { useEffect, useRef, useState } from "react";
 import styled from "styled-components";
 import "slick-carousel/slick/slick.css";
@@ -8,6 +8,15 @@ import Slider, { Settings } from "react-slick";
 import { useHistory } from "react-router-dom";
 import { TInput } from "./DashBoard";
 // import TotalCheck from "./TotalCheck";
+
+//data
+import atbm from "../data/atbm.json";
+import mmt from "../data/mmt.json";
+
+const data: any = {
+  atbm: atbm,
+  mmt: mmt,
+};
 
 const settings: Settings = {
   dots: false,
@@ -29,8 +38,13 @@ function ListQuizz() {
     const getLocal = localStorage.getItem("quizz");
     if (getLocal) {
       const setupProps: any = JSON.parse(getLocal);
+      // console.log("setupProps", setupProps);
+
       const listData = setupProps?.listQuizz.map(
-        (item: any) => ({ ...data }[Object.keys(data)[item]])
+        (item: any) =>
+          ({ ...data[setupProps.subject] }[
+            Object.keys(data[setupProps.subject])[item - 1]
+          ])
       );
       setSetUp({ ...setupProps, listData: listData });
 
@@ -49,7 +63,6 @@ function ListQuizz() {
 
     if (stateData) {
       const paser = JSON.parse(stateData);
-      // console.log("paser", paser);
       let k = paser.listAnswer;
       k.splice(quizz, 1, ans);
 

@@ -22,14 +22,12 @@ export default function Quizz(props: Props) {
   const [numberPick, setNumberPick] = useState(0);
   const [check, setCheck] = useState(false);
 
-  // console.log("props", props);
-
   return (
     <SQuizz className={`${currentIndex === index ? "active" : "hidden"}`}>
       {data ? (
         <>
           <h2 className="question">
-            {Number(data.index) + 1}. {data.question}
+            {Number(data.index)}. {data.question}
           </h2>
           <ul className="answers">
             {data.answers.map((item, index) => {
@@ -70,7 +68,7 @@ export default function Quizz(props: Props) {
           )}
         </>
       ) : (
-        "chuwa cos gi"
+        "Nothing here."
       )}{" "}
     </SQuizz>
   );

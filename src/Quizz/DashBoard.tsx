@@ -23,7 +23,7 @@ const DataInfo: {
     size: 297,
   },
   mmt: {
-    size: 100,
+    size: 296,
   },
 };
 
@@ -33,6 +33,7 @@ type TRandomList = {
   random: boolean;
   startAt: number;
 };
+
 const genList = ({ size, maxSize, random, startAt }: TRandomList) => {
   if (random) {
     let arr = [];
@@ -60,10 +61,9 @@ export default function DashBoard() {
       size: Number(data.length),
       maxSize: DataInfo[data.subject].size,
       random: data.type === "random",
-      startAt: Number(data?.startAt || 0),
+      startAt: Number(data?.startAt || 1),
     });
 
-    // console.log("data", data, listQuizz);
     localStorage.setItem(
       "quizz",
       JSON.stringify({
@@ -73,7 +73,6 @@ export default function DashBoard() {
     );
     history.push("/quizz");
   };
-  // console.log("process.env.PUBLIC_URL", process.env.PUBLIC_URL);
 
   return (
     <SDashBoard>
@@ -108,7 +107,7 @@ export default function DashBoard() {
             <>
               <div className="item">
                 <p className="item__title">
-                  Số câu:
+                  Số câu:{" "}
                   <span style={{ color: "red" }}>{watch("length") || 30}</span>
                 </p>
                 <div className="item__input">
@@ -150,17 +149,17 @@ export default function DashBoard() {
               {watch("type") === "stt" && (
                 <div className="item">
                   <p className="item__title">
-                    Bắt đầu từ câu:
+                    Bắt đầu từ câu:{" "}
                     <span style={{ color: "red" }}>
-                      {watch("startAt") || 0}
+                      {watch("startAt") || 1}
                     </span>
                   </p>
                   <div className="item__input">
                     <input
                       style={{ width: "100%" }}
                       type="range"
-                      defaultValue={0}
-                      min={0}
+                      defaultValue={1}
+                      min={1}
                       max={
                         watch("subject")
                           ? DataInfo[watch("subject")].size -

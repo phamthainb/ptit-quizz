@@ -1,6 +1,6 @@
 {
   "95reQEtaNAM7DsZHyEsKbY": {
-    "index": 0,
+    "index": 1,
     "id": "95reQEtaNAM7DsZHyEsKbY",
     "question": "Những chữ đầu của nhóm từ ACL là tên viết tắt của:",
     "answers": [
@@ -12,14 +12,14 @@
     "correct": 2
   },
   "tn454CvyHQ3RLH9nuoZUU9": {
-    "index": 1,
+    "index": 2,
     "id": "tn454CvyHQ3RLH9nuoZUU9",
     "question": "Nên cài mức truy cập mặc định là mức nào sau đây?",
     "answers": ["Full access", "No access", "Read access", "Write access"],
     "correct": 1
   },
   "3faDmn2iWzdTFgeaiwcEKY": {
-    "index": 2,
+    "index": 3,
     "id": "3faDmn2iWzdTFgeaiwcEKY",
     "question": "Sau khi một user được định danh và xác thực hệ thống, để cho phép user sử dụng tài nguyên bạn phải thực hiện điều gì?",
     "answers": [
@@ -31,14 +31,14 @@
     "correct": 0
   },
   "mME8eBufUZpbKWBLokuBue": {
-    "index": 3,
+    "index": 4,
     "id": "mME8eBufUZpbKWBLokuBue",
     "question": "Quyền truy cập nào cho phép ta lưu giữ một tập tin?",
     "answers": ["Đọc", "Sao chép", "Hiệu chỉnh", "Ghi"],
     "correct": 3
   },
   "iMHWeNpZhTGfo37zmoDcnd": {
-    "index": 4,
+    "index": 5,
     "id": "iMHWeNpZhTGfo37zmoDcnd",
     "question": "Quyền truy cập nào cho phép ta hiệu chỉnh thuộc tính của một tập tin?",
     "answers": [
@@ -50,7 +50,7 @@
     "correct": 0
   },
   "qRB3ukaw1X1RBhbgeXs7YX": {
-    "index": 5,
+    "index": 6,
     "id": "qRB3ukaw1X1RBhbgeXs7YX",
     "question": "Các quyền truy cập tối đa nên dành cho user là gì ?",
     "answers": [
@@ -62,7 +62,7 @@
     "correct": 2
   },
   "wLc5uQcmqYP6Yt1ueVrDtG": {
-    "index": 6,
+    "index": 7,
     "id": "wLc5uQcmqYP6Yt1ueVrDtG",
     "question": "Chính sách tài khoản nào nên được thiết lập để ngăn chặn các cuộc tấn công ác ý vào tài khoản của user?",
     "answers": [
@@ -74,7 +74,7 @@
     "correct": 3
   },
   "qzCPBUKZ7jZPWnDLpeveAj": {
-    "index": 7,
+    "index": 8,
     "id": "qzCPBUKZ7jZPWnDLpeveAj",
     "question": "Sau khi một user đã được định danh (identifed), điều gì cần phải làm trước khi họ log vào một mạng máy tính ?",
     "answers": [
@@ -86,14 +86,14 @@
     "correct": 0
   },
   "4JAEGUeNRPMGg6afyp4JcS": {
-    "index": 8,
+    "index": 9,
     "id": "4JAEGUeNRPMGg6afyp4JcS",
     "question": "Chiều dài tối thiểu của mật khẩu cần phải là :",
     "answers": ["12 đến 15 ký tự", "3 đến 5 ký tự", "8 ký tự", "1 đến 3 ký tự"],
     "correct": 2
   },
   "oiVhWQNmdQMH8AFxWrFJTB": {
-    "index": 9,
+    "index": 10,
     "id": "oiVhWQNmdQMH8AFxWrFJTB",
     "question": "Điều gì cần được thực hiện đối với tập tin mật khẩu để ngăn chặn một người dùng trái phép crack vào các nội dung ?",
     "answers": [
@@ -105,14 +105,14 @@
     "correct": 1
   },
   "qG6xxVqUa7aN8Bur8fRfpD": {
-    "index": 10,
+    "index": 11,
     "id": "qG6xxVqUa7aN8Bur8fRfpD",
     "question": "Một IP flood theo các host phát tán trực tiếp đến một Web server là một ví dụ của loại tấn công gì ?",
     "answers": ["Trojan Hors", "Sâu", "Tấn công IP", "DoS phân tán (DDoS)"],
     "correct": 3
   },
   "a9VHqH6PMZsjJZLQLhsbNh": {
-    "index": 11,
+    "index": 12,
     "id": "a9VHqH6PMZsjJZLQLhsbNh",
     "question": "Để ngăn tấn công DoS, một quản trị mạng chặn nguồn IP với tường lửa, nhưng tấn công vẫn tiếp diễn. Điều gì có khả năng xảy ra nhất ?",
     "answers": [
@@ -124,7 +124,7 @@
     "correct": 1
   },
   "eyujbhvsMVV1nnwRwN21JW": {
-    "index": 12,
+    "index": 13,
     "id": "eyujbhvsMVV1nnwRwN21JW",
     "question": "Cách bảo vệ nào sau đây là tốt nhất để chống lại tấn công DoS kiểu làm tràn băng thông và bộ đệm của hệ thống",
     "answers": [
@@ -136,14 +136,14 @@
     "correct": 3
   },
   "6RbJTHgoVnCy5WNY2mbttv": {
-    "index": 13,
+    "index": 14,
     "id": "6RbJTHgoVnCy5WNY2mbttv",
     "question": "Các loại khoá mật mã nào sau đây dễ bị crack nhất ?",
     "answers": ["128 bit", "40 bit", "256 bit", "56 bit"],
     "correct": 1
   },
   "vgkHK4YpR724dMYfrw8KoB": {
-    "index": 14,
+    "index": 15,
     "id": "vgkHK4YpR724dMYfrw8KoB",
     "question": "Cách nào sau đây là tốt nhất để chống lại điểm yếu bảo mật trong phần mềm HĐH ?",
     "answers": [
@@ -155,14 +155,14 @@
     "correct": 0
   },
   "jjqaaUXhaf58ftcscqMUzZ": {
-    "index": 15,
+    "index": 16,
     "id": "jjqaaUXhaf58ftcscqMUzZ",
     "question": "Các mật khẩu nào sau đây là khó phá nhất đối với một hacker ?",
     "answers": ["password83", "reception", "!$aLtNb83", "LaT3r"],
     "correct": 2
   },
   "nEt7dYphtHNePYuUxUH2nF": {
-    "index": 16,
+    "index": 17,
     "id": "nEt7dYphtHNePYuUxUH2nF",
     "question": "Một người dùng đã mua một máy tính xách tay đã nhiễm virus.Trên máy không chứa phần mềm Antivirus và chưa được kết nối với mạng.Cách tốt nhất để sửa chữa máy tính xách tay là gì ?",
     "answers": [
@@ -174,21 +174,21 @@
     "correct": 1
   },
   "mfuu4TB8awd3uKk9Cerbre": {
-    "index": 17,
+    "index": 18,
     "id": "mfuu4TB8awd3uKk9Cerbre",
     "question": "Các tập tin nào sau đây có khả năng chứa virus nhất ?",
     "answers": ["database.dat", "bigpic.jpeg", "note.txt", "picture.gif.exe"],
     "correct": 3
   },
   "5M8K3yFBLHubpVn6edjr3Y": {
-    "index": 18,
+    "index": 19,
     "id": "5M8K3yFBLHubpVn6edjr3Y",
     "question": "Loại mã nguồn độc hại nào có thể được cài đặt song không gây tác hại cho đến khi một hoạt động nào đó được kích hoạt ?",
     "answers": ["Sâu", "Ngựa trojan", "Logic bomb", "Stealth virus"],
     "correct": 1
   },
   "vXNNdZeiTNN8NNsaDkzqeN": {
-    "index": 19,
+    "index": 20,
     "id": "vXNNdZeiTNN8NNsaDkzqeN",
     "question": "Trong suốt quá trình kiểm định một bản ghi hệ thống máy chủ, các mục nào sau đây có thể được xem như là một khả năng đe dọa bảo mật ?",
     "answers": [
@@ -200,14 +200,14 @@
     "correct": 1
   },
   "hThCmni1dhGyyhAo4ibMsS": {
-    "index": 20,
+    "index": 21,
     "id": "hThCmni1dhGyyhAo4ibMsS",
     "question": "Phương pháp thông tin truy cập từ xa nào được xem như kết nối điển hình đến Internet mọi lúc, nó làm gia tăng rủi ro bảo mật do luôn mở đối với mọi cuộc tấn công ?",
     "answers": ["Cable modem & DSL", "Dial-up", "Wireless", "SSH"],
     "correct": 0
   },
   "xtUvP8RSExXXNfVni4jrUd": {
-    "index": 21,
+    "index": 22,
     "id": "xtUvP8RSExXXNfVni4jrUd",
     "question": "Tính năng bảo mật nào có thể được sử dụng đối với một máy trạm quay số truy cập từ xa sử dụng một username và mật khẩu ?",
     "answers": [
@@ -219,21 +219,21 @@
     "correct": 3
   },
   "wBwEcA91QqUTWqBNUNDtL6": {
-    "index": 22,
+    "index": 23,
     "id": "wBwEcA91QqUTWqBNUNDtL6",
     "question": "Tiện ích nào sau đây là một phương thức bảo mật truy cập từ xa tốt hơn telnet ?",
     "answers": ["SSL", "SSH", "IPSec", "VPN"],
     "correct": 1
   },
   "uDaCLKUveqDmGFhDt3tFg7": {
-    "index": 23,
+    "index": 24,
     "id": "uDaCLKUveqDmGFhDt3tFg7",
     "question": "Các giao thức đường hầm nào sau đây chỉ làm việc trên các mạng IP ?",
     "answers": ["SLIP", "IPX", "L2TP", "PPTP"],
     "correct": 2
   },
   "sDRpCrujumMFAcwuMKJMB3": {
-    "index": 24,
+    "index": 25,
     "id": "sDRpCrujumMFAcwuMKJMB3",
     "question": "Mục đích của một máy chủ RADIUS là",
     "answers": [
@@ -245,42 +245,42 @@
     "correct": 2
   },
   "uXhepUJnMdeisqFpJYJYv2": {
-    "index": 25,
+    "index": 26,
     "id": "uXhepUJnMdeisqFpJYJYv2",
     "question": "Các giao thức xác thực nào sau đây được sử dụng trong các mạng không dây ?",
     "answers": ["802.1X", "802.11b", "802.11a", "803.1"],
     "correct": 1
   },
   "cZrUPSADBGxaCzS3mTHjWV": {
-    "index": 26,
+    "index": 27,
     "id": "cZrUPSADBGxaCzS3mTHjWV",
     "question": "Các giao thức nào sau đây làm việc trên lớp IP để bảo vệ thông tin IP trên mạng?",
     "answers": ["IPX", "IPSec", "SSH", "TACACS+"],
     "correct": 1
   },
   "e6N2sKB4xpDpET9iCEtAv3": {
-    "index": 27,
+    "index": 28,
     "id": "e6N2sKB4xpDpET9iCEtAv3",
     "question": "LAC ( L2TP Access Control) và LNS ( L2TP Network Server)) là các thành phần của giao thức đường hầm nào ?",
     "answers": ["IPSec", "PPP", "PPTP", "L2TP"],
     "correct": 3
   },
   "nmxr4QB3B1xkioccjFqVqD": {
-    "index": 28,
+    "index": 29,
     "id": "nmxr4QB3B1xkioccjFqVqD",
     "question": "Giao thức được sử dụng rộng rãi nhất để truy cập kiểu quay số đến một máy chủ từ xa là",
     "answers": ["SLIP", "PPP", "RAS", "Telnet"],
     "correct": 2
   },
   "a3BjvtvRtGQFZc9Bbu1hgP": {
-    "index": 29,
+    "index": 30,
     "id": "a3BjvtvRtGQFZc9Bbu1hgP",
     "question": "Kỹ thuật nào được sử dụng để bảo đảm thông tin liên lạc qua một mạng không được bảo mật ?",
     "answers": ["Telnet", "SLIP", "VPN", "PPP"],
     "correct": 2
   },
   "pp4MM5dNMrfbZekmxCoVg5": {
-    "index": 30,
+    "index": 31,
     "id": "pp4MM5dNMrfbZekmxCoVg5",
     "question": "Các thiết bị nào sau đây có thể sử dụng được trên mạng không dây ?",
     "answers": [
@@ -292,7 +292,7 @@
     "correct": 3
   },
   "rE5dmXeQSwP1Jcz6yTMnoi": {
-    "index": 31,
+    "index": 32,
     "id": "rE5dmXeQSwP1Jcz6yTMnoi",
     "question": "Thiết bị nào được sử dụng để cho phép các máy trạm không dây truy cập vào một mạng LAN rộng ?",
     "answers": [
@@ -304,28 +304,28 @@
     "correct": 2
   },
   "f9N4axeYwF9wWHcCd8HtE8": {
-    "index": 32,
+    "index": 33,
     "id": "f9N4axeYwF9wWHcCd8HtE8",
     "question": "Các chuẩn giao thức mạng không dây nào sau đây phân phối nội dung Wireless Markup Language (WML) đến các ứng dụng Web trên các thiết bị cầm tay (PDA)?",
     "answers": ["WAP", "WEP", "802.11g", "SSL"],
     "correct": 0
   },
   "fMBujDCBrsRN6soo5erirf": {
-    "index": 33,
+    "index": 34,
     "id": "fMBujDCBrsRN6soo5erirf",
     "question": "Các chuẩn giao thức mạng không dây IEEE nào sau đây là phổ biến nhất ?",
     "answers": ["803.11b", "802.11g", "802.11a", "802.11b"],
     "correct": 1
   },
   "u4D28Sg6VF1LqtUMSdFped": {
-    "index": 34,
+    "index": 35,
     "id": "u4D28Sg6VF1LqtUMSdFped",
     "question": "Mức mã hóa WEP nào nên được thiết lập trên một mạng 802.11b ?",
     "answers": ["128 bit", "40 bit", "28 bit", "16 bit"],
     "correct": 0
   },
   "nyW4q4778EhiMEPU7S7iSe": {
-    "index": 35,
+    "index": 36,
     "id": "nyW4q4778EhiMEPU7S7iSe",
     "question": "Cơ cấu bảo mật mạng không dây nào sau đây là ít an toàn nhất ?",
     "answers": [
@@ -337,7 +337,7 @@
     "correct": 1
   },
   "7bQChJAkf4NGjSbdwiC9mX": {
-    "index": 36,
+    "index": 37,
     "id": "7bQChJAkf4NGjSbdwiC9mX",
     "question": "Bộ lọc địa chỉ MAC được định nghĩa như :",
     "answers": [
@@ -349,7 +349,7 @@
     "correct": 1
   },
   "mQCt81ZPaz1QEKQgdoHKJ3": {
-    "index": 37,
+    "index": 38,
     "id": "mQCt81ZPaz1QEKQgdoHKJ3",
     "question": "Phương pháp điều khiển truy cập có hiệu quả và an toàn nhất đối với mạng không dây là:",
     "answers": [
@@ -361,35 +361,35 @@
     "correct": 2
   },
   "4GxboFwP4fVATAMj6tAq6j": {
-    "index": 38,
+    "index": 39,
     "id": "4GxboFwP4fVATAMj6tAq6j",
     "question": "Cơ cấu bảo mật nào sau đây được sử dụng với chuẩn không dây WAP ?",
     "answers": ["WTLS", "SSL", "HTTPS", "Mã hóa WEP"],
     "correct": 0
   },
   "i3u1FckUTWpNJ4mkWKsVCx": {
-    "index": 39,
+    "index": 40,
     "id": "i3u1FckUTWpNJ4mkWKsVCx",
     "question": "Thiết bị nào sử dụng bộ lọc gói và các quy tắc truy cập để kiểm soát truy cập đến các mạng riêng từ các mạng công cộng , như là Internet ?",
     "answers": ["Điểm truy cập không dây", "Router", "Tường lửa", "Switch"],
     "correct": 2
   },
   "35o3ggyhS3awa6FA3DsghM": {
-    "index": 40,
+    "index": 41,
     "id": "35o3ggyhS3awa6FA3DsghM",
     "question": "Thiết bị nào cho phép ta kết nối đến một mạng LAN của công ty qua Internet thông qua một kênh được mã hóa an toàn ?",
     "answers": ["VPN", "WEP", "Modem", "Telnet"],
     "correct": 0
   },
   "bLMgCzpjiWjCRDkdyvgFjf": {
-    "index": 41,
+    "index": 42,
     "id": "bLMgCzpjiWjCRDkdyvgFjf",
     "question": "Ứng dụng mạng nào có thể được sử dụng để phân tích và kiểm tra lưu lượng mạng ?",
     "answers": ["IDS", "FTP", "Router", "Sniffer"],
     "correct": 3
   },
   "e3RgtXzP2dA1n1k23KejZB": {
-    "index": 42,
+    "index": 43,
     "id": "e3RgtXzP2dA1n1k23KejZB",
     "question": "Cần phải làm gì để bảo vệ dữ liệu trên một máy tính xách tay nếu nó bị lấy cắp ?",
     "answers": [
@@ -401,7 +401,7 @@
     "correct": 3
   },
   "d6sTBEMsiE7GgJsTw1nZMi": {
-    "index": 43,
+    "index": 44,
     "id": "d6sTBEMsiE7GgJsTw1nZMi",
     "question": "Ta phải làm gì để ngăn chặn một ai đó tình cờ ghi đè lên dữ liệu trên một băng từ ?",
     "answers": [
@@ -413,28 +413,28 @@
     "correct": 2
   },
   "bQsNWgHwvhiEzR3YbjFYoE": {
-    "index": 44,
+    "index": 45,
     "id": "bQsNWgHwvhiEzR3YbjFYoE",
     "question": "Phương tiện nào sau đây không bị ảnh hưởng bởi từ tính ?",
     "answers": ["Đĩa mềm", "CD-ROM", "Flash card", "Băng từ"],
     "correct": 1
   },
   "35G8zWxdMvLVysWhMqeeyG": {
-    "index": 45,
+    "index": 46,
     "id": "35G8zWxdMvLVysWhMqeeyG",
     "question": "Yếu tố nào cần được sử dụng kết hợp với một thẻ thông minh để xác thực ?",
     "answers": ["PIN", "Quét võng mạc", "Mã hóa khóa", "Thẻ nhớ"],
     "correct": 0
   },
   "vuEpZVbzRDwmyX9HnW625G": {
-    "index": 46,
+    "index": 47,
     "id": "vuEpZVbzRDwmyX9HnW625G",
     "question": "Loại media nào sau đây không phải là một thiết bị cơ động được ?",
     "answers": ["Đĩa mềm", "Ổ đĩa đĩa CD", "Thẻ thông minh", "Băng từ"],
     "correct": 1
   },
   "gmxa1YgGgiYpXogKK5Uodz": {
-    "index": 47,
+    "index": 48,
     "id": "gmxa1YgGgiYpXogKK5Uodz",
     "question": "Các thiết bị hay các ứng dụng bảo mật nào sau đây nên được sử dụng để theo dõi và cảnh báo các quản trị mạng về truy cập trái phép ?",
     "answers": [
@@ -446,7 +446,7 @@
     "correct": 2
   },
   "gRaKHGPcQk5VPYMjFVddcE": {
-    "index": 48,
+    "index": 49,
     "id": "gRaKHGPcQk5VPYMjFVddcE",
     "question": "Vùng nào của cấu trúc liên kết bảo mật mạng chứa các máy chủ Intenet, như là web, FTP, và các máy chủ email ?",
     "answers": ["DMZ", "VLAN", "VPN", "Intranet"],
@@ -454,7 +454,7 @@
     "note": "demilitarized zone"
   },
   "2UDwXvR1vWfWbATyhk1ZML": {
-    "index": 49,
+    "index": 50,
     "id": "2UDwXvR1vWfWbATyhk1ZML",
     "question": "Loại mạng nào mô tả cấu hình mạng bên trong của một công ty dùng cho mô hình kinh doanh B2B ( Business to Business) ?",
     "answers": ["VLAN", "Intranet", "Extranet", "VPN"],
@@ -462,7 +462,7 @@
     "note": "Mạng intranet hay còn gọi là mạng nội bộ, là một mạng có cấu trúc thượng tầng tương tự như mạng LAN. Tuy nhiên, sự khác biệt lớn nhất ở đây là thông tin trong mạng là nội bộ. Có nghĩa là tùy theo cấu hình của nhà quản trị mà mỗi thông tin được hay không được cho phép gửi ra bên ngoài mạng."
   },
   "qSaLBjYWMc9PCZf1HzJQJF": {
-    "index": 50,
+    "index": 51,
     "id": "qSaLBjYWMc9PCZf1HzJQJF",
     "question": "Dịch vụ mạng nào cho phép các địa chỉ mạng bên trong được “che dấu”( hidden) khỏi các mạng bên ngoài và cho phép vài host của mạng bên trong sử dụng các địa chỉ trùng với mạng bên ngoài ?",
     "answers": ["NAT", "VPN", "VLAN", "IP spoofing"],
@@ -470,21 +470,21 @@
     "note": "Network address translation - NAT: Biên dịch địa chỉ mạng trong mạng máy tính là quá trình thay đổi thông tin địa chỉ IP trong gói tin đang được truyền qua một thiết bị định tuyến. Loại NAT đơn giản nhất cung cấp việc biên dịch một - một cho một địa chỉ IP. "
   },
   "s84S9HaPvQySVCB1fPA38a": {
-    "index": 51,
+    "index": 52,
     "id": "s84S9HaPvQySVCB1fPA38a",
     "question": "Công nghệ nào được sử dụng để chia một mạng bên trong thành mạng logic nhỏ hơn, dễ sử dụng hơn ?",
     "answers": ["NAT", "Tunneling", "VPN", "VLAN"],
     "correct": 3
   },
   "8Y85NSBhtW23NtusEeRRDE": {
-    "index": 52,
+    "index": 53,
     "id": "8Y85NSBhtW23NtusEeRRDE",
     "question": "Không sử dụng một liên kết chuyên dụng , phương pháp tốt nhất để kết nối hai mạng được định vị trong các văn phòng có khoảng cách địa lý xa nhau là gì ?",
     "answers": ["VLAN", "Tường lửa", "DMZ", "VPN"],
     "correct": 3
   },
   "adEHMmqNUTcXtwQjb8uUy7": {
-    "index": 53,
+    "index": 54,
     "id": "adEHMmqNUTcXtwQjb8uUy7",
     "question": "Sau khi cố gắng login đến một trạm làm việc trong 3 lần, một user thấy đã bị khóa bên ngoài hệ thống và không thể thực hiện bất kỳ nổ lực nào hơn nữa. Vấn đề này phù hợp nhất với điều gì ?",
     "answers": [
@@ -496,7 +496,7 @@
     "correct": 3
   },
   "t7fDPaV8LrnA5LW7L1MSws": {
-    "index": 54,
+    "index": 55,
     "id": "t7fDPaV8LrnA5LW7L1MSws",
     "question": "Đặc tính nào của các thiết bị mạng như router hay switch, cho phép điều khiển truy cập dữ liệu trên mạng ?",
     "answers": [
@@ -509,7 +509,7 @@
     "note": " Access Control List"
   },
   "9LEdWmvDGZHSHn7tp8BRac": {
-    "index": 55,
+    "index": 56,
     "id": "9LEdWmvDGZHSHn7tp8BRac",
     "question": "Phần nào của một thiết bị phần cứng có thể được nâng cấp để cung cấp khả năng bảo mật tốt hơn và đáng tin hơn ?",
     "answers": [
@@ -522,7 +522,7 @@
     "note": "https://www.micron.com/products/nonvolatile-memory-security"
   },
   "aoHC6QVHS77uh74ZpsKJjE": {
-    "index": 56,
+    "index": 57,
     "id": "aoHC6QVHS77uh74ZpsKJjE",
     "question": "Giao thức nào sau đây cần xóa trên thiết bị mạng quan trọng như router ?",
     "answers": ["TCP/IP", "ICMP", "IPX/SPX", "RIP"],
@@ -530,7 +530,7 @@
     "note": "Internet Control Message Protocol, là một giao thức của gói Internet Protocol. Giao thức này được các thiết bị mạng như router dùng để gửi đi các thông báo lỗi chỉ ra một dịch vụ có tồn tại hay không, hoặc một địa chỉ host hay router có tồn tại hay không"
   },
   "wZ7NhErn7qFU2V4PskoBiJ": {
-    "index": 57,
+    "index": 58,
     "id": "wZ7NhErn7qFU2V4PskoBiJ",
     "question": "Các giao thức nào sau đây cần xóa trên một máy chủ email để ngăn chặn một user trái phép khai thác các điểm yếu bảo mật từ phần mềm giám sát mạng ?",
     "answers": ["IMAP", "POP3", "TCP/IP", "SNMP"],
@@ -538,7 +538,7 @@
     "note": " Simple Network Management Protocol: là một tập hợp các giao thức không chỉ cho phép kiểm tra các thiết bị mạng như router, switch hay server có đang vận hành mà còn hỗ trợ vận hành các thiết bị này một cách tối ưu, ngoài ra SNMP còn cho phép quản lý các thiết bị mạng từ xa."
   },
   "4Pz6hwivUq2CCkGAC5QHFL": {
-    "index": 58,
+    "index": 59,
     "id": "4Pz6hwivUq2CCkGAC5QHFL",
     "question": "Điều gì cần được thực hiện với một email server để ngăn chặn user bên ngoài gởi email thông qua nó ?",
     "answers": [
@@ -551,7 +551,7 @@
     "note": "Simple Mail Transfer Protocol - giao thức truyền tải thư tín đơn giản) là một chuẩn truyền tải thư điện tử qua mạng Internet"
   },
   "bWL1mvcZ4h9RNEULKCSNxD": {
-    "index": 59,
+    "index": 60,
     "id": "bWL1mvcZ4h9RNEULKCSNxD",
     "question": "Điều gì có thể được thiết lập trên một server DHCP để ngăn chặn các máy trạm trái phép lấy được một địa chỉ IP từ server ?",
     "answers": [
@@ -564,28 +564,28 @@
     "note": "Lightweight Directory Access Protocol là một giao thức ứng dụng truy cập các cấu trúc thư mục."
   },
   "bzz7G7z3QnEscE372rPnrW": {
-    "index": 60,
+    "index": 61,
     "id": "bzz7G7z3QnEscE372rPnrW",
     "question": "Văn bản sau khi được mã hóa, được gọi là gì ?",
     "answers": ["Chứng chỉ", "Mật mã đối xứng", "Khóa công khai", "Văn bản mã"],
     "correct": 3
   },
   "4TgZhX12rm2zyS3VamAz7M": {
-    "index": 61,
+    "index": 62,
     "id": "4TgZhX12rm2zyS3VamAz7M",
     "question": "Đặc tính nào sau đây không thuộc chức năng bảo mật thông tin trong các hệ thống mật mã ?",
     "answers": ["Hiệu quả", "Bảo mật", "Toàn vẹn", "Không chối từ"],
     "correct": 0
   },
   "iMMQw7Rd59EBF8Pjng46ua": {
-    "index": 62,
+    "index": 63,
     "id": "iMMQw7Rd59EBF8Pjng46ua",
     "question": "Ở hệ mật mã nào người gửi và người nhận thông điệp sử dụng cùng một khóa mã khi mã hóa và giải mã ?",
     "answers": ["Không đối xứng", "Đối xứng", "RSA", "Diffie-Hellman"],
     "correct": 1
   },
   "1qwYp47CyNVPRMN9QyikEP": {
-    "index": 63,
+    "index": 64,
     "id": "1qwYp47CyNVPRMN9QyikEP",
     "question": "Chuẩn nào sau đây được chính phủ Mỹ sử dụng thay thế cho DES như là một chuẩn mã hoá dữ liệu?",
     "answers": ["DSA", "ECC", "3DES", "AES"],
@@ -593,14 +593,14 @@
     "note": " Advanced Encryption Standard là một thuật toán mã hóa khối được chính phủ Hoa kỳ áp dụng làm tiêu chuẩn mã hóa. Giống như tiêu chuẩn tiền nhiệm DES, AES được kỳ vọng áp dụng trên phạm vi thế giới và đã được nghiên cứu rất kỹ lưỡng"
   },
   "5gNHBRYbbSMjgFUrQUHF4y": {
-    "index": 64,
+    "index": 65,
     "id": "5gNHBRYbbSMjgFUrQUHF4y",
     "question": "Ở hệ mật mã nào người gửi và người nhận thông điệp sử dụng các khóa khác nhau khi mã hóa và giải mã ?",
     "answers": ["Skipjack", "Blowfish", "Không đối xứng", "Đối xứng"],
     "correct": 2
   },
   "39bxFLYztZufadh3zDt676": {
-    "index": 65,
+    "index": 66,
     "id": "39bxFLYztZufadh3zDt676",
     "question": "Các giao thức mã hóa và các thuật toán nào sau đây được sử dụng như là nền tảng của hạ tầng cơ sở hạ tầng khóa công khai (PKI)?",
     "answers": ["MD4", "SHA", "Diffie-Hellman", "Skipjack"],
@@ -608,7 +608,7 @@
     "note": "Phương pháp trao đổi khóa Diffie–Hellman cho phép hai bên (người, thực thể giao tiếp) thiết lập một khóa bí mật chung để mã hóa dữ liệu sử dụng trên kênh truyền thông không an toàn mà không cần có sự thỏa thuận trước về khóa bí mật giữa hai bên. Khóa bí mật tạo ra sẽ được sử dụng để mã hóa dữ liệu với phương pháp mã hóa khóa đối xứng."
   },
   "qieuBm4QoiayiXG918Jcs7": {
-    "index": 66,
+    "index": 67,
     "id": "qieuBm4QoiayiXG918Jcs7",
     "question": "Khi giá trị hàm băm của hai thông điệp khác nhau có giá trị tương tự nhau, ta gọi hiện tượng này là gì ?",
     "answers": [
@@ -620,7 +620,7 @@
     "correct": 1
   },
   "93gLaACRGvrTL51omRPeS1": {
-    "index": 67,
+    "index": 68,
     "id": "93gLaACRGvrTL51omRPeS1",
     "question": "Thực thể nào sau đây cho phép phát hành , quản lý, và phân phối các chứng chỉ số ?",
     "answers": [
@@ -632,7 +632,7 @@
     "correct": 0
   },
   "c6XMFFr833Jubd6eUfiBHK": {
-    "index": 68,
+    "index": 69,
     "id": "c6XMFFr833Jubd6eUfiBHK",
     "question": "Tính hợp lệ của một chứng chỉ dựa vào điều gì ?",
     "answers": [
@@ -644,7 +644,7 @@
     "correct": 0
   },
   "1QoWHfZL41tWdk8K5fKz9d": {
-    "index": 69,
+    "index": 70,
     "id": "1QoWHfZL41tWdk8K5fKz9d",
     "question": "Trong một mô hình phân cấp ủy thác giữa các tổ chức chứng thực và các người dùng cuối, mô hình nào sau đây được coi là xu hướng chung của việc phát hành chứng chỉ?",
     "answers": [
@@ -656,7 +656,7 @@
     "correct": 3
   },
   "csLi256Uuh3e3JVqBQxFya": {
-    "index": 70,
+    "index": 71,
     "id": "csLi256Uuh3e3JVqBQxFya",
     "question": "Khi ta lưu giữ một khóa cá nhân trên đĩa cứng cục bộ, làm thế nào để bảo đảm là nó được bảo mật ?",
     "answers": [
@@ -668,7 +668,7 @@
     "correct": 0
   },
   "3qXtFZqoWSD8CLaDYhAFnc": {
-    "index": 71,
+    "index": 72,
     "id": "3qXtFZqoWSD8CLaDYhAFnc",
     "question": "Cách nào sau đây được coi là an toàn nhất để lưu trữ một khóa cá nhân ?",
     "answers": [
@@ -680,7 +680,7 @@
     "correct": 2
   },
   "gERN97uwioDxvvcqoPGyNZ": {
-    "index": 72,
+    "index": 73,
     "id": "gERN97uwioDxvvcqoPGyNZ",
     "question": "Một quản trị mạng mới đây đã bị sa thải khỏi công ty. Cần phải làm gì với chứng chỉ hiện hành của họ ?",
     "answers": [
@@ -692,7 +692,7 @@
     "correct": 1
   },
   "azqqYUPJAMhNc5MiMLWbK8": {
-    "index": 73,
+    "index": 74,
     "id": "azqqYUPJAMhNc5MiMLWbK8",
     "question": "Các phương pháp sinh trắc học nào sau đây được coi là an toàn nhất ?",
     "answers": [
@@ -704,7 +704,7 @@
     "correct": 2
   },
   "bz5oj1qvzEZVofRLPeRvq8": {
-    "index": 74,
+    "index": 75,
     "id": "bz5oj1qvzEZVofRLPeRvq8",
     "question": "Khi kết thúc công việc trên máy tính xách tay và ra ngoài khoảng 1 tiếng vào buổi trưa. Ta nên làm gì trước khi ra ngoài ?",
     "answers": [
@@ -716,7 +716,7 @@
     "correct": 3
   },
   "tTSk5C4g5NMK1q8GuimYEJ": {
-    "index": 75,
+    "index": 76,
     "id": "tTSk5C4g5NMK1q8GuimYEJ",
     "question": "Một user gọi điện đến cho ta (với tư cách là người quản lý) thông báo họ bị mất mật khẩu và cần truy cập ngay lập tức. Ta nên làm gì ?",
     "answers": [
@@ -728,7 +728,7 @@
     "correct": 2
   },
   "4GuZ8gRqzMA5XXJE1HvsFr": {
-    "index": 76,
+    "index": 77,
     "id": "4GuZ8gRqzMA5XXJE1HvsFr",
     "question": "Trong khoảng thời gian nguồn điện bị sụt áp do quá tải bất thường, các thiết bị nào sau đây là hữu dụng nhất trong việc duy trì các mức nguồn điện thích hợp ?",
     "answers": [
@@ -740,7 +740,7 @@
     "correct": 2
   },
   "bFf2NFNbmTVBp1v7RynaRV": {
-    "index": 77,
+    "index": 78,
     "id": "bFf2NFNbmTVBp1v7RynaRV",
     "question": "Quản trị văn phòng của bạn đang được huấn luyện để thực hiện sao lưu máy chủ. Phương pháp xác thực nào là lý tưởng đối với tình huống này ?",
     "answers": ["MAC", "DAC", "RBAC", "Các mã thông báo bảo mật"],
@@ -748,7 +748,7 @@
     "note": "Message authentication code"
   },
   "sFb7dFbnGMRQS4zJd2n1zg": {
-    "index": 78,
+    "index": 79,
     "id": "sFb7dFbnGMRQS4zJd2n1zg",
     "question": "Phương pháp xác thực nào sử dụng một KDC để thực hiện xác thực ?",
     "answers": ["Chap", "Kerberos", "Sinh trắc học", "Thẻ thông minh"],
@@ -756,7 +756,7 @@
     "note": " Kerberos sử dụng một bên thứ ba tham gia vào quá trình nhận thực gọi là 'trung tâm phân phối khóa' (tiếng Anh: key distribution center - KDC). KDC bao gồm hai chức năng: 'máy chủ xác thực' (authentication server - AS) và 'máy chủ cung cấp vé' (ticket granting server - TGS). 'Vé' trong hệ thống Kerberos chính là các chứng thực chứng minh tính hợp lệ của người sử dụng."
   },
   "5bdQcF2P68o4RML95YQ4gH": {
-    "index": 79,
+    "index": 80,
     "id": "5bdQcF2P68o4RML95YQ4gH",
     "question": "Phương pháp xác thực nào gởi trả lại một “yêu cầu” (request) cho máy trạm và” yêu cầu” đó được mã hóa và gởi trở lại máy chủ ?",
     "answers": ["Kerberos", "Các mã thông báo bảo mật", "DAC", "CHAP"],
@@ -764,7 +764,7 @@
     "note": "the Challenge-Handshake Authentication Protocol(CHAP) authenticates a user or network host to an authenticating entity. That entity may be, for example, an Internet service provider."
   },
   "ix7pjcfxnCXzcGzJk8ymkH": {
-    "index": 80,
+    "index": 81,
     "id": "ix7pjcfxnCXzcGzJk8ymkH",
     "question": "Qui trình xác thực nào sử dụng nhiều hơn một yếu tố xác thực để logon ?",
     "answers": [
@@ -776,28 +776,28 @@
     "correct": 0
   },
   "bAcr5qGa2qAZ9fBqudr55t": {
-    "index": 81,
+    "index": 82,
     "id": "bAcr5qGa2qAZ9fBqudr55t",
     "question": "Các giao thức hay các dịch vụ nào sau đây nên loại bỏ trong mạng nếu có thể ?",
     "answers": ["Email", "Telnet", "WWW", "ICMP"],
     "correct": 3
   },
   "mmHQvR5hvnREywx1Wvj4wc": {
-    "index": 82,
+    "index": 83,
     "id": "mmHQvR5hvnREywx1Wvj4wc",
     "question": "Mạng nào sau đây không phải là một vùng bảo mật ?",
     "answers": ["Internet", "Intranet", "Extranet", "NAT"],
     "correct": 3
   },
   "tJmyPPw5LQZaUKLXc1hyQx": {
-    "index": 83,
+    "index": 84,
     "id": "tJmyPPw5LQZaUKLXc1hyQx",
     "question": "Các giao thức nào sau đây cho phép một tổ chức đưa một địa chỉ TCP/IP đơn lên Internet ?",
     "answers": ["NAT", "VLAN", "DMZ", "Extranet"],
     "correct": 0
   },
   "tipUTrBQjbCcdpqKZ4ckRp": {
-    "index": 84,
+    "index": 85,
     "id": "tipUTrBQjbCcdpqKZ4ckRp",
     "question": "Phương pháp quét võng mạc thích hợp nhất đối với các dịch vụ nào sau đây ?",
     "answers": [
@@ -809,7 +809,7 @@
     "correct": 2
   },
   "rXENuoGjqi258f2iHrb6wy": {
-    "index": 85,
+    "index": 86,
     "id": "rXENuoGjqi258f2iHrb6wy",
     "question": "Công nghệ nào sau đây dựa vào thuộc tính vật lý của user để xác thực ?",
     "answers": [
@@ -821,14 +821,14 @@
     "correct": 1
   },
   "58PGXuUkAJgQTgWoskmRvC": {
-    "index": 86,
+    "index": 87,
     "id": "58PGXuUkAJgQTgWoskmRvC",
     "question": "Kỹ thuật cho phép tạo kết nối ảo giữa hai mạng sử dụng một giao thức bảo mật được gọi là gì ?",
     "answers": ["Tunelling", "VLAN", "Internet", "Extranet"],
     "correct": 1
   },
   "mGRqpNz33tAKcbd94MnuXU": {
-    "index": 87,
+    "index": 88,
     "id": "mGRqpNz33tAKcbd94MnuXU",
     "question": "Qui trình quyết định giá trị của thông tin hay thiết bị trong một tổ chức được gọi là gì?",
     "answers": [
@@ -840,7 +840,7 @@
     "correct": 0
   },
   "rfmBN4Z9Y8cggcqQXHZst7": {
-    "index": 88,
+    "index": 89,
     "id": "rfmBN4Z9Y8cggcqQXHZst7",
     "question": "Khi được hỏi về các mối đe dọa cho công ty từ phía các hacker. Loại thông tin nào sau đây sẽ giúp ích nhiều nhất ?",
     "answers": [
@@ -852,7 +852,7 @@
     "correct": 3
   },
   "2wnoqZc6NJhnRGJXLKfG8s": {
-    "index": 89,
+    "index": 90,
     "id": "2wnoqZc6NJhnRGJXLKfG8s",
     "question": "Khi một user báo cáo rằng hệ thống của anh ta đã phát hiện một virus mới. Điều gì sau đây cần làm như là bước đầu tiên để xử lý tình huống này ?",
     "answers": [
@@ -864,7 +864,7 @@
     "correct": 3
   },
   "3sRDcUWFrj5sKTs81KsaqJ": {
-    "index": 90,
+    "index": 91,
     "id": "3sRDcUWFrj5sKTs81KsaqJ",
     "question": "Yếu tố nào sau đây được coi là hữu ích nhất trong việc kiểm soát truy cập khi bị tấn công từ bên ngoài ?",
     "answers": [
@@ -876,7 +876,7 @@
     "correct": 0
   },
   "5E9pmJyX7JpRs1fTidnxKS": {
-    "index": 91,
+    "index": 92,
     "id": "5E9pmJyX7JpRs1fTidnxKS",
     "question": "Ta muốn cài đặt một máy chủ cung cấp các dịch vụ Web đến các máy trạm thông qua Internet. Ta không muốn để lộ mạng bên trong để tránh rủi ro. Phương pháp nào để thực hiện điều này ?",
     "answers": [
@@ -888,14 +888,14 @@
     "correct": 1
   },
   "mxu7qocjsKhxuSBMvJdX8V": {
-    "index": 92,
+    "index": 93,
     "id": "mxu7qocjsKhxuSBMvJdX8V",
     "question": "Phương pháp xác thực nào cung cấp tài liệu đáng tin cậy có hiệu lực trong suốt một phiên làm việc đơn ?",
     "answers": ["Các mã thông báo", "Chứng chỉ", "Thẻ thông minh", "Kerberos"],
     "correct": 1
   },
   "mQkyENRzYJqbuwmbcdKBoq": {
-    "index": 93,
+    "index": 94,
     "id": "mQkyENRzYJqbuwmbcdKBoq",
     "question": "Loại tấn công nào làm việc truy cập của user đến các tài nguyên mạng bị từ chối?",
     "answers": [
@@ -907,14 +907,14 @@
     "correct": 0
   },
   "nTmaXwwe82vm1ojyVdrors": {
-    "index": 94,
+    "index": 95,
     "id": "nTmaXwwe82vm1ojyVdrors",
     "question": "Loại tấn công nào sử dụng nhiều hơn một máy tính để tấn công nạn nhân ?",
     "answers": ["DoS", "DDoS", "Sâu", "Tấn công UDP"],
     "correct": 1
   },
   "6Vs7Q2nQBa18WbCrmxp9h8": {
-    "index": 95,
+    "index": 96,
     "id": "6Vs7Q2nQBa18WbCrmxp9h8",
     "question": "Một máy chủ trên mạng có một chương trình đang chạy vượt quá thẩm quyền. Loại tấn công nào đã xảy ra ?",
     "answers": [
@@ -926,7 +926,7 @@
     "correct": 2
   },
   "bHzuzBVWSqAPt6FDiaRLrL": {
-    "index": 96,
+    "index": 97,
     "id": "bHzuzBVWSqAPt6FDiaRLrL",
     "question": "Nổ lực tấn công để can thiệp vào một phiên liên lạc bằng việc thêm vào một máy tính giữa hai hệ thống được gọi là một …….?",
     "answers": [
@@ -938,7 +938,7 @@
     "correct": 0
   },
   "2wX7UC4zt1fdNAjjN7UUpL": {
-    "index": 97,
+    "index": 98,
     "id": "2wX7UC4zt1fdNAjjN7UUpL",
     "question": "Ta đã phát hiện ra một chứng chỉ đã hết hiệu lực vẫn đang được sử dụng nhiều lần để giành được quyền logon. Đây là loại tấn công nào ?",
     "answers": [
@@ -950,7 +950,7 @@
     "correct": 3
   },
   "m5R22KbQ6zjfah24K6LCyG": {
-    "index": 98,
+    "index": 99,
     "id": "m5R22KbQ6zjfah24K6LCyG",
     "question": "Một kẻ tấn công cố gắng dùng địa chỉ IP để tạo một hệ thống khác trong mạng của ta nhằm giành quyền kiểm soát truy cập . Đây là loại tấn công nào ?",
     "answers": [
@@ -962,7 +962,7 @@
     "correct": 3
   },
   "vgujAc8LGo3KXLsSLA1MEP": {
-    "index": 99,
+    "index": 100,
     "id": "vgujAc8LGo3KXLsSLA1MEP",
     "question": "Một máy chủ trên mạng không chấp nhận các kết nối TCP nữa. Máy chủ thông báo rằng nó đã vượt quá giới hạn của phiên làm việc. Loại tấn công nào có thể đang xảy ra ?",
     "answers": [
@@ -974,14 +974,14 @@
     "correct": 0
   },
   "i8dxXTgvBWc8VQhcXB3AuD": {
-    "index": 100,
+    "index": 101,
     "id": "i8dxXTgvBWc8VQhcXB3AuD",
     "question": "Tấn công smurf sử dụng giao thức nào để kiểm soát ?",
     "answers": ["TCP", "IP", "UDP", "ICMP"],
     "correct": 3
   },
   "c8hm7YB2jp1sZajKHMRos7": {
-    "index": 101,
+    "index": 102,
     "id": "c8hm7YB2jp1sZajKHMRos7",
     "question": "Tổ đặc trách thông báo rằng họ đã nhận một cuộc gọi khẩn cấp từ phó chủ tịch đêm qua yêu cầu logon vào ID và mật khẩu của ông ta. Đây là loại tấn công gì ?",
     "answers": [
@@ -993,14 +993,14 @@
     "correct": 0
   },
   "8uFLmghnhams1UnaffDof5": {
-    "index": 102,
+    "index": 103,
     "id": "8uFLmghnhams1UnaffDof5",
     "question": "Hệ thống của bạn đã ngừng phản ứng lại với các lệnh của bàn phím. Lưu ý rằng điều này xảy ra khi mở bảng tính và đã quay số qua internet. Loại tấn công nào có thể đã xảy ra ?",
     "answers": ["Logic Bomb", "Sâu", "Virus", "Tấn công ACK"],
     "correct": 3
   },
   "3qWu5FVQs3yjJEWkNbTuoM": {
-    "index": 103,
+    "index": 104,
     "id": "3qWu5FVQs3yjJEWkNbTuoM",
     "question": "Loại virus tự che giấu nó bằng cách ẩn trong mã nguồn của các phần mềm antivirus được gọi là gì ?",
     "answers": [
@@ -1012,7 +1012,7 @@
     "correct": 1
   },
   "k8LLRDnrzPWoc1DN38UHrS": {
-    "index": 104,
+    "index": 105,
     "id": "k8LLRDnrzPWoc1DN38UHrS",
     "question": "Một virus được đính kèm chính nó vào boot sector của đĩa cứng và thông báo thông tin sai về kích thước các tập tin được gọi là gì ?",
     "answers": [
@@ -1024,14 +1024,14 @@
     "correct": 1
   },
   "puAwvK19Q8yzQ9k1Nie6be": {
-    "index": 105,
+    "index": 106,
     "id": "puAwvK19Q8yzQ9k1Nie6be",
     "question": "Một chương trình nằm trong một chương trình khác được cài vào hệ thống gọi là một …….",
     "answers": ["Trojan Horse", "Polymorphic virus", "Sâu", "Armored virus"],
     "correct": 0
   },
   "8p41g72mTNXt4ikfFHBSG5": {
-    "index": 106,
+    "index": 107,
     "id": "8p41g72mTNXt4ikfFHBSG5",
     "question": "Các user nội bộ báo cáo hệ thống của họ bị lây nhiễm nhiều lần. Trong mọi trường hợp virus có vẻ là cùng một loại. Thủ phạm thích hợp nhất là gì ?",
     "answers": [
@@ -1043,7 +1043,7 @@
     "correct": 0
   },
   "2V5qRspRoj297ey5kf7Fnh": {
-    "index": 107,
+    "index": 108,
     "id": "2V5qRspRoj297ey5kf7Fnh",
     "question": "Các log file trên hệ thống của bạn phát hiện một nổ lực giành quyền truy cập đến một tài khoản đơn. Nổ lực này đã không thành công vào thời điểm đó. Theo kinh nghiệm của bạn thì loại tấn công thích hợp nhất là gì ?",
     "answers": [
@@ -1055,7 +1055,7 @@
     "correct": 0
   },
   "2xvQWzbfUr1fYw8ax6B2oB": {
-    "index": 108,
+    "index": 109,
     "id": "2xvQWzbfUr1fYw8ax6B2oB",
     "question": "Một user báo cáo là anh ta đang nhận một lỗi chỉ ra rằng địa chỉ TCP/IP của anh ta đã bị sử dụng khi anh ta bật máy tính. Tấn công nào có thể đang thực hiện ?",
     "answers": [
@@ -1067,7 +1067,7 @@
     "correct": 3
   },
   "2cHjJKVkoPt4Dw5YhPGTuQ": {
-    "index": 109,
+    "index": 110,
     "id": "2cHjJKVkoPt4Dw5YhPGTuQ",
     "question": "Một đêm làm việc khuya và bạn phát hiện rằng ổ cứng của bạn hoạt động rất tích cực mặc dù bạn không thực hiện bất kỳ thao tác nào trên máy tính. Bạn nghi ngờ điều gì?",
     "answers": [
@@ -1079,7 +1079,7 @@
     "correct": 1
   },
   "exLRWi1P98HvfMuE5Fphzw": {
-    "index": 110,
+    "index": 111,
     "id": "exLRWi1P98HvfMuE5Fphzw",
     "question": "Bản ghi lỗi hệ thống email của bạn báo cáo một số lượng lớn các nổ lực logon không thành công. Loại tấn công nào có thể đang xảy ra ?",
     "answers": [
@@ -1091,7 +1091,7 @@
     "correct": 3
   },
   "qVU3BkS985hMeJK8zLQAVQ": {
-    "index": 111,
+    "index": 112,
     "id": "qVU3BkS985hMeJK8zLQAVQ",
     "question": "Bộ lọc gói thực hiện chức năng nào ?",
     "answers": [
@@ -1103,35 +1103,35 @@
     "correct": 0
   },
   "shhs6G5kSWj4CV9hmx3Ur7": {
-    "index": 112,
+    "index": 113,
     "id": "shhs6G5kSWj4CV9hmx3Ur7",
     "question": "Thiết bị nào lưu trữ thông tin về đích đến trong mạng ?",
     "answers": ["Hub", "Modem", "Firewall", "Router"],
     "correct": 3
   },
   "5Q6YNkSQBBuKHwFaP9cowp": {
-    "index": 113,
+    "index": 114,
     "id": "5Q6YNkSQBBuKHwFaP9cowp",
     "question": "Giao thức nào được sử dụng rộng rãi hiện nay như là một giao thức truyền tải đối với các kết nối quay số trên Internet ?",
     "answers": ["SLIP", "PPP", "PPTP", "L2TP"],
     "correct": 0
   },
   "8h8x1Zo1WcnywMRcfkpWw1": {
-    "index": 114,
+    "index": 115,
     "id": "8h8x1Zo1WcnywMRcfkpWw1",
     "question": "Giao thức nào sau đây không phù hợp đối với các kết nối VPN WAN ?",
     "answers": ["PPP", "PPTP", "L2TP", "IPSec"],
     "correct": 0
   },
   "4BymRuB3Pz8FT7sKzb3C1z": {
-    "index": 115,
+    "index": 116,
     "id": "4BymRuB3Pz8FT7sKzb3C1z",
     "question": "Giao thức nào sau đây tuy không phải là một giao thức đường hầm nhưng nó sử dụng các giao thức đường hầm để bảo mật trên mạng?",
     "answers": ["IPSec", "PPTP", "L2TP", "L2F"],
     "correct": 0
   },
   "cZ3KRAtf523pLK46irtxg8": {
-    "index": 116,
+    "index": 117,
     "id": "cZ3KRAtf523pLK46irtxg8",
     "question": "Một socket là sự kết hợp của các thành phần nào ?",
     "answers": [
@@ -1143,21 +1143,21 @@
     "correct": 3
   },
   "vpf5G4TB9fsrTV5w5aYvhF": {
-    "index": 117,
+    "index": 118,
     "id": "vpf5G4TB9fsrTV5w5aYvhF",
     "question": "Thiết bị nào giám sát lưu lượng mạng theo cách thụ động ?",
     "answers": ["Sniffer", "IDS", "Firewall", "Web browser"],
     "correct": 0
   },
   "q1hwPwLjzJcHQ816LcNyXZ": {
-    "index": 118,
+    "index": 119,
     "id": "q1hwPwLjzJcHQ816LcNyXZ",
     "question": "Hệ thống nào chủ động thực hiện việc giám sát mạng, phân tích và có thể thực hiện các bước phòng ngừa , bảo vệ mạng ?",
     "answers": ["IDS", "Sniffer", "Router", "Switch"],
     "correct": 0
   },
   "wAgp1wh5vRAGhZMmobMedH": {
-    "index": 119,
+    "index": 120,
     "id": "wAgp1wh5vRAGhZMmobMedH",
     "question": "Hệ thống nào được cài đặt trên Host để cung cấp một tính năng IDS ?",
     "answers": [
@@ -1169,14 +1169,14 @@
     "correct": 2
   },
   "vo1pfsNsb9tmMs7xSPH5vw": {
-    "index": 120,
+    "index": 121,
     "id": "vo1pfsNsb9tmMs7xSPH5vw",
     "question": "Khi kết nối giữa các thiết bị không dây đã hoàn tất , giao thức nào được sử dụng?",
     "answers": ["WEP", "WTLS", "WAP", "WOP"],
     "correct": 2
   },
   "9NweGYfsxtSK5BxLRY4bnC": {
-    "index": 121,
+    "index": 122,
     "id": "9NweGYfsxtSK5BxLRY4bnC",
     "question": "Giao thức nào hoạt động trên 2.4GHz và có một dải băng thông rộng 1Mbps hay 2Mbps ?",
     "answers": [
@@ -1188,14 +1188,14 @@
     "correct": 0
   },
   "thYgu9gyRPHxJK9tkiGCbv": {
-    "index": 122,
+    "index": 123,
     "id": "thYgu9gyRPHxJK9tkiGCbv",
     "question": "Giao thức nào được thiết kế để cung cấp bảo mật cho mạng không dây tương đương với việc bảo mật của một mạng diện rộng ?",
     "answers": ["WAP", "WTLS", "WEP", "IR"],
     "correct": 2
   },
   "rFVrptuQVHFcg3MM2kbwTH": {
-    "index": 123,
+    "index": 124,
     "id": "rFVrptuQVHFcg3MM2kbwTH",
     "question": "Điểm yếu nào sau đây là chủ yếu của môi trường mạng không dây ?",
     "answers": [
@@ -1207,7 +1207,7 @@
     "correct": 3
   },
   "jxh5Y2bkpktZCigTF1VecK": {
-    "index": 124,
+    "index": 125,
     "id": "jxh5Y2bkpktZCigTF1VecK",
     "question": "Nếu ta muốn xác thực chữ ký của một người khác, khóa nào phải được sử dụng?",
     "answers": [
@@ -1219,7 +1219,7 @@
     "correct": 3
   },
   "3ZX71JUaWc4bKZsnyf2WMs": {
-    "index": 125,
+    "index": 126,
     "id": "3ZX71JUaWc4bKZsnyf2WMs",
     "question": "Chữ ký số được sử dụng cho mục đích gì?",
     "answers": [
@@ -1231,7 +1231,7 @@
     "correct": 1
   },
   "597VBkJCaSksSVsHgCGtze": {
-    "index": 126,
+    "index": 127,
     "id": "597VBkJCaSksSVsHgCGtze",
     "question": "Nếu muốn xem một tài liệu “bảo mật”được mã hóa trên hệ mật bất đối xứng do người khác gởi đến , bạn phải sử dụng khóa nào để giải mật tài liệu?",
     "answers": [
@@ -1243,7 +1243,7 @@
     "correct": 3
   },
   "fizo1kMui3RAK1RKozAcQp": {
-    "index": 127,
+    "index": 128,
     "id": "fizo1kMui3RAK1RKozAcQp",
     "question": "Nếu ta muốn ký một tài liệu và sau đó gởi đến một người khác, khóa nào phải được sử dụng?",
     "answers": [
@@ -1255,7 +1255,7 @@
     "correct": 3
   },
   "2mzeZ5vsdmHP1DshnM6EdK": {
-    "index": 128,
+    "index": 129,
     "id": "2mzeZ5vsdmHP1DshnM6EdK",
     "question": "Bạn nhận được một email từ Microsoft, trong đó có một file đính kèm. Trong thư nói rằng có một số lỗi đã được phát hiện và sửa chữa , bạn phải chạy chương trình được đính kèm trong thư để sửa những lỗi đó. Trong trường hợp này bạn sẽ làm gì để bảo đảm an toàn?",
     "answers": [
@@ -1267,7 +1267,7 @@
     "correct": 2
   },
   "gPTXuNMo7zhjwHdNLN9dRv": {
-    "index": 129,
+    "index": 130,
     "id": "gPTXuNMo7zhjwHdNLN9dRv",
     "question": "Hệ mật DES sử dụng khối khoá được tạo bởi :",
     "answers": [
@@ -1279,14 +1279,14 @@
     "correct": 3
   },
   "9TzYMdzHVovKyJreGHdBph": {
-    "index": 130,
+    "index": 131,
     "id": "9TzYMdzHVovKyJreGHdBph",
     "question": "Hệ mật DES xử lý từng khối “ plain text ” có độ dài :",
     "answers": ["56 bit", "32 bit", "64 bit", "48 bit"],
     "correct": 2
   },
   "3FxXFoAXu3dDdMZbuViXqt": {
-    "index": 131,
+    "index": 132,
     "id": "3FxXFoAXu3dDdMZbuViXqt",
     "question": "Thuật giải SHA là :",
     "answers": [
@@ -1298,7 +1298,7 @@
     "correct": 3
   },
   "7k47bRn67YMoPACvDWbpZk": {
-    "index": 132,
+    "index": 133,
     "id": "7k47bRn67YMoPACvDWbpZk",
     "question": "DSA là thuật giải :",
     "answers": [
@@ -1310,14 +1310,14 @@
     "correct": 1
   },
   "ug67yEPygbT8khMntfjctE": {
-    "index": 133,
+    "index": 134,
     "id": "ug67yEPygbT8khMntfjctE",
     "question": "Thuật giải MD5 cho ta một giá trị băm có độ dài :",
     "answers": ["156 bit", "256 bit", "128 bit", "512 bit"],
     "correct": 2
   },
   "kiPbVSD5EDMcpaLrWWxLLM": {
-    "index": 134,
+    "index": 135,
     "id": "kiPbVSD5EDMcpaLrWWxLLM",
     "question": "Trong các cặp khoá sau đây của hệ mật RSA với p=5 ; q=7 , cặp khóa nào có khả năng đúng nhất :",
     "answers": [
@@ -1329,7 +1329,7 @@
     "correct": 2
   },
   "rx7UySeuNeZ4MBUByx138i": {
-    "index": 135,
+    "index": 136,
     "id": "rx7UySeuNeZ4MBUByx138i",
     "question": "Thuật giải Difie Hellman dùng để :",
     "answers": [
@@ -1341,7 +1341,7 @@
     "correct": 2
   },
   "uusP4sK8Qoo3NFWvGYEYhM": {
-    "index": 136,
+    "index": 137,
     "id": "uusP4sK8Qoo3NFWvGYEYhM",
     "question": "MAC là một từ cấu tạo bằng những chữ đầu của một nhóm nào liên quan đến mật mã ?",
     "answers": [
@@ -1353,14 +1353,14 @@
     "correct": 2
   },
   "nEPBLWMoGiBoxvG1KsY7gc": {
-    "index": 137,
+    "index": 138,
     "id": "nEPBLWMoGiBoxvG1KsY7gc",
     "question": "Nội dung nào sau đây không cần sử dụng mật mã ?",
     "answers": ["Bảo mật", "Xác thực", "Toàn vẹn", "Truy cập"],
     "correct": 2
   },
   "rxpHbvBYGm6Wyd7dyxVkbo": {
-    "index": 138,
+    "index": 139,
     "id": "rxpHbvBYGm6Wyd7dyxVkbo",
     "question": "PKC được thực hiện bằng cách sử dụng các chức năng nào ?",
     "answers": [
@@ -1373,7 +1373,7 @@
     "note": "public key cryptography"
   },
   "vmE14oqL4iUnomMi8vvbUb": {
-    "index": 139,
+    "index": 140,
     "id": "vmE14oqL4iUnomMi8vvbUb",
     "question": "Khái niệm nào sau đây được sử dụng để mô tả sự không thể chối từ của người gửi khi gửi thông điệp ?",
     "answers": [
@@ -1385,7 +1385,7 @@
     "correct": 1
   },
   "ccfGnpb6TcsDwn7JnH4kSD": {
-    "index": 140,
+    "index": 141,
     "id": "ccfGnpb6TcsDwn7JnH4kSD",
     "question": "Khái niệm nào sau đây được dùng để xác định chuẩn thực thi các hệ thống mã hóa diện rộng?",
     "answers": ["PKE", "PKI", "Đối xứng", "Không đối xứng"],
@@ -1393,21 +1393,21 @@
     "note": "Trong mật mã học, hạ tầng khóa công khai (public key infrastructure) là một cơ chế để cho một bên thứ 3 cung cấp và xác thực định danh các bên tham gia vào quá trình trao đổi thông tin. Cơ chế này cũng cho phép gán cho mỗi người sử dụng trong hệ thống một cặp khóa công khai/khóa bí mật."
   },
   "tuLAiRQzVvLk2hBsEFb2SP": {
-    "index": 141,
+    "index": 142,
     "id": "tuLAiRQzVvLk2hBsEFb2SP",
     "question": "Tổ chức chính cấp phát chứng chỉ được gọi là :",
     "answers": ["CA", "RA", "LRA", "CRL"],
     "correct": 0
   },
   "ojDkffv3NLitEttbYACkck": {
-    "index": 142,
+    "index": 143,
     "id": "ojDkffv3NLitEttbYACkck",
     "question": "Hầu hết định dạng chứng chỉ công cộng được sử dụng trong môi trường PKI là gì ?",
     "answers": ["X.509", "X.508", "PKE", "RSA"],
     "correct": 0
   },
   "nBe17KxzQLh14dbYytp4LX": {
-    "index": 143,
+    "index": 144,
     "id": "nBe17KxzQLh14dbYytp4LX",
     "question": "Quy trình mã hoá nào sử dụng cùng một khoá mã ở cả hai phía của một phiên làm việc ?",
     "answers": ["Symmetrical", "Asymmetrical", "PKCS", "Split key"],
@@ -1415,7 +1415,7 @@
     "note": "Symmetrical : đối xứng"
   },
   "ujjyJ7D12K1vSVqR4aRtHM": {
-    "index": 144,
+    "index": 145,
     "id": "ujjyJ7D12K1vSVqR4aRtHM",
     "question": "PKCS sử dụng cặp khoá nào để mã hoá?",
     "answers": [
@@ -1428,14 +1428,14 @@
     "note": "PKCS (tiếng Anh: Public Key Cryptography Standards) là một chuẩn do phòng thí nghiệm RSA Data Security Inc phát triển."
   },
   "4RbyUr6n3bqgGAUCeEk2Ae": {
-    "index": 145,
+    "index": 146,
     "id": "4RbyUr6n3bqgGAUCeEk2Ae",
     "question": "Giao thức nào sau đây tương tự như SSL và được đề nghị sử dụng bổ sung vào các giao thức bảo mật ?",
     "answers": ["TLS", "SSH", "RSH", "X.509"],
     "correct": 1
   },
   "xbXGRJekabbZ6J7wSuJYnX": {
-    "index": 146,
+    "index": 147,
     "id": "xbXGRJekabbZ6J7wSuJYnX",
     "question": "Vấn đề gì nảy sinh khi sử dụng qui trình sinh khóa mã tập trung ?",
     "answers": [
@@ -1447,14 +1447,14 @@
     "correct": 1
   },
   "9zMwDkL3menysp6hcydKaW": {
-    "index": 147,
+    "index": 148,
     "id": "9zMwDkL3menysp6hcydKaW",
     "question": "Giao thức nào sau đây cung cấp dịch vụ bảo mật cho các phiên làm việc trên thiết bị đầu cuối của hệ thống UNIX từ xa ?",
     "answers": ["SSL", "TLS", "SSH", "PKI"],
     "correct": 2
   },
   "4xG2db41znp7WbUD9rf7Vk": {
-    "index": 148,
+    "index": 149,
     "id": "4xG2db41znp7WbUD9rf7Vk",
     "question": "Dịch vụ nào sau đây là một dịch vụ đơn hay một máy phục vụ để lưu trữ, phân phối, và quản lý các khóa phiên mật mã ?",
     "answers": ["KDC", "KEA", "PKI", "PKCS"],
@@ -1462,7 +1462,7 @@
     "note": "key distribution center (KDC) is part of a cryptosystem intended to reduce the risks inherent in exchanging keys. KDCs often operate in systems within which some users may have permission to use certain services at some times and not at others."
   },
   "m4hm5favysWkRuK4jux8WL": {
-    "index": 149,
+    "index": 150,
     "id": "m4hm5favysWkRuK4jux8WL",
     "question": "Bạn có một fille dữ liệu trên đĩa cứng , phương pháp nào theo bạn là tốt nhất để bảo mật dữ liệu đó",
     "answers": ["RSA", "DES", "DSA", "SHA"],
@@ -1470,7 +1470,7 @@
     "note": "RSA (Rivest–Shamir–Adleman)  là một thuật toán mật mã hóa khóa công khai. Đây là thuật toán đầu tiên phù hợp với việc tạo ra chữ ký điện tử đồng thời với việc mã hóa. Nó đánh dấu một sự tiến bộ vượt bậc của lĩnh vực mật mã học trong việc sử dụng khóa công cộng. RSA đang được sử dụng phổ biến trong thương mại điện tử và được cho là đảm bảo an toàn với điều kiện độ dài khóa đủ lớn. "
   },
   "hGBKwTSVcWy8UwiNwGo3zt": {
-    "index": 150,
+    "index": 151,
     "id": "hGBKwTSVcWy8UwiNwGo3zt",
     "question": "Thuật giải SHA-1 dùng để :",
     "answers": [
@@ -1482,7 +1482,7 @@
     "correct": 2
   },
   "7A7R65SH2FQ2dmRxLkcpUW": {
-    "index": 151,
+    "index": 152,
     "id": "7A7R65SH2FQ2dmRxLkcpUW",
     "question": "Thuật giải MD5 dùng để :",
     "answers": [
@@ -1494,7 +1494,7 @@
     "correct": 3
   },
   "bZKLfkg7k8d7uTnTF2B9P3": {
-    "index": 152,
+    "index": 153,
     "id": "bZKLfkg7k8d7uTnTF2B9P3",
     "question": "Trong DES mỗi hàm chọn Si được dùng để :",
     "answers": [
@@ -1506,7 +1506,7 @@
     "correct": 1
   },
   "inFQgvSAVmRJukVvYBQGNa": {
-    "index": 153,
+    "index": 154,
     "id": "inFQgvSAVmRJukVvYBQGNa",
     "question": "Trong hệ mã công khai RSA , để tạo một chữ ký điện tử của văn bản M ta dùng:",
     "answers": [
@@ -1518,7 +1518,7 @@
     "correct": 3
   },
   "ush9EM6d2Xtr7NYRMmHvXW": {
-    "index": 154,
+    "index": 155,
     "id": "ush9EM6d2Xtr7NYRMmHvXW",
     "question": "Trong hệ mã công khai RSA , để chứng thực chữ ký điện tử S của văn bản M ta dùng:",
     "answers": [
@@ -1530,7 +1530,7 @@
     "correct": 2
   },
   "bR87HKFpHB5ThNWEzFT1wS": {
-    "index": 155,
+    "index": 156,
     "id": "bR87HKFpHB5ThNWEzFT1wS",
     "question": "Điều nào sau đây là điểm yếu của IP ?",
     "answers": [
@@ -1542,28 +1542,28 @@
     "correct": 2
   },
   "gcPmR8hYc4zQZqtsKND5WM": {
-    "index": 156,
+    "index": 157,
     "id": "gcPmR8hYc4zQZqtsKND5WM",
     "question": "Qui trình xác định topology của mạng được gọi là gì ?",
     "answers": ["In dấu chân", "Quét mạng", "Thiết bị làm nhiễu", "Liệt kê"],
     "correct": 1
   },
   "mLyrGgECPKDCpxae3AWUmb": {
-    "index": 157,
+    "index": 158,
     "id": "mLyrGgECPKDCpxae3AWUmb",
     "question": "Qui trình xác định vị trí và các thông tin mạng được gọi là gì ?",
     "answers": ["In dấu chân", "Quét", "Thiết bị làm nhiễu", "Liệt kê"],
     "correct": 0
   },
   "kJvcj6LqJuESrzyJADjmV9": {
-    "index": 158,
+    "index": 159,
     "id": "kJvcj6LqJuESrzyJADjmV9",
     "question": "Qui trình chiếm quyền truy cập đến tài nguyên mạng (đặc biệt như là các tập tin user và nhóm) được gọi là gì ?",
     "answers": ["In dấu chân", "Quét", "Thiết bị làm nhiễu", "Liệt kê"],
     "correct": 3
   },
   "qx9Rja1A46hj7zVPPdfpJm": {
-    "index": 159,
+    "index": 160,
     "id": "qx9Rja1A46hj7zVPPdfpJm",
     "question": "Qui trình phá vỡ một phiên làm việc IM được gọi là gì ?",
     "answers": [
@@ -1575,21 +1575,21 @@
     "correct": 0
   },
   "bJ5auW4KU4iGyTo62dJZB1": {
-    "index": 160,
+    "index": 161,
     "id": "bJ5auW4KU4iGyTo62dJZB1",
     "question": "Bạn mới nhận cuộc gọi từ một user IM trong văn phòng mà user này đang ghé thăm một website quảng cáo. User này đang phàn nàn rằng hệ thống của anh ta không phản ứng và hàng triệu trang web đang mở trên màn hình của anh ta. Loại tấn công này là gì ?",
     "answers": ["DoS", "Mã nguồn độc hại", "Giả mạo IP", "Khảo sát định vị"],
     "correct": 0
   },
   "wV13QuwRUmCbq6YUqbZbkc": {
-    "index": 161,
+    "index": 162,
     "id": "wV13QuwRUmCbq6YUqbZbkc",
     "question": "Có thể sử dụng mật mã để nhận biết tài liệu đã bị thay đổi hay không?",
     "answers": ["Có", "Không", ".", "."],
     "correct": 0
   },
   "6SdxVSrn6ETFjmXgjqxQg5": {
-    "index": 162,
+    "index": 163,
     "id": "6SdxVSrn6ETFjmXgjqxQg5",
     "question": "Nguyên tắc đảm bảo an toàn thông tin, hệ thống và mạng là:",
     "answers": [
@@ -1601,7 +1601,7 @@
     "correct": 3
   },
   "boHvJsg3BzAo8LS8CyuABD": {
-    "index": 163,
+    "index": 164,
     "id": "boHvJsg3BzAo8LS8CyuABD",
     "question": "Đâu là một phương pháp mã hóa:",
     "answers": [
@@ -1613,7 +1613,7 @@
     "correct": 3
   },
   "2rNmrekrEYEkwDRstyiGU7": {
-    "index": 164,
+    "index": 165,
     "id": "2rNmrekrEYEkwDRstyiGU7",
     "question": "Giao thức bảo mật SSL đảm bảo tính bí mật, toàn vẹn và xác thực thông điệp bằng các kỹ thuật nào sau đây:",
     "answers": [
@@ -1625,7 +1625,7 @@
     "correct": 0
   },
   "5THSi9VAztfX8pi54ZA8xX": {
-    "index": 165,
+    "index": 166,
     "id": "5THSi9VAztfX8pi54ZA8xX",
     "question": "Các hệ mã hóa khóa công khai sử dụn một cặp khóa: public key và private key. Các yêu cầu đối với public key và private key là:",
     "answers": [
@@ -1637,7 +1637,7 @@
     "correct": 3
   },
   "k6ZHKrCuuMGqDXd6747rrC": {
-    "index": 166,
+    "index": 167,
     "id": "k6ZHKrCuuMGqDXd6747rrC",
     "question": "Sâu SQL Slammer là sâu tấn công các hệ thống mạng lợi dụng lỗ hổng tràn bộ đệm ở:",
     "answers": [
@@ -1649,7 +1649,7 @@
     "correct": 3
   },
   "3bxjZw7njp2aeDxJooMska": {
-    "index": 167,
+    "index": 168,
     "id": "3bxjZw7njp2aeDxJooMska",
     "question": "Kích thức khóa có thể của hệ mã hóa AES là:",
     "answers": [
@@ -1661,7 +1661,7 @@
     "correct": 0
   },
   "bL7FP5fvX2o5scnUFSCpkF": {
-    "index": 168,
+    "index": 169,
     "id": "bL7FP5fvX2o5scnUFSCpkF",
     "question": "Các lỗ hổng tồn tại phổ biến trong hệ điều hành và các phần mềm ứng dụng là:",
     "answers": [
@@ -1673,7 +1673,7 @@
     "correct": 0
   },
   "i7D6B4a5CUGhT1fNeGA16e": {
-    "index": 169,
+    "index": 170,
     "id": "i7D6B4a5CUGhT1fNeGA16e",
     "question": "Phát biểu nào sau đây mô tả đúng nhất về kỹ thuật tấn công Smurf:",
     "answers": [
@@ -1685,7 +1685,7 @@
     "correct": 1
   },
   "fdfdxQhDQYRuBzg7P5BpVp": {
-    "index": 170,
+    "index": 171,
     "id": "fdfdxQhDQYRuBzg7P5BpVp",
     "question": "An toàn hệ thống thông tin là việc làm đảm bảo các thuộc tính an ninh, an toàn nào của hệ thống thông tin:",
     "answers": [
@@ -1697,7 +1697,7 @@
     "correct": 3
   },
   "p5oANNmx3XTDYLCuZJAZ16": {
-    "index": 171,
+    "index": 172,
     "id": "p5oANNmx3XTDYLCuZJAZ16",
     "question": "Trong quá trình thiết lập một phiên kết nối TCP (TCP three-way handshake) thứ tự các gói tin được gửi đi như thế nào?",
     "answers": [
@@ -1709,7 +1709,7 @@
     "correct": 2
   },
   "fSQx8JgU3iJ1Fes2HQ7AdZ": {
-    "index": 172,
+    "index": 173,
     "id": "fSQx8JgU3iJ1Fes2HQ7AdZ",
     "question": "Khi một website tồn tại lỗ hổng SQL Injection, nguy cơ cao nhất có thể xảy ra là:",
     "answers": [
@@ -1721,7 +1721,7 @@
     "correct": 0
   },
   "8FXrudawGmxKu2ciJtSCuF": {
-    "index": 173,
+    "index": 174,
     "id": "8FXrudawGmxKu2ciJtSCuF",
     "question": "Đặc trưng cơ bản khác biệ của worm với virus là:",
     "answers": [
@@ -1733,7 +1733,7 @@
     "correct": 1
   },
   "8RRxf78FBFhHSptpnp92JK": {
-    "index": 174,
+    "index": 175,
     "id": "8RRxf78FBFhHSptpnp92JK",
     "question": "Sự khác biệt giữa hệ chữ ký số RSA và DSA là:",
     "answers": [
@@ -1745,21 +1745,21 @@
     "correct": 0
   },
   "1Xwj5MgPrFTN9CgbEQaDRB": {
-    "index": 175,
+    "index": 176,
     "id": "1Xwj5MgPrFTN9CgbEQaDRB",
     "question": "Kích thước khóa hiệu dụng của hệ mã hóa DES là:",
     "answers": ["64 bit", "48 bit", "56 bit", "128 bit"],
     "correct": 2
   },
   "vEWSFinp8UcG6CfPG7Src8": {
-    "index": 176,
+    "index": 177,
     "id": "vEWSFinp8UcG6CfPG7Src8",
     "question": "Phần xử lý chính của SHA1 làm việc trên một chuỗi được gọi là state. Kích thước của state là:",
     "answers": ["160 bit", "170 bit", "150 bit", "180 bit"],
     "correct": 0
   },
   "f1jVYJviHz3vtGysrwyEYh": {
-    "index": 177,
+    "index": 178,
     "id": "f1jVYJviHz3vtGysrwyEYh",
     "question": "Sự khác biệt cơ bản giữa tấn công DoS và tấn công DDoS là:",
     "answers": [
@@ -1771,14 +1771,14 @@
     "correct": 2
   },
   "naeiewwcqz73jNkE2V98mc": {
-    "index": 178,
+    "index": 179,
     "id": "naeiewwcqz73jNkE2V98mc",
     "question": "Số lượng vòng lặp chuyển đổi cần thực hiện để chuyển bản rõ thành bản mã trong hệ mã hóa AES khóa 128 bit là:",
     "answers": ["14", "10", "16", "12"],
     "correct": 1
   },
   "cBjMTV784YirYzu4tVAnA6": {
-    "index": 179,
+    "index": 180,
     "id": "cBjMTV784YirYzu4tVAnA6",
     "question": "Loại tấn công nào sau đây cung cấp cho tin tặc những thông tin hữu ích về các dịch vụ đang chạy trên hệ thống?",
     "answers": [
@@ -1790,7 +1790,7 @@
     "correct": 2
   },
   "bbzauk6rQs4RZgMWQowSJT": {
-    "index": 180,
+    "index": 181,
     "id": "bbzauk6rQs4RZgMWQowSJT",
     "question": "Bước MixColumns (trộn cột) trong vòng lặp chuyển đổi trong hệ mã hóa AES thực hiện việc:",
     "answers": [
@@ -1802,7 +1802,7 @@
     "correct": 1
   },
   "dtzGsCYpNkNJGVnmD8yoz2": {
-    "index": 181,
+    "index": 182,
     "id": "dtzGsCYpNkNJGVnmD8yoz2",
     "question": "Tấn công dựa trên từ điển là:",
     "answers": [
@@ -1814,7 +1814,7 @@
     "correct": 1
   },
   "f893FFKG3tZCgeedtgg8sB": {
-    "index": 182,
+    "index": 183,
     "id": "f893FFKG3tZCgeedtgg8sB",
     "question": "Các phần mềm độc hại nào sau đây có khả năng tự nhân bản:",
     "answers": [
@@ -1826,14 +1826,14 @@
     "correct": 2
   },
   "k9B32PGidLx9vsq39DzArN": {
-    "index": 183,
+    "index": 184,
     "id": "k9B32PGidLx9vsq39DzArN",
     "question": "SET là giao thức bảo mật dùng trong các giao dịch điện tử. Với SET, những bên nào tham gia giao dịch phải có chứng chỉ số:",
     "answers": ["Tất cả các bên", "Khách hàng", "Cổng giao dịch", "Người bán"],
     "correct": 0
   },
   "hpjHqXAxpK4Moo7xYmjpiN": {
-    "index": 184,
+    "index": 185,
     "id": "hpjHqXAxpK4Moo7xYmjpiN",
     "question": "Phát biểu nào sau đây đúng với cơ chế điều khiển truy cập MAC:",
     "answers": [
@@ -1845,7 +1845,7 @@
     "correct": 0
   },
   "aSdT6yrQaV7awsewpavdwn": {
-    "index": 185,
+    "index": 186,
     "id": "aSdT6yrQaV7awsewpavdwn",
     "question": "Phát biểu nào sau đây đúng với kỹ thuật mã hóa khóa bí mật",
     "answers": [
@@ -1857,7 +1857,7 @@
     "correct": 2
   },
   "rFZXyP4DXJDqtPsyxrRRC3": {
-    "index": 186,
+    "index": 187,
     "id": "rFZXyP4DXJDqtPsyxrRRC3",
     "question": "Phát biểu nào sau đây đúng với cơ chế điều khiển truy cập RBAC:",
     "answers": [
@@ -1869,7 +1869,7 @@
     "correct": 2
   },
   "tLxuQPxZUECUYmnrQQSdYr": {
-    "index": 187,
+    "index": 188,
     "id": "tLxuQPxZUECUYmnrQQSdYr",
     "question": "An toàn thông tin (Information Security) là:",
     "answers": [
@@ -1881,7 +1881,7 @@
     "correct": 0
   },
   "au287UfgVZuNhwAKpvDHuw": {
-    "index": 188,
+    "index": 189,
     "id": "au287UfgVZuNhwAKpvDHuw",
     "question": "Nguyên nhân chính của lỗ hổng an ninh cho phép tấn công thực hiện mã từ xa là:",
     "answers": [
@@ -1893,7 +1893,7 @@
     "correct": 2
   },
   "ruQgM1TqvJMVVxtqCT8A73": {
-    "index": 189,
+    "index": 190,
     "id": "ruQgM1TqvJMVVxtqCT8A73",
     "question": "Danh sách điều khiển truy nhập ACL thực hiện việc cấp quyền truy cập đến các đối tượng cho người dùng bằng cách:",
     "answers": [
@@ -1905,7 +1905,7 @@
     "correct": 3
   },
   "daHyP65sZhY93VCYEbHvFG": {
-    "index": 190,
+    "index": 191,
     "id": "daHyP65sZhY93VCYEbHvFG",
     "question": "Phát biểu nào sau đây đúng với cơ chế điều khiển truy cập DAC:",
     "answers": [
@@ -1917,7 +1917,7 @@
     "correct": 0
   },
   "aGT9HwNMb2iZpy6S8bPVTH": {
-    "index": 191,
+    "index": 192,
     "id": "aGT9HwNMb2iZpy6S8bPVTH",
     "question": "Loại tấn công nào sau đây chiếm quyền truy cập đến tài nguyên lợi dụng cơ chế điều khiển truy cập DAC?",
     "answers": [
@@ -1929,7 +1929,7 @@
     "correct": 1
   },
   "azajAXkgwyzbHHHn2ShoNz": {
-    "index": 192,
+    "index": 193,
     "id": "azajAXkgwyzbHHHn2ShoNz",
     "question": "Phương pháp xác thực nào dưới đây cung cấp khả năng xác thực có độ an toàn cao nhất?",
     "answers": [
@@ -1941,7 +1941,7 @@
     "correct": 3
   },
   "siVq1VdgxxknHmFnmKjREU": {
-    "index": 193,
+    "index": 194,
     "id": "siVq1VdgxxknHmFnmKjREU",
     "question": "Macro virus là virus lây nhiễm trong:",
     "answers": [
@@ -1953,7 +1953,7 @@
     "correct": 3
   },
   "ofEKHiHFyoQteNp9GdPg6N": {
-    "index": 194,
+    "index": 195,
     "id": "ofEKHiHFyoQteNp9GdPg6N",
     "question": "Phát biểu nào sau đây đúng với tường lửa",
     "answers": [
@@ -1965,14 +1965,14 @@
     "correct": 0
   },
   "cGmN22KD3yywc1GSNa38M9": {
-    "index": 195,
+    "index": 196,
     "id": "cGmN22KD3yywc1GSNa38M9",
     "question": "Trong quá trình xử lý dữ liệu tạo chuỗi băm, số lượng vòng xử lý của SHA1 là:",
     "answers": ["60", "70", "80", "90"],
     "correct": 2
   },
   "eiH4My3jwqRb3LB8Wts1Kk": {
-    "index": 196,
+    "index": 197,
     "id": "eiH4My3jwqRb3LB8Wts1Kk",
     "question": "Một trong các biện pháp hiệu quả phòng chống tấn công SQL Injection là:",
     "answers": [
@@ -1984,7 +1984,7 @@
     "correct": 1
   },
   "vCmrTHW6BwV5LJXQQM2Bhg": {
-    "index": 197,
+    "index": 198,
     "id": "vCmrTHW6BwV5LJXQQM2Bhg",
     "question": "Trong hệ thống Kerberos gồm 3 thực thể: client A, máy chủ Kerberos T, máy chủ ứng dụng B, mục đích của hệ thống là để:",
     "answers": [
@@ -1996,7 +1996,7 @@
     "correct": 0
   },
   "3m7H71c9fywCCoZskE73th": {
-    "index": 198,
+    "index": 199,
     "id": "3m7H71c9fywCCoZskE73th",
     "question": "SSL sử dụng giao thực SSL Handshake để khởi tạo phiên làm việc. SSL Handshake thực hiện việc xác thực thực thể dựa trên:",
     "answers": [
@@ -2008,7 +2008,7 @@
     "correct": 1
   },
   "9b6riroxKp1o7h9BKe8Lyp": {
-    "index": 199,
+    "index": 200,
     "id": "9b6riroxKp1o7h9BKe8Lyp",
     "question": "Điểm khác nhau chính giữa hai loại hàm băm MDC và MAC là:",
     "answers": [
@@ -2020,7 +2020,7 @@
     "correct": 3
   },
   "dPt6tczQJpWCp6B2ngAYvn": {
-    "index": 200,
+    "index": 201,
     "id": "dPt6tczQJpWCp6B2ngAYvn",
     "question": "Một hệ thống điều khiển truy nhập có thể được cấu thành từ các dịch vụ nào sau đây:",
     "answers": [
@@ -2032,7 +2032,7 @@
     "correct": 3
   },
   "oyFfuttuTMkf4gApLBkG2L": {
-    "index": 201,
+    "index": 202,
     "id": "oyFfuttuTMkf4gApLBkG2L",
     "question": "Ưu điểm của kỹ thuật mã hóa khóa công khai so với mã hóa khóa bí mật là:",
     "answers": [
@@ -2044,7 +2044,7 @@
     "correct": 3
   },
   "1mCTx5b59hNw4k4rkvyZUp": {
-    "index": 202,
+    "index": 203,
     "id": "1mCTx5b59hNw4k4rkvyZUp",
     "question": "Độ an toàn của hệ mã hóa RSA dựa trên:",
     "answers": [
@@ -2056,7 +2056,7 @@
     "correct": 1
   },
   "vmhrA1ZbFH7rfeYiP3Arzy": {
-    "index": 203,
+    "index": 204,
     "id": "vmhrA1ZbFH7rfeYiP3Arzy",
     "question": "Trong hệ mã hóa RSA, quan hệ toán học giữa khóa bí mật d và khóa công khai e được gọi là:",
     "answers": [
@@ -2068,7 +2068,7 @@
     "correct": 3
   },
   "xfEwCnoX2FaZqGMbYxsAB2": {
-    "index": 204,
+    "index": 205,
     "id": "xfEwCnoX2FaZqGMbYxsAB2",
     "question": "Trong hệ thống phân phối khóa sử dụng KTC gồm có n thực thể (không tính KTC), số lượng khóa dài hạn mỗi thực thể và KTC phải lưu là:",
     "answers": [
@@ -2080,14 +2080,14 @@
     "correct": 1
   },
   "bCvRkgtxk7rbrqK6CFbpcx": {
-    "index": 205,
+    "index": 206,
     "id": "bCvRkgtxk7rbrqK6CFbpcx",
     "question": "Số lượng các khóa phụ (subkey) cần được tạo ra từ khóa chính trong giải thuật DES là:",
     "answers": ["18", "16", "14", "12"],
     "correct": 1
   },
   "h8maWmBzhRNSaFU3Mobq7x": {
-    "index": 206,
+    "index": 207,
     "id": "h8maWmBzhRNSaFU3Mobq7x",
     "question": "Các thuộc tính cơ bản của chứng chỉ số (Digital certificate) gồm:",
     "answers": [
@@ -2099,7 +2099,7 @@
     "correct": 3
   },
   "dP1KY9ouAPn33KaicVt6AN": {
-    "index": 207,
+    "index": 208,
     "id": "dP1KY9ouAPn33KaicVt6AN",
     "question": "Công cụ Vulnerability scanner cho phép tin tặc:",
     "answers": [
@@ -2111,7 +2111,7 @@
     "correct": 1
   },
   "s6SrzFAbyeejrNC2aJuSX6": {
-    "index": 208,
+    "index": 209,
     "id": "s6SrzFAbyeejrNC2aJuSX6",
     "question": "Sự khác biệt giữa trung tâm phân phối khóa KDC và trung tâm dịch khóa KTC là:",
     "answers": [
@@ -2123,7 +2123,7 @@
     "correct": 2
   },
   "jazSjqnK5Mamb9jDRQoUmB": {
-    "index": 209,
+    "index": 210,
     "id": "jazSjqnK5Mamb9jDRQoUmB",
     "question": "Tấn công lợi dụng lỗi tràn bộ đệm có thể giúp tin tặc chèn và thực hiện mã độc trên hệ thống nạn nhân thông qua cơ chế nào sau đây:",
     "answers": [
@@ -2135,7 +2135,7 @@
     "correct": 1
   },
   "2dfxcapPWBGgLbKFD8aVH4": {
-    "index": 210,
+    "index": 211,
     "id": "2dfxcapPWBGgLbKFD8aVH4",
     "question": "Phát biểu nào sau đây về chữ ký số là chính xác:",
     "answers": [
@@ -2147,14 +2147,14 @@
     "correct": 3
   },
   "mBRYLY7FxsZNVnuLpakT63": {
-    "index": 211,
+    "index": 212,
     "id": "mBRYLY7FxsZNVnuLpakT63",
     "question": "Số lượng thao tác trong mỗi vòng xử lý của MD5 là:",
     "answers": ["12 ", "16", "14", "18"],
     "correct": 1
   },
   "qSGUZ6VNPR3p5LF1QKAvEX": {
-    "index": 212,
+    "index": 213,
     "id": "qSGUZ6VNPR3p5LF1QKAvEX",
     "question": "Lỗ hổng an ninh trong một hệ thống là:",
     "answers": [
@@ -2166,7 +2166,7 @@
     "correct": 0
   },
   "d54ZD9Cjeqf8kzsCPXgQwq": {
-    "index": 213,
+    "index": 214,
     "id": "d54ZD9Cjeqf8kzsCPXgQwq",
     "question": "Hai lĩnh vực chính của an toàn thông tin là:",
     "answers": [
@@ -2178,7 +2178,7 @@
     "correct": 3
   },
   "s6wYjZpddJ6hi9794FhkY1": {
-    "index": 214,
+    "index": 215,
     "id": "s6wYjZpddJ6hi9794FhkY1",
     "question": "Các hệ điều hành Microsoft Windows và Linux sử dụng các mô hình điều khiển truy cập nào dưới đây?",
     "answers": [
@@ -2190,7 +2190,7 @@
     "correct": 0
   },
   "surmWPFs1vpeBEgbdvfxB8": {
-    "index": 215,
+    "index": 216,
     "id": "surmWPFs1vpeBEgbdvfxB8",
     "question": "SSL sử dụng giao thực SSL Handshake để khởi tạo phiên làm việc. SSL Handshake thực hiện việc trao đổi các khóa phiên dùng cho phiên làm việc dựa trên:",
     "answers": [
@@ -2202,7 +2202,7 @@
     "correct": 2
   },
   "rZnkLkcepLu6L13tSVG3Td": {
-    "index": 216,
+    "index": 217,
     "id": "rZnkLkcepLu6L13tSVG3Td",
     "question": "Tấn công bằng mã độc bao gồm các dạng tấn công:",
     "answers": [
@@ -2214,7 +2214,7 @@
     "correct": 3
   },
   "aqsZHt7bxvkcacFd1MDtC4": {
-    "index": 217,
+    "index": 218,
     "id": "aqsZHt7bxvkcacFd1MDtC4",
     "question": "Tấn công Phishing là dạng tấn công vào:",
     "answers": [
@@ -2226,7 +2226,7 @@
     "correct": 0
   },
   "pha5DnZ3Wj3as9NS58xumV": {
-    "index": 218,
+    "index": 219,
     "id": "pha5DnZ3Wj3as9NS58xumV",
     "question": "Điểm khác nhau chính giữa các hệ thống ngăn chặn đột nhập (IPS) và phát hiện đột nhập (IDS) là:",
     "answers": [
@@ -2238,14 +2238,14 @@
     "correct": 2
   },
   "2tn4LRw7ijoS7AjTaYgwnd": {
-    "index": 219,
+    "index": 220,
     "id": "2tn4LRw7ijoS7AjTaYgwnd",
     "question": "Gửi một gói tin ICMP có kích thước lớn hơn 64Kb là một ví dụ của kiểu tấn công nào sau đây?",
     "answers": ["Buffer overflow", "Syn flood", "Teardrop", "Ping of Death"],
     "correct": 3
   },
   "hAEjdYdmKF4PPBPGTcY6dC": {
-    "index": 220,
+    "index": 221,
     "id": "hAEjdYdmKF4PPBPGTcY6dC",
     "question": "Chữ ký số (dùng riêng) thường được sử dụng để đảm bảo thuộc tính nào sau đây của thông điệp truyền:",
     "answers": [
@@ -2257,7 +2257,7 @@
     "correct": 1
   },
   "3utQSHcAyzc65XYXGNuRKy": {
-    "index": 221,
+    "index": 222,
     "id": "3utQSHcAyzc65XYXGNuRKy",
     "question": "Tấn công DoS là dạng tấn công cho phép tin tặc:",
     "answers": [
@@ -2269,7 +2269,7 @@
     "correct": 0
   },
   "oQNoodUThzn9KKfptZYBia": {
-    "index": 222,
+    "index": 223,
     "id": "oQNoodUThzn9KKfptZYBia",
     "question": "Yêu cầu để đảm bảo sử dụng mã hóa đối xứng là",
     "answers": [
@@ -2281,7 +2281,7 @@
     "correct": 0
   },
   "jPzttF4jWnawFrY2cptjbY": {
-    "index": 223,
+    "index": 224,
     "id": "jPzttF4jWnawFrY2cptjbY",
     "question": "Các thuật tóan nào sau đây là thuật tóan mã hóa đối xứng",
     "answers": [
@@ -2293,7 +2293,7 @@
     "correct": 1
   },
   "a6WCaXVcTVv2VocCtgYYfj": {
-    "index": 224,
+    "index": 225,
     "id": "a6WCaXVcTVv2VocCtgYYfj",
     "question": "Các phát biểu sau đây phát biểu nào đúng",
     "answers": [
@@ -2305,7 +2305,7 @@
     "correct": 3
   },
   "rqMQBL4BTeA9vgGfY23R5T": {
-    "index": 225,
+    "index": 226,
     "id": "rqMQBL4BTeA9vgGfY23R5T",
     "question": "Cơ chế bảo mật SSL hoạt động trên tầng",
     "answers": [
@@ -2317,7 +2317,7 @@
     "correct": 2
   },
   "ccRCWKPUjuPiHLqKJTkCFd": {
-    "index": 226,
+    "index": 227,
     "id": "ccRCWKPUjuPiHLqKJTkCFd",
     "question": "Keberos là dịch vụ ủy thác",
     "answers": [
@@ -2329,7 +2329,7 @@
     "correct": 2
   },
   "egQWFLCh2SwYGyAhAgUeAd": {
-    "index": 227,
+    "index": 228,
     "id": "egQWFLCh2SwYGyAhAgUeAd",
     "question": "PGP là giao thức để xác thực",
     "answers": [
@@ -2341,21 +2341,21 @@
     "correct": 1
   },
   "7MX4Pyfy4UAUAYXkkRAtxD": {
-    "index": 228,
+    "index": 229,
     "id": "7MX4Pyfy4UAUAYXkkRAtxD",
     "question": "Công cụ/cơ chế bảo mật cho mạng không dây là",
     "answers": ["SSL", "TSL", "Giao thức PGP", "WEP"],
     "correct": 3
   },
   "odcf6GMb2MrjG1dUM7BZVk": {
-    "index": 229,
+    "index": 230,
     "id": "odcf6GMb2MrjG1dUM7BZVk",
     "question": "Giao thức SSL và TSL hoạt động ở tầng nào của mô hình OSI",
     "answers": ["Network", "Sesion", "Transport", "Từ tầng Transport trở lên"],
     "correct": 3
   },
   "u5vsoX3UVeQRCEnM1eaHVT": {
-    "index": 230,
+    "index": 231,
     "id": "u5vsoX3UVeQRCEnM1eaHVT",
     "question": "Giao thức SSL dùng để",
     "answers": [
@@ -2367,7 +2367,7 @@
     "correct": 2
   },
   "12BgEuZ3LAUBG9Fqdytzcz": {
-    "index": 231,
+    "index": 232,
     "id": "12BgEuZ3LAUBG9Fqdytzcz",
     "question": "Chức năng chính của Virus là",
     "answers": [
@@ -2379,7 +2379,7 @@
     "correct": 3
   },
   "3GZ89UWjQEUW9Qd3FbBe77": {
-    "index": 232,
+    "index": 233,
     "id": "3GZ89UWjQEUW9Qd3FbBe77",
     "question": "Hoạt động của virus có 4 giai đoạn",
     "answers": [
@@ -2391,7 +2391,7 @@
     "correct": 2
   },
   "ha9wFjDZ55et6qzZt1eHYA": {
-    "index": 233,
+    "index": 234,
     "id": "ha9wFjDZ55et6qzZt1eHYA",
     "question": "Các dạng sau đây, dạng nào là của virus",
     "answers": [
@@ -2403,7 +2403,7 @@
     "correct": 0
   },
   "8AT8Gj7g4hfs8D91DPMCxp": {
-    "index": 234,
+    "index": 235,
     "id": "8AT8Gj7g4hfs8D91DPMCxp",
     "question": "Virus Macro chỉ có khả năng tấn công vào các file",
     "answers": [
@@ -2415,7 +2415,7 @@
     "correct": 2
   },
   "gF2Q47nEbtcU7VC9mRJGqt": {
-    "index": 235,
+    "index": 236,
     "id": "gF2Q47nEbtcU7VC9mRJGqt",
     "question": "Các giao thức bảo mật trên Internet như SSL, TLS và SSH hoạt động ở tầng nào trên mô hình OSI",
     "answers": [
@@ -2427,7 +2427,7 @@
     "correct": 2
   },
   "6HoP9coh8Givx5Mgef6zvQ": {
-    "index": 236,
+    "index": 237,
     "id": "6HoP9coh8Givx5Mgef6zvQ",
     "question": "Kỹ thuật tấn công phổ biến trên Web là",
     "answers": [
@@ -2439,7 +2439,7 @@
     "correct": 2
   },
   "oYGaGkjbvnuz8p64Sh8dxx": {
-    "index": 237,
+    "index": 238,
     "id": "oYGaGkjbvnuz8p64Sh8dxx",
     "question": "Các lỗ hổng bảo mật trên hệ thống là do",
     "answers": [
@@ -2451,7 +2451,7 @@
     "correct": 3
   },
   "7S22FD9B28g5xqrbzvqDLT": {
-    "index": 238,
+    "index": 239,
     "id": "7S22FD9B28g5xqrbzvqDLT",
     "question": "Cho biết câu nào đúng trong các câu sau",
     "answers": [
@@ -2463,7 +2463,7 @@
     "correct": 3
   },
   "9JSbWhR5KYQRo8LapBAffE": {
-    "index": 239,
+    "index": 240,
     "id": "9JSbWhR5KYQRo8LapBAffE",
     "question": "Loại Firewall nào sau đây cho phép hoạt động ở lớp phiên ( session) của mô hình OSI",
     "answers": [
@@ -2475,14 +2475,14 @@
     "correct": 1
   },
   "smAJeu1r9Qb2GoT8w5Z9oF": {
-    "index": 240,
+    "index": 241,
     "id": "smAJeu1r9Qb2GoT8w5Z9oF",
     "question": "Những giao thức WAN nào có thể được định hình trên một kết nối tuần tự không đồng bộ (Chọn 2)",
     "answers": ["PPP", "ATM", "HDLC", "SDLC"],
     "correct": 0
   },
   "tsVMEFaMHLGM2HvJrYDu1H": {
-    "index": 241,
+    "index": 242,
     "id": "tsVMEFaMHLGM2HvJrYDu1H",
     "question": "Khi thuê một giải pháp VPN, những loại tấn công nào bạn cần phải xét đến ?",
     "answers": [
@@ -2494,7 +2494,7 @@
     "correct": 2
   },
   "pmrEotFRXt8ru4XLpURTjH": {
-    "index": 242,
+    "index": 243,
     "id": "pmrEotFRXt8ru4XLpURTjH",
     "question": "Các phát biểu sau đây phát biểu là là đúng nhất",
     "answers": [
@@ -2506,7 +2506,7 @@
     "correct": 2
   },
   "jdtAaK6pt8jCv1qCTmL6yy": {
-    "index": 243,
+    "index": 244,
     "id": "jdtAaK6pt8jCv1qCTmL6yy",
     "question": "Bảo mật thư điện tử là nhằm đảm bảo",
     "answers": [
@@ -2518,7 +2518,7 @@
     "correct": 0
   },
   "5yJgkZqN9fFC63uJ6H9PAh": {
-    "index": 244,
+    "index": 245,
     "id": "5yJgkZqN9fFC63uJ6H9PAh",
     "question": "Các giao thức được để bảo mật thư điện tử là",
     "answers": [
@@ -2530,7 +2530,7 @@
     "correct": 1
   },
   "qAkyUcb6H5fMLhmxWSvBvV": {
-    "index": 245,
+    "index": 246,
     "id": "qAkyUcb6H5fMLhmxWSvBvV",
     "question": "Chữ ký điện tử (digital signature) sử dụng thuật tóan nào sau đây",
     "answers": [
@@ -2542,7 +2542,7 @@
     "correct": 2
   },
   "m3vJA3sGg7n6PyTE76wVsM": {
-    "index": 246,
+    "index": 247,
     "id": "m3vJA3sGg7n6PyTE76wVsM",
     "question": "Chữ ký điện tử (digital signature) sử dụng thuật tóan nào sau đâyChữ ký điện tử là",
     "answers": [
@@ -2554,7 +2554,7 @@
     "correct": 2
   },
   "mG2wMLpsMM3GWgBSXDQvoA": {
-    "index": 247,
+    "index": 248,
     "id": "mG2wMLpsMM3GWgBSXDQvoA",
     "question": "Các bước mã hóa của chứ ký điện tử",
     "answers": [
@@ -2566,7 +2566,7 @@
     "correct": 0
   },
   "kUBqGYcGdjSR8nbGU3ZStY": {
-    "index": 248,
+    "index": 249,
     "id": "kUBqGYcGdjSR8nbGU3ZStY",
     "question": "Các bước kiểm tra của chứ ký điện tử",
     "answers": [
@@ -2578,14 +2578,14 @@
     "correct": 0
   },
   "qX2EEyJJ3tBTCr5FNw6JJq": {
-    "index": 249,
+    "index": 250,
     "id": "qX2EEyJJ3tBTCr5FNw6JJq",
     "question": "Việc xác thực người dùng khi đăng cập vào hệ thống Window XP, 2000 hoặc 2003 sử dụng giải thuật",
     "answers": ["RSA", "Keberos", "MD5", "SHATR"],
     "correct": 1
   },
   "cGhTRHRF2CELc21xNwLUgs": {
-    "index": 250,
+    "index": 251,
     "id": "cGhTRHRF2CELc21xNwLUgs",
     "question": "Để thực hiện tấn công bằng Trojan, kẻ tấn công chỉ cần",
     "answers": [
@@ -2597,7 +2597,7 @@
     "correct": 0
   },
   "gqwVjRp8oHpXehhmh3RGFk": {
-    "index": 251,
+    "index": 252,
     "id": "gqwVjRp8oHpXehhmh3RGFk",
     "question": "Giao thức bảo mật IPSec họat động ở tầng",
     "answers": [
@@ -2609,7 +2609,7 @@
     "correct": 2
   },
   "us5gnMeHUQMfaFvq6BSNyL": {
-    "index": 252,
+    "index": 253,
     "id": "us5gnMeHUQMfaFvq6BSNyL",
     "question": "Cho biết phát biểu sau đây phát biểu nào là đúng nhất về registry",
     "answers": [
@@ -2621,14 +2621,14 @@
     "correct": 3
   },
   "umsVHmMiJC4zjLU1Sosife": {
-    "index": 253,
+    "index": 254,
     "id": "umsVHmMiJC4zjLU1Sosife",
     "question": "Có bao nhiêu kiểu dữ liệu trong Registry",
     "answers": ["5", "4", "6", "7"],
     "correct": 0
   },
   "otnagu55X4AaXN5ykZQMp5": {
-    "index": 254,
+    "index": 255,
     "id": "otnagu55X4AaXN5ykZQMp5",
     "question": "Các kiểu dữ liệu dùng trong registry là",
     "answers": [
@@ -2640,14 +2640,14 @@
     "correct": 3
   },
   "k4smDTTqLP9FYSenPaFG4U": {
-    "index": 255,
+    "index": 256,
     "id": "k4smDTTqLP9FYSenPaFG4U",
     "question": "Để ẩn tất cả các ổ đĩa trong registry (A,B,C,D ) thì biến REG_DWORD trong Userkey và Systemkey có giá trị là bao nhiêu",
     "answers": ["65656000", "67188270", "67108863", "Tất cả đều sai"],
     "correct": 0
   },
   "5gVV6wWh9aNq6iiNxeke2m": {
-    "index": 256,
+    "index": 257,
     "id": "5gVV6wWh9aNq6iiNxeke2m",
     "question": "Để sử dụng xác thực Keberos V5 ở tất cả máy trạm Window98, người ta thực hiện :",
     "answers": [
@@ -2659,7 +2659,7 @@
     "correct": 2
   },
   "uqKA6LkNvqooRpUVxkps17": {
-    "index": 257,
+    "index": 258,
     "id": "uqKA6LkNvqooRpUVxkps17",
     "question": "Khi cài đặt Window 2000 Server trên hệ thống NTFS, nhưng không thấy có hiển thị mục Security ở Security tables vì ?",
     "answers": [
@@ -2671,7 +2671,7 @@
     "correct": 2
   },
   "eScRtWNmWssXUJES6LU4D2": {
-    "index": 258,
+    "index": 259,
     "id": "eScRtWNmWssXUJES6LU4D2",
     "question": "Dịch vụ Active Directory thực hiện các chức năng sau",
     "answers": [
@@ -2683,7 +2683,7 @@
     "correct": 3
   },
   "fYs9DJkxsFcyiPMrM54Sgx": {
-    "index": 259,
+    "index": 260,
     "id": "fYs9DJkxsFcyiPMrM54Sgx",
     "question": "Thuật tóan thực hiện trong cơ chế bảo mật IP (IPSec) ở Window sử dụng là",
     "answers": [
@@ -2696,7 +2696,7 @@
     "correct": 3
   },
   "f6R6i5zp8xD2iMwEnxd8d5": {
-    "index": 260,
+    "index": 261,
     "id": "f6R6i5zp8xD2iMwEnxd8d5",
     "question": "Trong Window 98,XP Registry được lưu trữ ở đâu ?",
     "answers": [
@@ -2708,7 +2708,7 @@
     "correct": 2
   },
   "2AYjrHnMpJY3rfBWUyS5V5": {
-    "index": 261,
+    "index": 262,
     "id": "2AYjrHnMpJY3rfBWUyS5V5",
     "question": "Để thực hiện sửa đổi cấu hình trên registry ta thực hiện như sau:",
     "answers": [
@@ -2720,14 +2720,14 @@
     "correct": 0
   },
   "c1D526dDSNsf9zZLhTUjuB": {
-    "index": 262,
+    "index": 263,
     "id": "c1D526dDSNsf9zZLhTUjuB",
     "question": "Quy trình crack một sản phẩm phần mềm đơn giản gồm mấy bước",
     "answers": ["3", "4", "5", "3 hoặc 4"],
     "correct": 0
   },
   "hGkaMxSCogu19XEM4Gmi7Z": {
-    "index": 263,
+    "index": 264,
     "id": "hGkaMxSCogu19XEM4Gmi7Z",
     "question": "Hai giao thức sử dụng trong IPSec (IPSec Protocol) gồm",
     "answers": [
@@ -2739,7 +2739,7 @@
     "correct": 2
   },
   "tY6K1yvSUxdyn277UCbfwL": {
-    "index": 264,
+    "index": 265,
     "id": "tY6K1yvSUxdyn277UCbfwL",
     "question": "Các điểm khác nhau cơ bản giữa dịch vụ X.509 và Kerberos là",
     "answers": [
@@ -2751,7 +2751,7 @@
     "correct": 0
   },
   "f6YXD8gdoJihzFyGevqJmF": {
-    "index": 265,
+    "index": 266,
     "id": "f6YXD8gdoJihzFyGevqJmF",
     "question": "Các chức năng cơ bản của kỹ thuật tấn công Sniffer",
     "answers": [
@@ -2763,7 +2763,7 @@
     "correct": 3
   },
   "vqMFM9JzmGK7eEuwBH5S79": {
-    "index": 266,
+    "index": 267,
     "id": "vqMFM9JzmGK7eEuwBH5S79",
     "question": "Các bước tấn công của Web Server theo trình tự sau :",
     "answers": [
@@ -2775,7 +2775,7 @@
     "correct": 0
   },
   "ptUQFQ7dx3w4VgkpKHumK3": {
-    "index": 267,
+    "index": 268,
     "id": "ptUQFQ7dx3w4VgkpKHumK3",
     "question": "Hiện tượng này do loại chương trình nguy hiểm nào gây ra : Làm mất một số file, làm phân mãnh ổ đĩa, gây tác hại vào những ngày, tháng đặc biệt v.v",
     "answers": [
@@ -2787,7 +2787,7 @@
     "correct": 1
   },
   "2ngKd3gEmu7VzJqsSXhqT8": {
-    "index": 268,
+    "index": 269,
     "id": "2ngKd3gEmu7VzJqsSXhqT8",
     "question": "Để đánh giá điểm mạnh của hệ thống IDS người ta dựa vào các yếu tố sau :",
     "answers": [
@@ -2799,7 +2799,7 @@
     "correct": 1
   },
   "c6RwvWMLSUqBZ3DSGyozZf": {
-    "index": 269,
+    "index": 270,
     "id": "c6RwvWMLSUqBZ3DSGyozZf",
     "question": "Hai cơ chế chính của hệ thống IDS Trigger để phát hiện khi có một kẻ xâm nhập tấn công mạng là:",
     "answers": [
@@ -2811,7 +2811,7 @@
     "correct": 0
   },
   "5UzCumDjmv8txZ5U9kxvb9": {
-    "index": 270,
+    "index": 271,
     "id": "5UzCumDjmv8txZ5U9kxvb9",
     "question": "Mục tiêu là phân tích mật mã là gì?",
     "answers": [
@@ -2823,7 +2823,7 @@
     "correct": 0
   },
   "6cGu458YnqPBgFGdqpb3LW": {
-    "index": 271,
+    "index": 272,
     "id": "6cGu458YnqPBgFGdqpb3LW",
     "question": "Điều gì sẽ xãy ra khi một thông báo đã được sửa đổi?",
     "answers": [
@@ -2835,7 +2835,7 @@
     "correct": 3
   },
   "odGL2bj9hbVFZJoJbchsMH": {
-    "index": 272,
+    "index": 273,
     "id": "odGL2bj9hbVFZJoJbchsMH",
     "question": "Mã hóa nào sau đây là một tiêu chuẩn dùng để phát triển cho việc tạo ra thông điệp an toàn?",
     "answers": [
@@ -2847,7 +2847,7 @@
     "correct": 0
   },
   "rQbRQGvuTJY41sgfxArxvu": {
-    "index": 273,
+    "index": 274,
     "id": "rQbRQGvuTJY41sgfxArxvu",
     "question": "Nếu kẻ tấn công lấy trộm một mật khẩu có chứa một chiều mật khẩu đã mật mã, loại tấn công, cô sẽ thực hiện để tìm mật khẩu đã mật mã?",
     "answers": [
@@ -2859,7 +2859,7 @@
     "correct": 3
   },
   "pyYiJJKxBDDsZrUiC3iVc1": {
-    "index": 274,
+    "index": 275,
     "id": "pyYiJJKxBDDsZrUiC3iVc1",
     "question": "Lợi thế của RSA là gì so với DSS?",
     "answers": [
@@ -2871,7 +2871,7 @@
     "correct": 0
   },
   "fh242GaQvXP7v1aGvnJjNP": {
-    "index": 275,
+    "index": 276,
     "id": "fh242GaQvXP7v1aGvnJjNP",
     "question": "Những gì được sử dụng để tạo ra một chữ ký điện tử?",
     "answers": [
@@ -2883,7 +2883,7 @@
     "correct": 2
   },
   "awyTZXqjHRTnDFUvmxN96G": {
-    "index": 276,
+    "index": 277,
     "id": "awyTZXqjHRTnDFUvmxN96G",
     "question": "Phương thức nào sau đây là tốt nhất mô tả một chữ ký điện tử?",
     "answers": [
@@ -2895,14 +2895,14 @@
     "correct": 3
   },
   "bxvHvx3cAk3NrgUfrtfeNY": {
-    "index": 277,
+    "index": 278,
     "id": "bxvHvx3cAk3NrgUfrtfeNY",
     "question": "Sử dụng nhiêu bit với DES để có hiệu quả?",
     "answers": ["56", "64", "32", "16"],
     "correct": 1
   },
   "cem2AHuPeDr2fF3NkwigRV": {
-    "index": 278,
+    "index": 279,
     "id": "cem2AHuPeDr2fF3NkwigRV",
     "question": "Các yếu tố ảnh hưởng đến quá trình mã hóa",
     "answers": [
@@ -2914,7 +2914,7 @@
     "correct": 0
   },
   "j7wrh7FzBmz3FhDxoEj5oB": {
-    "index": 279,
+    "index": 280,
     "id": "j7wrh7FzBmz3FhDxoEj5oB",
     "question": "Đối với Firewall lọc gói, hình thức tấn công nào sau đây được thực hiện",
     "answers": [
@@ -2926,7 +2926,7 @@
     "correct": 0
   },
   "7t65JLLQfAdkoqjesoq39V": {
-    "index": 280,
+    "index": 281,
     "id": "7t65JLLQfAdkoqjesoq39V",
     "question": "Ai là người tham gia vào việc phát triển đầu tiên hệ thống mã hóa khóa công?",
     "answers": [
@@ -2938,7 +2938,7 @@
     "correct": 3
   },
   "fnguV9z3bLEtNwoR3H1G57": {
-    "index": 281,
+    "index": 282,
     "id": "fnguV9z3bLEtNwoR3H1G57",
     "question": "DES là viết tắt của từ nào ?",
     "answers": [
@@ -2950,7 +2950,7 @@
     "correct": 1
   },
   "5MAR4aZVxzLKUSvLFUD3S3": {
-    "index": 282,
+    "index": 283,
     "id": "5MAR4aZVxzLKUSvLFUD3S3",
     "question": "Các phát biểu sau đây, phát biểu nào tốt nhất mô tả một hacker mũ trắng?",
     "answers": [
@@ -2962,7 +2962,7 @@
     "correct": 0
   },
   "jB9orXqNNgEGq3FoFFP8G5": {
-    "index": 283,
+    "index": 284,
     "id": "jB9orXqNNgEGq3FoFFP8G5",
     "question": "Giai đoạn đầu của hacking là gì?",
     "answers": [
@@ -2974,7 +2974,7 @@
     "correct": 2
   },
   "riLYy6FvpSB7jWM1cLH8sN": {
-    "index": 284,
+    "index": 285,
     "id": "riLYy6FvpSB7jWM1cLH8sN",
     "question": "Khi một hacker cố gắng tấn công một máy chủ qua Internet nó được gọi là loại tấn công?",
     "answers": [
@@ -2986,14 +2986,14 @@
     "correct": 0
   },
   "etxhXxTQroGERztfwt32im": {
-    "index": 285,
+    "index": 286,
     "id": "etxhXxTQroGERztfwt32im",
     "question": "Công cụ nào sau đây đúng là một công cụ để thực hiện footprinting không bị phát hiện?",
     "answers": ["Whois search", "Traceroute", "Ping sweep", "Host scanning"],
     "correct": 0
   },
   "wju5gskpp4sghSs1NyUiiF": {
-    "index": 286,
+    "index": 287,
     "id": "wju5gskpp4sghSs1NyUiiF",
     "question": "Bước tiếp theo sẽ được thực hiện sau khi footprinting là gì?",
     "answers": [
@@ -3005,7 +3005,7 @@
     "correct": 0
   },
   "jWeuuNDo51PvD19mi3EYiv": {
-    "index": 287,
+    "index": 288,
     "id": "jWeuuNDo51PvD19mi3EYiv",
     "question": "Footprinting là gì?",
     "answers": [
@@ -3017,7 +3017,7 @@
     "correct": 3
   },
   "f7iFTNpqkTYCQP8cCSEbyL": {
-    "index": 288,
+    "index": 289,
     "id": "f7iFTNpqkTYCQP8cCSEbyL",
     "question": "Lý do tốt nhất để thực hiện một chính sách bảo mật là gì?",
     "answers": [
@@ -3029,21 +3029,21 @@
     "correct": 0
   },
   "6rpVgSmzBNKWzf7sDNEmrQ": {
-    "index": 289,
+    "index": 290,
     "id": "6rpVgSmzBNKWzf7sDNEmrQ",
     "question": "FTP sử dụng cổng gì ?",
     "answers": ["21", "25", "23", "80"],
     "correct": 0
   },
   "cThScLxyU2koSPvunCHQrx": {
-    "index": 290,
+    "index": 291,
     "id": "cThScLxyU2koSPvunCHQrx",
     "question": "Cổng nào được HTTPS sử dụng?",
     "answers": ["443", "80", "53", "21"],
     "correct": 0
   },
   "aWhTuSD5cWr8C3ELGZau55": {
-    "index": 291,
+    "index": 292,
     "id": "aWhTuSD5cWr8C3ELGZau55",
     "question": "Trojan Horse là gì?",
     "answers": [
@@ -3055,7 +3055,7 @@
     "correct": 1
   },
   "rrxSEBxJkUf7MWtnJpqhpy": {
-    "index": 292,
+    "index": 293,
     "id": "rrxSEBxJkUf7MWtnJpqhpy",
     "question": "John muốn cài đặt một ứng dụng mới vào máy chủ của Windows 2000. Ông muốn đảm bảo rằng các ứng dụng bất kỳ ông sử dụng chưa được cài Trojan. Ông có thể làm gì để giúp đảm bảo điều này?",
     "answers": [
@@ -3067,7 +3067,7 @@
     "correct": 0
   },
   "xe5e1H9bzU5xY3rmKzqeNh": {
-    "index": 293,
+    "index": 294,
     "id": "xe5e1H9bzU5xY3rmKzqeNh",
     "question": "Hầu hết các lỗi SQL Injection đều là do (chọn 2 phương án)",
     "answers": [
@@ -3079,7 +3079,7 @@
     "correct": 0
   },
   "8XHmHWazeex29LfaAH1dMS": {
-    "index": 294,
+    "index": 295,
     "id": "8XHmHWazeex29LfaAH1dMS",
     "question": "Chính sách bảo mật là",
     "answers": [
@@ -3091,7 +3091,7 @@
     "correct": 1
   },
   "mqqkPMk6bork9YdELsaKk8": {
-    "index": 295,
+    "index": 296,
     "id": "mqqkPMk6bork9YdELsaKk8",
     "question": "Các loại mục tiêu của chiến tranh thông tin",
     "answers": [
@@ -3103,7 +3103,7 @@
     "correct": 1
   },
   "5JEo1ySHJR9yjdYuDwWfsp": {
-    "index": 296,
+    "index": 297,
     "id": "5JEo1ySHJR9yjdYuDwWfsp",
     "question": "Khi thực hiện triển khai HIDS khó khăn gặp là",
     "answers": [
