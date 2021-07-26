@@ -21,10 +21,12 @@ const data: any = {
 const settings: Settings = {
   dots: false,
   infinite: false,
-  arrows: false,
+  arrows: true,
   speed: 500,
   slidesToShow: 1,
   slidesToScroll: 1,
+  nextArrow: <span>nextArrow</span>,
+  prevArrow: <span>prevArrow</span>,
 };
 function ListQuizz() {
   const [currentIndex, setCurrentIndex] = useState<number>(0);

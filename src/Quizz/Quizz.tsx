@@ -21,6 +21,14 @@ export default function Quizz(props: Props) {
   const { data, index, currentIndex, onChoice } = props;
   const [numberPick, setNumberPick] = useState(0);
   const [check, setCheck] = useState(false);
+  // console.log("data", data);
+
+  const onChange = (number: number) => {
+    const tempData = localStorage.getItem("dev") || "{}";
+    const rs = { ...JSON.parse(tempData) };
+    rs[data.id] = { ...data, correct: number };
+    localStorage.setItem("dev", JSON.stringify(rs));
+  };
 
   return (
     <SQuizz className={`${currentIndex === index ? "active" : "hidden"}`}>
@@ -36,11 +44,12 @@ export default function Quizz(props: Props) {
                   className="item"
                   key={slugify(`${data.question}__${index}`)}
                   onClick={() => {
-                    setNumberPick((pre) => pre + 1);
-                    if (numberPick < 1) onChoice(index);
+                    // setNumberPick((pre) => pre + 1);
+                    // if (numberPick < 1) onChoice(index);
 
-                    if (index === data.correct) setCheck(true);
-                    else setCheck(false);
+                    // if (index === data.correct) setCheck(true);
+                    // else setCheck(false);
+                    onChange(index);
                   }}
                 >
                   <label
@@ -53,7 +62,8 @@ export default function Quizz(props: Props) {
                       name={slugify(data.question)}
                       value={index}
                     />{" "}
-                    <p className="item-text">{item}</p>
+                    {/* <p className="item-text">{}</p> */}
+                    {item}
                   </label>
                 </li>
               );
@@ -66,6 +76,20 @@ export default function Quizz(props: Props) {
               {data?.note}
             </p>
           )}
+          <textarea
+            style={{ width: "500px" }}
+            onChange={(e) => {
+              const tempData = localStorage.getItem("dev") || "{}";
+              const rs = { ...JSON.parse(tempData) };
+              rs[data.id] = { ...data, note: e.target.value };
+              localStorage.setItem("dev", JSON.stringify(rs));
+            }}
+          ></textarea>
+          <br></br>
+          {localStorage.getItem("dev")
+            ? JSON.parse(localStorage.getItem("dev") || "")[data.id] &&
+              JSON.parse(localStorage.getItem("dev") || "")[data.id]["correct"]
+            : "no"}
         </>
       ) : (
         "Nothing here."

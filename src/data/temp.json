@@ -1,0 +1,2033 @@
+{
+    "ws5Yd5NrDnynJvTa6Doi6U": {
+        "index": 1,
+        "id": "ws5Yd5NrDnynJvTa6Doi6U",
+        "question": "Các mạng máy tính được thiết kế và cài đặt theo quan điểm:",
+        "answers": [
+            "Có cấu trúc đa tầng",
+            "Nhiều tầng",
+            "Theo lớp",
+            "Tập hợp"
+        ],
+        "correct": 0
+    },
+    "ofh6tR5NPgUjDvBYc7ytTJ": {
+        "index": 2,
+        "id": "ofh6tR5NPgUjDvBYc7ytTJ",
+        "question": "Khi sử dụng mạng máy tính ta sẽ thu được các lợi ích:",
+        "answers": [
+            "Chia sẻ tài nguyên (ổ cứng, cơ sở dữ liệu, máy in, các phần mềm tiện ích...)",
+            "Quản lý tập trung",
+            "Tận dụng năng lực xử lý của các máy tính rỗi kết hợp lại để thực hiện các công việc lớn",
+            "Tất cả đều đúng"
+        ],
+        "correct": 3
+    },
+    "eY9JpeT9H9PwxFkwPfhtFk": {
+        "index": 3,
+        "id": "eY9JpeT9H9PwxFkwPfhtFk",
+        "question": "Đơn vị cơ bản đo tốc độ truyền dữ liệu là:",
+        "answers": [
+            "Bit",
+            "Byte",
+            "Bps (bit per second)",
+            "Hz"
+        ],
+        "correct": 2
+    },
+    "6iSzoBh6DhC7AeRErVcdjo": {
+        "index": 4,
+        "id": "6iSzoBh6DhC7AeRErVcdjo",
+        "question": "Quá trình dữ liệu di chuyển từ hệ thống máy tính này sang hệ thống máy tính khác phải trải qua giai đoạn nào:",
+        "answers": [
+            "Phân tích dữ liệu",
+            "Nén dữ liệu",
+            "Đóng gói",
+            "Lọc dữ liệu"
+        ],
+        "correct": 2
+    },
+    "vL31kCxjQ8UnnBbzkEVHAw": {
+        "index": 5,
+        "id": "vL31kCxjQ8UnnBbzkEVHAw",
+        "question": "Kết nối mạng sử dụng các giao thức khác nhau bằng các:",
+        "answers": [
+            "Bộ chuyển tiếp",
+            "Cổng giao tiếp",
+            "SONET",
+            "Bộ định tuyến"
+        ],
+        "correct": 0,
+        "note": "Router kết nối tbi trong mạng bằng cách chuyển gói dữ liệu giữa chúng. Dữ liệu có thể gửi gữi các tbi hoặc từ tbi đến Internet."
+    },
+    "bAF2hZMDj6o89cCFy7shS3": {
+        "index": 6,
+        "id": "bAF2hZMDj6o89cCFy7shS3",
+        "question": "Nhược điểm của mạng dạng hình sao (Star) là:",
+        "answers": [
+            "Khó cài đặt và bảo trì",
+            "Khó khắc phục khi lỗi cáp xảy ra, và ảnh hưởng tới các nút mạng khác",
+            "Cần quá nhiều cáp để kết nối tới nút mạng trung tâm",
+            "Không có khả năng thay đổi khi đã lắp đặt"
+        ],
+        "correct": 2
+    },
+    "nH2Di7fj7gJtVVhFBvTUfc": {
+        "index": 7,
+        "id": "nH2Di7fj7gJtVVhFBvTUfc",
+        "question": "Đặc điểm của mạng dạng Bus:",
+        "answers": [
+            "Tất cả các nút mạng kết nối vào nút mạng trung tâm (ví dụ như Hub)",
+            "Tất cả các nút kết nối trên cùng một đường truyền vật lý",
+            "Tất cả các nút mạng đều kết nối trực tiếp với nhau",
+            "Mỗi nút mạng kết nối với 2 nút mạng còn lại"
+        ],
+        "correct": 1
+    },
+    "jF9fvfSAbvrP3LgNM4zSaf": {
+        "index": 8,
+        "id": "jF9fvfSAbvrP3LgNM4zSaf",
+        "question": "Trong kỹ thuật chuyển mạch kênh, trước khi trao đổi thông tin, hệ thống sẽ thiết lập kết nối giữa 2 thực thể bằng một:",
+        "answers": [
+            "Đường truyền vật lý",
+            "Kết nối ảo",
+            "Đường ảo",
+            "Đường truyền logic"
+        ],
+        "correct": 0
+    },
+    "pokegt69rTAfB3wfbZTxTX": {
+        "index": 9,
+        "id": "pokegt69rTAfB3wfbZTxTX",
+        "question": "Kết nối liên mạng các mạng LAN, WAN, MAN độc lập với nhau bằng các thiết bị có chức năng:",
+        "answers": [
+            "Kiểm soát lỗi, kiểm soát luồng",
+            "Định tuyến",
+            "Điều khiển liên kết",
+            "Điều khiển lưu lượng và đồng bộ hoá"
+        ],
+        "correct": 1
+    },
+    "cwZCaVjjCqA1Nq8aFwwC9n": {
+        "index": 10,
+        "id": "cwZCaVjjCqA1Nq8aFwwC9n",
+        "question": "Cáp UTP Cat5e sử dụng đầu nối:",
+        "answers": [
+            "RJ - 58",
+            "BNC",
+            "RJ - 45",
+            "ST"
+        ],
+        "correct": 2
+    },
+    "vsjjMSmCqmrpvc3aW3cncN": {
+        "index": 11,
+        "id": "vsjjMSmCqmrpvc3aW3cncN",
+        "question": "Cáp UTP Cat 5 có bao nhiêu đôi cáp:",
+        "answers": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ],
+        "correct": 1
+    },
+    "dzHmm9EPVyPjrdMR25fxW4": {
+        "index": 12,
+        "id": "dzHmm9EPVyPjrdMR25fxW4",
+        "question": "Đặc điểm quan trọng của kiến trúc mạng client/server (khách/chủ):",
+        "answers": [
+            "Client/server là kiến trúc phân cấp, client đóng vai trò yêu cầu và server đáp ứng lại các yêu cầu đó.",
+            "Server là host luôn hoạt động, thường có IP cố định, có nhóm các server để chia sẻ công việc. Client có kết nối không liên tục, địa chỉ IP có thể thay đổi, truyền thông với server và thường không truyền thông trực tiếp với client khác.",
+            "Câu A và B đều đúng",
+            "Câu A và B đều sai"
+        ],
+        "correct": 2
+    },
+    "jCKbGNrNfbcPjKqrfk6XhN": {
+        "index": 13,
+        "id": "jCKbGNrNfbcPjKqrfk6XhN",
+        "question": "Khẳng định nào sau đây là đúng khi nói về mạng có cấu trúc điểm- điểm:",
+        "answers": [
+            "Mạng quảng bá ",
+            "Nối từng cặp node lại với nhau theo một hình học xác định",
+            "Mạng lưu và chuyển tiếp (Store - and - Forward)",
+            "Các node trung gian: tiếp nhận, lưu trữ tạm thời và gửi tiếp thông tin"
+        ],
+        "correct": 2
+    },
+    "au1LcK4VkRVFR1uHwgqx2i": {
+        "index": 14,
+        "id": "au1LcK4VkRVFR1uHwgqx2i",
+        "question": "Khẳng định nào sau đây là đúng khi nói về nhược điểm của mạng có cấu trúc điểmđiểm:",
+        "answers": [
+            "Khả năng đụng độ thông tin (collision) thấp",
+            "Hiệu suất sử dụng đường truyền thấp, chiếm dụng nhiều tài nguyên",
+            "Độ trễ lớn, tốn nhiều thời gian để thiết lập đường truyền và xử lý tại các node",
+            "Tốc độ trao đổi thông tin thấp"
+        ],
+        "correct": 1
+    },
+    "nYXhw7n7pkgAqK596v5w64": {
+        "index": 15,
+        "id": "nYXhw7n7pkgAqK596v5w64",
+        "question": "Khẳng định nào sau đây là đúng khi nói về đặc trưng của mạng quảng bá:",
+        "answers": [
+            "Tất cả các node cùng truy nhập chung trên một đường truyền vật lý",
+            "Nối từng cặp node lại với nhau theo một hình học xác định",
+            "Các node trung gian: tiếp nhận, lưu trữ tạm thời và gửi tiếp thông tin",
+            "Khả năng đụng độ thông tin (collision) thấp"
+        ],
+        "correct": 0
+    },
+    "99xrWJpPSiKrx5tKnQtT48": {
+        "index": 16,
+        "id": "99xrWJpPSiKrx5tKnQtT48",
+        "question": "Khẳng định nào sau đây là đúng khi nói về mạng chuyển mạch kênh:",
+        "answers": [
+            "Thiết lập liên kết vật lý, truyền dữ liệu và giải phóng liên kết giữa 2 thực thể",
+            "Thiết lập liên kết logic, truyền dữ liệu và giải phóng liên kết giữa 2 thực thể",
+            "Truyền dữ liệu giữa 2 thực thể",
+            "Thiết lập liên kết và giải phóng liên kết giữa 2 thực thể"
+        ],
+        "correct": 0
+    },
+    "g9iE85nLBwuzb8XWSJJDce": {
+        "index": 17,
+        "id": "g9iE85nLBwuzb8XWSJJDce",
+        "question": "Khẳng định nào sau đây là đúng khi nói về mạng chuyển mạch gói:",
+        "answers": [
+            "Gói tin lưu chuyển trên các kết nối logic",
+            "Gói tin lưu chuyển trên các kết nối vật lý",
+            "Gói tin lưu chuyển độc lập hướng đích",
+            "Gói tin lưu chuyển trên các kết nối logic hướng đích và trên một đường có thể có nhiều gói tin cùng lưu chuyển"
+        ],
+        "correct": 3
+    },
+    "tP1BMsygApQXBCxTFFrehk": {
+        "index": 18,
+        "id": "tP1BMsygApQXBCxTFFrehk",
+        "question": "Khẳng định nào sau đây là đúng khi nói về quá trình phân mảnh gói tin:",
+        "answers": [
+            "Làm giảm thời gian xử lý",
+            "Làm tăng tính linh hoạt của mạng",
+            "Ảnh hưởng đến tốc độ trao đổi dữ liệu trong mạng",
+            "Tăng tốc độ trao đổi thông tin trong mạng"
+        ],
+        "correct": 0,
+        "note": "phân mảnh => nhiều đường truyền => nhanh hơn"
+    },
+    "qhiYNxfqbzJqSmF1jWpJdr": {
+        "index": 19,
+        "id": "qhiYNxfqbzJqSmF1jWpJdr",
+        "question": "Khẳng định nào sau đây là đúng khi nói về truyền dữ liệu theo phương thức hướng liên kết:",
+        "answers": [
+            "Có độ tin cậy cao, đảm bảo chất lượng dịch vụ và có xác nhận",
+            "Không cần độ tin cậy cao, chất lượng dịch vụ thấp",
+            "Có xác nhận, không kiểm soát lỗi, kiểm soát luồng",
+            "Độ tin cậy cao, không xác nhận"
+        ],
+        "correct": 0,
+        "note": "VD như: kết nối TCP "
+    },
+    "u66Zv7rrNjBFVmiN93SCG5": {
+        "index": 20,
+        "id": "u66Zv7rrNjBFVmiN93SCG5",
+        "question": "Khẳng định nào sau đây là đúng nói về cấu trúc vật lý của mạng:",
+        "answers": [
+            "Giao thức mạng (Protocol)",
+            "Hình trạng mạng (Topology )",
+            "Phương tiện truyền",
+            "Các dịch vụ mạng"
+        ],
+        "correct": 1
+    },
+    "eQa26rSk3F8HmNdgNXC3Xr": {
+        "index": 21,
+        "id": "eQa26rSk3F8HmNdgNXC3Xr",
+        "question": "Mạng Internet là: ",
+        "answers": [
+            "Mạng của các máy tính toàn cầu kết nối lại với nhau theo giao thức TCP/IP",
+            "Mạng diện rộng",
+            "Mạng máy tính toàn cầu",
+            "Mạng của các mạng con kết nối lại với nhau"
+        ],
+        "correct": 0
+    },
+    "ow7tFDT9go9t8symFyDG9s": {
+        "index": 22,
+        "id": "ow7tFDT9go9t8symFyDG9s",
+        "question": "Trong mạng hình BUS, tất cả các trạm truy nhập ngẫu nhiên vào:",
+        "answers": [
+            "Đường truyền chung",
+            "Máy chủ mạng",
+            "Bộ nhớ đệm",
+            "Các thiết bị kết nối mạng"
+        ],
+        "correct": 0
+    },
+    "9qNYSMGtty49FxExF1vEio": {
+        "index": 23,
+        "id": "9qNYSMGtty49FxExF1vEio",
+        "question": "Mạng LAN hình sao (STAR) khi có sự cố:",
+        "answers": [
+            "Sẽ ngừng hoạt động toàn bộ hệ thống",
+            "Không ảnh hưởng tới hoạt động toàn bộ hệ thống",
+            "Chỉ ảnh hướng đến trạm có sự cố",
+            "Chỉ ảnh hướng đến một phần của hệ thống"
+        ],
+        "correct": 2
+    },
+    "1wARknFWggArkz3iPMRmUW": {
+        "index": 24,
+        "id": "1wARknFWggArkz3iPMRmUW",
+        "question": "Với kiểu kết nối mạng theo dạng hình sao (Star), khi một trạm trong mạng ngưng hoạt động thì các trạm còn lại:",
+        "answers": [
+            "Hoạt động bình thường",
+            "Đều ngưng hoạt động",
+            "Hoạt động không ổn định",
+            "Các câu trên đều sai"
+        ],
+        "correct": 0
+    },
+    "i8fbX137UdGZ8E1SRFoQRQ": {
+        "index": 25,
+        "id": "i8fbX137UdGZ8E1SRFoQRQ",
+        "question": "Hình trạng mạng nào cho phép tất cả các cặp thiết bị đều có 1 đường nối vật lý trực tiếp:",
+        "answers": [
+            "Star (dạng sao)",
+            "Bus (dạng đường trục)",
+            "Mesh (dạng lưới)",
+            "Hierarchical (dạng phân cấp)"
+        ],
+        "correct": 0,
+        "note": "Mesh: dạng hỗn hợp"
+    },
+    "5EBwYgb6mpLxiFLxUkwRj7": {
+        "index": 26,
+        "id": "5EBwYgb6mpLxiFLxUkwRj7",
+        "question": "Về nguyên tắc cơ bản, dùng cáp UTP Cat5e nào sau đây để kết nối trực tiếp giữa 2 PC với nhau:",
+        "answers": [
+            "Cáp thẳng",
+            "Cáp chéo",
+            "Cáp cuộn",
+            "Cả 3 loại trên"
+        ],
+        "correct": 1
+    },
+    "2x7eYxT1zDTpCab6Gfvphi": {
+        "index": 27,
+        "id": "2x7eYxT1zDTpCab6Gfvphi",
+        "question": "Kết quả nào sau đây không đúng:",
+        "answers": [
+            "163 chuyển sang nhị phân sẽ có giá trị là: 10100011",
+            "111 chuyển sang nhị phân sẽ có giá trị là : 01110011",
+            "125 chuyển sang nhị phân sẽ có giá trị là : 01111101",
+            "178 chuyển sang nhị phân sẽ có giá trị là : 10110010"
+        ],
+        "correct": 1
+    },
+    "8pcTSVw3oBmunTGWW4THqA": {
+        "index": 28,
+        "id": "8pcTSVw3oBmunTGWW4THqA",
+        "question": "Kiểu mạng nào được hạn chế ở cấp tòa cao ốc hay một công sở:",
+        "answers": [
+            "GAN",
+            "WAN",
+            "MAN",
+            "LAN"
+        ],
+        "correct": 3
+    },
+    "dk47GfUfWQmtsc4aSwbmm5": {
+        "index": 29,
+        "id": "dk47GfUfWQmtsc4aSwbmm5",
+        "question": "Chiều dài tối đa của một đoạn trong kiến trúc 100Base-TX:",
+        "answers": [
+            "3 km",
+            "100 mét",
+            "550 mét",
+            "25 mét"
+        ],
+        "correct": 1
+    },
+    "9cZjey2ykMcUMPdEoxMisE": {
+        "index": 30,
+        "id": "9cZjey2ykMcUMPdEoxMisE",
+        "question": "Xét về tỷ lệ lỗi trên đường truyền dữ liệu thì loại mạng nào cao nhất:",
+        "answers": [
+            "MAN",
+            "WAN",
+            "Internet",
+            "LAN"
+        ],
+        "correct": 0,
+        "note": "Mạng diện rộng (tiếng Anh: Wide Area Network, viết tắt WAN) "
+    },
+    "k3Dmwie4kGG2F9fxnDiopp": {
+        "index": 31,
+        "id": "k3Dmwie4kGG2F9fxnDiopp",
+        "question": "Độ dài tối đa cho phép khi sử dụng dây cáp mạng UTP là bao nhiêu mét:",
+        "answers": [
+            "100",
+            "200",
+            "350",
+            "400"
+        ],
+        "correct": 0
+    },
+    "wt4zB8xJkkh9p8nrakEXqs": {
+        "index": 32,
+        "id": "wt4zB8xJkkh9p8nrakEXqs",
+        "question": "Quá trình dữ liệu di chuyển từ hệ thống máy tính này sang hệ thống máy tính khác phải trải qua giai đoạn nào:",
+        "answers": [
+            "Phân tích dữ liệu",
+            "Lọc dữ liệu",
+            "Đóng gói dữ liệu",
+            "Kiểm thử dữ liệu"
+        ],
+        "correct": 0,
+        "note": "cứ phải đóng gói rồi làm gì thì làm :))"
+    },
+    "agB93WSQLT6H5zB5GHXGKs": {
+        "index": 33,
+        "id": "agB93WSQLT6H5zB5GHXGKs",
+        "question": "Khi nối mạng giữa 2 máy tính, thường sử dụng loại cáp nào để nối trực tiếp giữa chúng:",
+        "answers": [
+            "Cáp quang",
+            "Cáp UTP thẳng",
+            "Cáp STP",
+            "Cáp UTP chéo"
+        ],
+        "correct": 0,
+        "note": "Cáp UTP chính là dạng dây cáp mạng xoắn đôi không chống nhiễu, dây cáp với hai dây xoắn tít vào nhau tạo thành một đôi và không có lớp vỏ bọc bên ngoài chống nhiễu. Với UTP thì tên gọi của nó đã cho biết là không có sự bảo vệ chống lại các tác động từ bên ngoài bởi nó không có vỏ bọc chống nhiễu chính vì thế mà hiệu quả của tín hiệu đường truyền thường không ổn định."
+    },
+    "bUAcggw84h5o3kP3JBshnW": {
+        "index": 34,
+        "id": "bUAcggw84h5o3kP3JBshnW",
+        "question": "Các quy tắc điều quản việc truyền thông máy tính được gọi là:",
+        "answers": [
+            "Các giao thức",
+            "Các dịch vụ",
+            "Các hệ điều hành mạng",
+            "Các thiết bị mang tải"
+        ],
+        "correct": 1
+    },
+    "v1qJh7zy1FN1FPA8HKxJBD": {
+        "index": 35,
+        "id": "v1qJh7zy1FN1FPA8HKxJBD",
+        "question": "Hai kiểu máy tính khác nhau có thể truyền thông nếu:",
+        "answers": [
+            "Chúng cài đặt cùng hệ điều hành mạng",
+            "Chúng tuân thủ theo mô hình OSI",
+            "Chúng cùng dùng giao thức TCP/IP",
+            "Chúng có phần cứng giống nhau"
+        ],
+        "correct": 0,
+        "note": "Mô hình OSI\nĐây là mô hình để các hệ thống khác nhau có thể trao đổi thông tin với nhau mà không cần thay đổi bất cứ phần cứng hoặc phần mềm nào của mỗi hãng sản xuất\nMô hình OSI gồm 7 tầng sau:\n- Tầng ứng dụng. (Application layer).\n- Tầng trình diễn (Presentation layer)\n- Tầng phiên (Session layer)\n- Tầng vận tải (Transport layer)\n- Tầng mạng (Network layer)\n- Tầng liên kết dữ liệu (Datalink layer)\n- Tầng vật lý (Physical layer)"
+    },
+    "1ePbLUP9Sew7DN7WZEvaU7": {
+        "index": 36,
+        "id": "1ePbLUP9Sew7DN7WZEvaU7",
+        "question": "Để kết nối hai máy tính với nhau ta có thể sử dụng:",
+        "answers": [
+            "Hub",
+            "Switch",
+            "Nối cáp trực tiếp",
+            "Tất cả đều đúng "
+        ],
+        "correct": 3
+    },
+    "4LkigBfvwEhFQ4vdk8tXzV": {
+        "index": 37,
+        "id": "4LkigBfvwEhFQ4vdk8tXzV",
+        "question": "Biễu diễn số 125 từ cơ số decimal sang cơ số binary:",
+        "answers": [
+            "01111101",
+            "01101111",
+            "01011111",
+            "1111101"
+        ],
+        "correct": 0
+    },
+    "tStPjXMh86tgjzkTg9WVfE": {
+        "index": 38,
+        "id": "tStPjXMh86tgjzkTg9WVfE",
+        "question": "Số nhị phân nào dưới đây có giá trị là 164:",
+        "answers": [
+            "10100100",
+            "10010010",
+            "11000100",
+            "10101010"
+        ],
+        "correct": 0
+    },
+    "5KEGWLvny1FXbXLbeQnEjw": {
+        "index": 39,
+        "id": "5KEGWLvny1FXbXLbeQnEjw",
+        "question": "Thiết bị nào hoạt động ở tầng Vật lý:",
+        "answers": [
+            "Switch",
+            "Card mạng",
+            "Hub và repeater",
+            "Router"
+        ],
+        "correct": 0,
+        "note": "bộ lặp (repeater), bộ tập trung (hub)"
+    },
+    "qHjyg9fKeD8Jxprkm8w55C": {
+        "index": 40,
+        "id": "qHjyg9fKeD8Jxprkm8w55C",
+        "question": "Môi trường truyền tin thông thuờng trong mạng máy tính là:",
+        "answers": [
+            "Các loại cáp như: UTP, STP, cáp điện thoại, cáp quang,...",
+            "Sóng hồng ngoại",
+            "Tất cả môi trườngng nêu trên",
+            "Không cái gì đúng"
+        ],
+        "correct": 2
+    },
+    "cXsX18U87V57Xy41fEwzzW": {
+        "index": 41,
+        "id": "cXsX18U87V57Xy41fEwzzW",
+        "question": "Các thành phần tạo nên mạng là:",
+        "answers": [
+            "Máy tính, hub, switch",
+            "Network adapter, cable",
+            "Protocol",
+            "Tất cả đều đúng"
+        ],
+        "correct": 3
+    },
+    "9jkPJuu8BF2oTbZmhm1uUf": {
+        "index": 42,
+        "id": "9jkPJuu8BF2oTbZmhm1uUf",
+        "question": "Khẳng định nào sau đây là đúng khi nói về đặc tính để phân biệt một tế bào (cell) và một gói tin:",
+        "answers": [
+            "Các tế bào nhỏ hơn một gói tin",
+            "Các tế bào không có địa chỉ vật lý",
+            "Các tế bào có độ dài cố định",
+            "Các gói tin có độ dài cố định"
+        ],
+        "correct": 3
+    },
+    "hnapRt2yQ9UeXTUGvTCTfk": {
+        "index": 43,
+        "id": "hnapRt2yQ9UeXTUGvTCTfk",
+        "question": "Protocol là:",
+        "answers": [
+            "Các qui tắc để cho phép các máy tính có thể giao tiếp được với nhau",
+            "Một trong những thành phần không thể thiếu trong hệ thống mạng",
+            "A và B sai",
+            "A và B đúng"
+        ],
+        "correct": 3
+    },
+    "9ZMpF5atQ3zhwhJz6ZDcKT": {
+        "index": 44,
+        "id": "9ZMpF5atQ3zhwhJz6ZDcKT",
+        "question": "Thiết bị nào sau đây được sử dụng tại trung tâm của mạng hình sao:",
+        "answers": [
+            "Switch, Brigde",
+            "Netcard",
+            "Port",
+            "Repeater"
+        ],
+        "correct": 0,
+        "note": "Dạng sao mở rộng kết nối các dạng hình sao với nhau bằng cách sd các hub hoặc switch. Hub và Brigde thường đc thay thế cho nhau."
+    },
+    "kPkMr92reoCpCdWHgyBv6F": {
+        "index": 45,
+        "id": "kPkMr92reoCpCdWHgyBv6F",
+        "question": "Kiến trúc một mạng LAN có thể là: ",
+        "answers": [
+            "RING",
+            "BUS",
+            "STAR",
+            "Có thể sử dụng riêng hoặc phối hợp cả A, B và C"
+        ],
+        "correct": 3
+    },
+    "65WXirfWSzhTKm32KNjufd": {
+        "index": 46,
+        "id": "65WXirfWSzhTKm32KNjufd",
+        "question": "Giá trị của 11101101 (giá trị các bit nhị phân) trong cơ số 16 là:",
+        "answers": [
+            "CB",
+            "ED",
+            "CF",
+            "EC"
+        ],
+        "correct": 1
+    },
+    "8SpCjRHmDfCar3rFYXBTrH": {
+        "index": 47,
+        "id": "8SpCjRHmDfCar3rFYXBTrH",
+        "question": "Mô tả nào sau đây dành cho mạng hình sao (star):",
+        "answers": [
+            "Truyền dữ liệu qua cáp đồng trục",
+            "Mỗi nút mạng đều kết nối trực tiếp với tất cả các nút khác",
+            "Có một nút trung tâm và các nút mạng khác kết nối đến",
+            "Các nút mạng sử dụng chung một đường cáp"
+        ],
+        "correct": 2
+    },
+    "rhV5rQa3Kd6RnVDnA3gxYP": {
+        "index": 48,
+        "id": "rhV5rQa3Kd6RnVDnA3gxYP",
+        "question": "Loại cáp nào được sử dụng phổ biến nhất hiện nay:",
+        "answers": [
+            "Cáp đồng trục",
+            "Cáp STP",
+            "Cáp UTP (CAT 5)",
+            "Cáp quang"
+        ],
+        "correct": 2
+    },
+    "dZdb49pwPGtaboBrqzCJBV": {
+        "index": 49,
+        "id": "dZdb49pwPGtaboBrqzCJBV",
+        "question": "Giao thức mạng nào dưới đây được sử dụng trong mạng cục bộ LAN:",
+        "answers": [
+            "TCP/IP",
+            "NetBIOS",
+            "IPX",
+            "Tất cả các câu trên"
+        ],
+        "correct": 3
+    },
+    "8b8cyvSikEEGcqA7DniVcZ": {
+        "index": 50,
+        "id": "8b8cyvSikEEGcqA7DniVcZ",
+        "question": "Khẳng định nào sau đây là đúng khi nói về giao thức sử dụng trên cáp sợi quang:",
+        "answers": [
+            "Frame Relay",
+            "FDDI",
+            "SONET",
+            "Cả B và C đều đúng"
+        ],
+        "correct": 0,
+        "note": "Frame Relay là một công nghệ mạng diện rộng được tiêu chuẩn hóa, chỉ định các lớp liên kết vật lý và dữ liệu của các kênh viễn thông kỹ thuật số bằng phương pháp chuyển mạch gói. Được thiết kế ban đầu để vận chuyển trên cơ sở hạ tầng Mạng số dịch vụ tích hợp (ISDN), ngày nay nó có thể được sử dụng trong bối cảnh của nhiều giao diện mạng khác."
+    },
+    "47qjSYcr1n9qichwpujmiA": {
+        "index": 51,
+        "id": "47qjSYcr1n9qichwpujmiA",
+        "question": "Các chuẩn Internet là:",
+        "answers": [
+            "TCP và UDP",
+            "ACK và NAK",
+            "RFC và IETF",
+            "FDM và TDM"
+        ],
+        "correct": 0,
+        "note": "Request for Comments (RFC) \nInternet Engineering Task Force (IETF)"
+    },
+    "mRZvDx9gnVUW7ViCTg67jb": {
+        "index": 52,
+        "id": "mRZvDx9gnVUW7ViCTg67jb",
+        "question": "Giải thông (bandwidth) là:",
+        "answers": [
+            "Tốc độ truyền dữ liệu trên đường truyền",
+            "Độ đo phạm vi tần số mà đường truyền có thể đáp ứng được",
+            "Độ đo sự yếu đi của tín hiệu trên đường truyền",
+            "Độ đo sự ảnh hưởng của tiếng ồn điện từ bên ngoài đến tín hiệu đường truyền"
+        ],
+        "correct": 0,
+        "note": "Băng thông là lượng thông tin tối đa có thể truyền tải trên mạng trong một đơn vị thwoif gian. (kb/s, MB/s....)"
+    },
+    "5MYVmBZKWm94DhB5xHAyWR": {
+        "index": 53,
+        "id": "5MYVmBZKWm94DhB5xHAyWR",
+        "question": "Thông lượng (throughput) là:",
+        "answers": [
+            "Tốc độ truyền dữ liệu trên đường truyền",
+            "Độ đo phạm vi tần số mà đường truyền có thể đáp ứng được",
+            "Độ đo sự yếu đi của tín hiệu trên đường truyền",
+            "Độ đo sự ảnh hưởng của tiếng ồn điện từ bên ngoài đến tín hiệu đường truyền"
+        ],
+        "correct": 0,
+        "note": "Thông lượng: là lượng thông tin thực tế được vận chuyển qua mạng trong 1 đơn vị thwoif gian."
+    },
+    "jrto6Y47jsBxPSHgYiR4m7": {
+        "index": 54,
+        "id": "jrto6Y47jsBxPSHgYiR4m7",
+        "question": "Độ suy hao là:",
+        "answers": [
+            "Tốc độ truyền dữ liệu trên đường truyền",
+            "Độ đo phạm vi tần số mà đường truyền có thể đáp ứng được",
+            "Độ đo sự yếu đi của tín hiệu trên đường truyền",
+            "Độ đo sự ảnh hưởng của tiếng ồn điện từ bên ngoài đến tín hiệu đường truyền"
+        ],
+        "correct": 2
+    },
+    "sqE7oDjczumxFX36WTdwmE": {
+        "index": 55,
+        "id": "sqE7oDjczumxFX36WTdwmE",
+        "question": "Độ nhiễu điện từ là:",
+        "answers": [
+            "Tốc độ truyền dữ liệu trên đường truyền",
+            "Độ đo phạm vi tần số mà đường truyền có thể đáp ứng được",
+            "Độ đo sự yếu đi của tín hiệu trên đường truyền",
+            "Độ đo sự ảnh hưởng của tiếng ồn điện từ bên ngoài đến tín hiệu đường truyền"
+        ],
+        "correct": 3
+    },
+    "7tRqe74ehgc3Q4xik7Eh2c": {
+        "index": 56,
+        "id": "7tRqe74ehgc3Q4xik7Eh2c",
+        "question": "Truyền dẫn theo dải cơ sở (baseband):",
+        "answers": [
+            "Toàn bộ khả năng đường truyền được dành cho một kênh thông duy nhất",
+            "Hai kênh truyền thông cùng phân chia giải thông của đường truyền",
+            "Ba kênh truyền thông cùng phân chia giải thông của đường truyền",
+            "Nhiều kênh truyền thông cùng phân chia giải thông của đường truyền"
+        ],
+        "correct": 0
+    },
+    "t82iLJv8x5ue7abMY7uk1B": {
+        "index": 57,
+        "id": "t82iLJv8x5ue7abMY7uk1B",
+        "question": "Truyền dẫn theo dải rộng (broadband):",
+        "answers": [
+            "Toàn bộ khả năng đường truyền được dành cho một kênh thông duy nhất",
+            "Hai kênh truyền thông cùng phân chia giải thông của đường truyền",
+            "Ba kênh truyền thông cùng phân chia giải thông của đường truyền",
+            "Nhiều kênh truyền thông cùng phân chia giải thông của đường truyền PHẦN 2. MÔ HÌNH OSI VÀ MÔ HÌNH TCP/IP"
+        ],
+        "correct": 3
+    },
+    "xyBX8kefBfzbLd9RqrZW17": {
+        "index": 58,
+        "id": "xyBX8kefBfzbLd9RqrZW17",
+        "question": "Thứ tự của các tầng trong mô hình tham chiếu OSI:",
+        "answers": [
+            "Physical, Data Link, Network, Transport, System, Presentation, Application",
+            "Physical, Data Link, Network, Transport, Session, Presentation, Application",
+            "Physical, Data Link, Network, Transform, Session, Presentation, Application",
+            "Presentation, Data Link, Network, Transport, Session, Physical, Application"
+        ],
+        "correct": 0,
+        "note": "Mô hình OSI\nĐây là mô hình để các hệ thống khác nhau có thể trao đổi thông tin với nhau mà không cần thay đổi bất cứ phần cứng hoặc phần mềm nào của mỗi hãng sản xuất\nMô hình OSI gồm 7 tầng sau:\n\n7 Tầng ứng dụng. (Application layer).\n6 Tầng trình diễn (Presentation layer)\n5 Tầng phiên (Session layer)\n4 Tầng vận tải (Transport layer)\n3 Tầng mạng (Network layer)\n2 Tầng liên kết dữ liệu (Datalink layer)\n1 Tầng vật lý (Physical layer)"
+    },
+    "kPyZr8ca1Wo9rTN5BpFR3Q": {
+        "index": 59,
+        "id": "kPyZr8ca1Wo9rTN5BpFR3Q",
+        "question": "Thứ tự các tầng từ cao đến thấp trong mô hình TCP/IP:",
+        "answers": [
+            "Application, Internet, Transport, Network Access",
+            "Application, Network Access, Transport, Internet",
+            "Application, Transport, Internet, Network Access",
+            "Transport, Internet, Application, Network Access"
+        ],
+        "correct": 2
+    },
+    "9aFvBGG7VANPKE8bTu1TZJ": {
+        "index": 60,
+        "id": "9aFvBGG7VANPKE8bTu1TZJ",
+        "question": "Thứ tự đúng của các đơn vị dữ liệu trong mô hình TCP/IP:",
+        "answers": [
+            "Data, Frame, Segment, Packet, Bit",
+            "Data, Segment, Frame, Packet, Bit",
+            "Data, Packet, Frame, Segment, Bit",
+            "Data, Segment, Packet, Frame, Bit"
+        ],
+        "correct": 0,
+        "note": "4 Tầng ứng dụng (Application) - Data\n3 Tầng vận tải (Transport) - Segment\n2 Tần Internet (Internet) - Packet\n1 Tầng truy cập mạng (Network Access) - Frame, Bit"
+    },
+    "kXdpx11dLPjm4YtSRQj6gd": {
+        "index": 61,
+        "id": "kXdpx11dLPjm4YtSRQj6gd",
+        "question": "Thứ tự các tầng của mô hình OSI theo thứ tự từ trên xuống là:",
+        "answers": [
+            "Ứng dụng, Trình diễn, Phiên, Giao vận, Liên kết, Mạng, Vật lý",
+            "Ứng dụng, Trình diễn, Phiên, Mạng, Giao vận, Liên kết, Vật lý",
+            "Ứng dụng, Trình diễn, Phiên, Giao vận, Mạng, Liên kết, Vật lý",
+            "Ứng dụng, Trình diễn, Giao vận, Phiên, Liên kết, Mạng, Vật lý"
+        ],
+        "correct": 0,
+        "note": "Mô hình OSI\nĐây là mô hình để các hệ thống khác nhau có thể trao đổi thông tin với nhau mà không cần thay đổi bất cứ phần cứng hoặc phần mềm nào của mỗi hãng sản xuất\n\nMô hình OSI gồm 7 tầng sau:\n- Tầng ứng dụng. (Application layer).\n- Tầng trình diễn (Presentation layer)\n- Tầng phiên (Session layer)\n- Tầng vận tải (Transport layer)\n- Tầng mạng (Network layer)\n- Tầng liên kết dữ liệu (Datalink layer)\n- Tầng vật lý (Physical layer)"
+    },
+    "pLBeu68nAEwqL5cAh1TjwK": {
+        "index": 62,
+        "id": "pLBeu68nAEwqL5cAh1TjwK",
+        "question": "Chức năng của tầng trình diễn là chuyển đổi:",
+        "answers": [
+            "Ngôn ngữ người sử dụng về ngôn ngữ chung của mạng",
+            "Cấu trúc thông tin về cấu trúc khung",
+            "Khuôn dạng của gói tin",
+            "Các phiên truyền thông giữa các thực thể"
+        ],
+        "correct": 0
+    },
+    "dod8rcKGcJaw7RbPRLSvyc": {
+        "index": 63,
+        "id": "dod8rcKGcJaw7RbPRLSvyc",
+        "question": "Chức năng của tầng giao vận là:",
+        "answers": [
+            "Vận chuyển thông tin giữa các máy chủ (End to End)",
+            "Kiểm soát lỗi và luồng dữ liệu",
+            "Đóng gói và vận chuyển thông tin",
+            "Phân mảnh và đóng gói dữ liệu"
+        ],
+        "correct": 1
+    },
+    "1WyAf5AvQyyp9T3XxSDBR4": {
+        "index": 64,
+        "id": "1WyAf5AvQyyp9T3XxSDBR4",
+        "question": "Chức năng của tầng mạng là:",
+        "answers": [
+            "Thực hiện chọn đường",
+            "Thực hiện chuyển mạch",
+            "Kiểm soát lỗi và luồng dữ liệu",
+            "Đóng gói dữ liệu"
+        ],
+        "correct": 0
+    },
+    "c8obDtJhH6ykEjHNbimabi": {
+        "index": 65,
+        "id": "c8obDtJhH6ykEjHNbimabi",
+        "question": "Chức năng của tầng liên kết dữ liệu là:",
+        "answers": [
+            "Tạo khung thông tin (Frame)",
+            "Đóng gói dữ liệu",
+            "Chọn đường",
+            "Vận chuyển thông tin giữa các máy chủ (End to End)"
+        ],
+        "correct": 0
+    },
+    "16bpn4xXyFt4eQPok9dubj": {
+        "index": 66,
+        "id": "16bpn4xXyFt4eQPok9dubj",
+        "question": "Chức năng của tầng vật lý là:",
+        "answers": [
+            "Đảm bảo các yêu cầu truyền/nhận các chuỗi bit qua các phương tiện vật lý",
+            "Kiểm soát lỗi và luồng dữ liệu",
+            "Tạo khung thông tin",
+            "Phân mảnh và đóng gói dữ liệu"
+        ],
+        "correct": 0
+    },
+    "bFAcQo2iztYmyi5XSjhJva": {
+        "index": 67,
+        "id": "bFAcQo2iztYmyi5XSjhJva",
+        "question": "Khi kết nối máy tính từ nhà vào ISP thông qua đường dây điện thoại, tín hiệu trên đường điện thoại sẽ thuộc về tầng:",
+        "answers": [
+            "Giao vận",
+            "Mạng",
+            "Liên kết dữ liệu",
+            "Vật lý"
+        ],
+        "correct": 3
+    },
+    "22rrQg774HoYMuvkpiyDhn": {
+        "index": 68,
+        "id": "22rrQg774HoYMuvkpiyDhn",
+        "question": "Theo mô hình OSI, định dạng ảnh JPG nằm ở tầng:",
+        "answers": [
+            "Ứng dụng",
+            "Phiên",
+            "Trình diễn",
+            "Mạng"
+        ],
+        "correct": 0,
+        "note": "Tầng trình diễn (layer) thực hiện ba chức năng chính: \n- mã hõa/giải mã dữ liệu, \n- nén/giải nén \n- mã hóa/giải mã bảo mật. \n\nCác giao thức tầng trình diễn như: QuickTime là giao thức cho video và âm thanh, MPEG là tiêu chuẩn cho việc nén và mã hóa video. "
+    },
+    "p9CYRZ2WeQmLDu7n1RTpf7": {
+        "index": 69,
+        "id": "p9CYRZ2WeQmLDu7n1RTpf7",
+        "question": "Mô hình OSI chia hoạt động truyền thông thành mấy tầng:",
+        "answers": [
+            "7 tầng",
+            "5 tầng.",
+            "4 tầng ",
+            "3 tầng."
+        ],
+        "correct": 0
+    },
+    "v612rGQtzkpeGUv5sxU5XR": {
+        "index": 70,
+        "id": "v612rGQtzkpeGUv5sxU5XR",
+        "question": "Các tầng của mô hình OSI theo thứ tự từ dưới lên là:",
+        "answers": [
+            "Vật lý, TCP, IP, Mạng, Giao vận, Phiên, Trình diễn và Ứng dụng",
+            "Vật lý, Liên kết dữ liệu, Giao vận, Mạng, Phiên, Trình diễn và Ứng dụng.",
+            "Vật lý, Liên kết dữ liệu, Mạng, Giao vận, Phiên, Trình diễn và Ứng dụng.",
+            "Vật lý, Liên kết dữ liệu, Mạng, TCP, IP, Phiên và Ứng dụng."
+        ],
+        "correct": 2
+    },
+    "h7HC7q19PcH68pE4jWsGko": {
+        "index": 71,
+        "id": "h7HC7q19PcH68pE4jWsGko",
+        "question": "Tầng nào xác định giao diện giữa người sử dụng và môi trường OSI:",
+        "answers": [
+            "Tầng ứng dụng",
+            "Tầng trình diễn",
+            "Tầng phiên",
+            "Tầng vận chuyển"
+        ],
+        "correct": 0
+    },
+    "pycTtpZCCM3zPbk39tBHV4": {
+        "index": 72,
+        "id": "pycTtpZCCM3zPbk39tBHV4",
+        "question": "Tầng nào dưới đây thiết lập, duy trì, huỷ bỏ 'các giao dịch' giữa các thực thể đầu cuối:",
+        "answers": [
+            "Tầng mạng",
+            "Tầng liên kết dữ liệu",
+            "Tầng phiên",
+            "Tầng vật lý"
+        ],
+        "correct": 0,
+        "note": "Tầng mạng chịu trách nhiệm chuyển dữ liệu giữa các thiết bị đầu cuối của người sd"
+    },
+    "6TPGg3Z3zX5wbdNqLdVd8k": {
+        "index": 73,
+        "id": "6TPGg3Z3zX5wbdNqLdVd8k",
+        "question": "Tầng nào thực hiện việc chuyển giao các thông điệp giữa các tiến trình trên các thiết bị:",
+        "answers": [
+            "Tầng mạng",
+            "Tầng giao vận",
+            "Tầng liên kết dữ liệu",
+            "Tầng phiên"
+        ],
+        "correct": 0,
+        "note": "Tầng giao vận chịu trách nhiệm chuyển toàn bộ bản tin từ nơi gửi đến nơi nhận."
+    },
+    "3KTC2qRkWyyN3fpPbpvA9A": {
+        "index": 74,
+        "id": "3KTC2qRkWyyN3fpPbpvA9A",
+        "question": "Điều khiển các cuộc liên lạc là chức năng của tầng nào:",
+        "answers": [
+            "Vật lý",
+            "Tầng mạng",
+            "Tầng phiên",
+            "Tầng trình diễn"
+        ],
+        "correct": 2
+    },
+    "xicYhWUjUwJoU8b5gFiMLe": {
+        "index": 75,
+        "id": "xicYhWUjUwJoU8b5gFiMLe",
+        "question": "Trong mô hình OSI, tầng nào thực hiện việc chọn đường và chuyển tiếp thông tin:",
+        "answers": [
+            "Network",
+            "Transport",
+            "Session",
+            "Data link"
+        ],
+        "correct": 0,
+        "note": "Tầng mạng có chức năng định tuyến: chọn đường, chuyển tiếp thông tin..."
+    },
+    "cjBe772CxjwhEbcxzPhwCx": {
+        "index": 76,
+        "id": "cjBe772CxjwhEbcxzPhwCx",
+        "question": "Trong mô hình OSI, việc mở và đóng các cuộc hội thoại giữa các máy tính là trách nhiệm của:",
+        "answers": [
+            "Tầng phiên",
+            "Tầng giao vận",
+            "Tầng liên kết dữ liệu",
+            "Tầng vật lý"
+        ],
+        "correct": 0,
+        "note": "Tầng phiên đóng vai trò kiểm soát viên hội thoại giữa các tiến trình trên lớp ứng dụng qua mạng."
+    },
+    "mX5ZVL1QU1Cg3rZ6dkC7EU": {
+        "index": 77,
+        "id": "mX5ZVL1QU1Cg3rZ6dkC7EU",
+        "question": "Trong mô hình OSI, đâu là mối quan hệ của một tầng (N) đối với tầng bên trên nó (N+1):",
+        "answers": [
+            "Tầng N cung cấp các dịch vụ cho tầng N+1 ",
+            "Tầng N+1 bổ sung một phần đầu vào thông tin nhận được từ tầng N",
+            "Tầng N vận dụng các dịch vụ do tầng N+1 cung cấp",
+            "Tầng N không có tác động gì lên tầng N+1"
+        ],
+        "correct": 0,
+        "note": "Trong mỗi máy, mỗi tầng sd các dịch vụ do tầng bên dưới cung cấp"
+    },
+    "85hxHZmbpQpKTrQ8uaH8jj": {
+        "index": 78,
+        "id": "85hxHZmbpQpKTrQ8uaH8jj",
+        "question": "Trong mô hình mạng Internet, chuẩn UNICODE (cho việc mã hoá các ký tự) sẽ nằm ở tầng:",
+        "answers": [
+            "Ứng dụng",
+            "Giao vận",
+            "Mạng",
+            "Liên kết dữ liệu"
+        ],
+        "correct": 0
+    },
+    "vZ3Z612Nz9eT9Zu5t6mNyF": {
+        "index": 79,
+        "id": "vZ3Z612Nz9eT9Zu5t6mNyF",
+        "question": "Theo mô hình OSI, định dạng ảnh JPG nằm ở tầng:",
+        "answers": [
+            "Ứng dụng",
+            "Phiên",
+            "Trình diễn",
+            "Mạng"
+        ],
+        "correct": 2
+    },
+    "1RLabFdKozqbUcXYsyjuqx": {
+        "index": 80,
+        "id": "1RLabFdKozqbUcXYsyjuqx",
+        "question": "Đơn vị dữ liệu ở tầng presentation là:",
+        "answers": [
+            "Byte",
+            "Data",
+            "Frame",
+            "Packet"
+        ],
+        "correct": 1
+    },
+    "oqCEmNueee1byCBW5jMSFQ": {
+        "index": 81,
+        "id": "oqCEmNueee1byCBW5jMSFQ",
+        "question": "Chọn chức năng của tầng Presentation:",
+        "answers": [
+            "Mã hoá dữ liệu và nén dữ liệu",
+            "Cung cấp các dịch vụ mạng người dùng",
+            "Đánh địa chỉ",
+            "Tất cả đều sai"
+        ],
+        "correct": 0
+    },
+    "nenBMHKQCRzwQtXbdAcqAF": {
+        "index": 82,
+        "id": "nenBMHKQCRzwQtXbdAcqAF",
+        "question": "Tầng nào trong mô hình OSI chịu trách nhiệm mã hoá dữ liệu:",
+        "answers": [
+            "Application",
+            "Presentation",
+            "Session",
+            "Transport"
+        ],
+        "correct": 1
+    },
+    "1NPnFszP6mMtMwmREjJifa": {
+        "index": 83,
+        "id": "1NPnFszP6mMtMwmREjJifa",
+        "question": "Tầng nào trong mô hình OSI làm việc với các tín hiệu điện:",
+        "answers": [
+            "Data Link",
+            "Network",
+            "Physical",
+            "Transport"
+        ],
+        "correct": 2
+    },
+    "xfApNLX11fGvNCyEEoE8Tc": {
+        "index": 84,
+        "id": "xfApNLX11fGvNCyEEoE8Tc",
+        "question": "Mô hình TCP/IP chia hoạt động truyền thông thành mấy tầng:",
+        "answers": [
+            "7 tầng",
+            "6 tầng.",
+            "4 tầng",
+            "3 tầng."
+        ],
+        "correct": 0,
+        "note": "4 Tầng ứng dụng (Application)\n3 Tầng vận tải (Transport)\n2 Tần Internet (Internet)\n1 Tầng truy cập mạng (Network Access)"
+    },
+    "2cWn5UheUznj11Fqbkxyq8": {
+        "index": 85,
+        "id": "2cWn5UheUznj11Fqbkxyq8",
+        "question": "Thứ tự các tầng từ thấp đến cao trong mô hình TCP/IP:",
+        "answers": [
+            "Ứng dụng, Mạng, Giao vận, Truy nhập mạng",
+            "Mạng, Giao vận, Truy nhập mạng, Ứng dụng",
+            "Truy nhập mạng, Mạng, Giao vận, Ứng dụng",
+            "Truy nhập mạng, Giao vận, Mạng, Ứng dụng"
+        ],
+        "correct": 2
+    },
+    "v4UNo786sUV9KNwdXQmCYH": {
+        "index": 86,
+        "id": "v4UNo786sUV9KNwdXQmCYH",
+        "question": "Đơn vị dữ liệu ở tầng Data link là:",
+        "answers": [
+            "Byte",
+            "Data",
+            "Frame",
+            "Packet"
+        ],
+        "correct": 0,
+        "note": "Tầng liên kết dữ liệu (Data Link)"
+    },
+    "8mWh1kriDSdhJZjK7NMMmp": {
+        "index": 87,
+        "id": "8mWh1kriDSdhJZjK7NMMmp",
+        "question": "Đơn vị dữ liệu ở tầng Internet là:",
+        "answers": [
+            "Byte",
+            "Data",
+            "Frame",
+            "Datagram"
+        ],
+        "correct": 3
+    },
+    "6wgpejcn3s5KWYBeegVnbs": {
+        "index": 88,
+        "id": "6wgpejcn3s5KWYBeegVnbs",
+        "question": "Chức năng của tầng ứng dụng là:",
+        "answers": [
+            "Tạo khung thông tin (Frame)",
+            "Đóng gói dữ liệu",
+            "Cung cấp các phương tiện để người dùng có thể truy nhập được vào môi trường mạng",
+            "Vận chuyển thông tin giữa các máy chủ (End to End) PHẦN 3. TẦNG ỨNG DỤNG"
+        ],
+        "correct": 2
+    },
+    "cSgb339W21K6fb3SU5Tk5x": {
+        "index": 89,
+        "id": "cSgb339W21K6fb3SU5Tk5x",
+        "question": "FTP là từ viết tắt của:",
+        "answers": [
+            "File Transfer Protocol",
+            "Folder Transfer Protocol",
+            "Protocol Transfer Program",
+            "Protocol Transfer Folder"
+        ],
+        "correct": 0,
+        "note": "FTP (viết tắt của File Transfer Protocol dịch ra là \"Giao thức truyền tập tin\") thường được dùng để trao đổi tập tin qua mạng lưới truyền thông dùng giao thức TCP/IP (chẳng hạn như Internet - mạng ngoại bộ - hoặc Intranet - mạng nội bộ)."
+    },
+    "8i9BSzbtiEeYvH5kf8TMJo": {
+        "index": 90,
+        "id": "8i9BSzbtiEeYvH5kf8TMJo",
+        "question": "HTTP là từ viết tắt của:",
+        "answers": [
+            "HyperText Transmision Protocol",
+            "HyperText Transit Protocol",
+            "HyperText Transfer Protocol",
+            "HyperText Treat Protocol"
+        ],
+        "correct": 2
+    },
+    "c9u4hLkcJ8Hw5FLpMqJER9": {
+        "index": 91,
+        "id": "c9u4hLkcJ8Hw5FLpMqJER9",
+        "question": "Giao thức POP3 sử dụng cổng dịch vụ số:",
+        "answers": [
+            "53",
+            "23",
+            "25",
+            "110"
+        ],
+        "correct": 0,
+        "note": "Post Office Protocol phiên bản 3 (POP3) là một giao thức tầng ứng dụng, dùng để lấy thư điện tử từ server mail, thông qua kết nối TCP/IP. "
+    },
+    "p16jQVVUPigTiubX3jgaCC": {
+        "index": 92,
+        "id": "p16jQVVUPigTiubX3jgaCC",
+        "question": "Dịch vụ DNS có chức năng chính là gì:",
+        "answers": [
+            "Phân giải tên netbios",
+            "Phân giải tên miền (IP sang tên và ngược lại)",
+            "Phân giải địa chỉ MAC",
+            "Tất cả đều sai"
+        ],
+        "correct": 0,
+        "note": "Hệ thống phân giải tên miền (hay được viết tắt là DNS do tên tiếng Anh Domain Name System) là một hệ thống cho phép thiết lập tương ứng giữa địa chỉ IP và tên miền trên Internet."
+    },
+    "x9N6GdDYHeeXQUEqcNsUq6": {
+        "index": 93,
+        "id": "x9N6GdDYHeeXQUEqcNsUq6",
+        "question": "Nhược điểm nếu xây dựng hệ thống dịch vụ tên miền (DNS) theo mô hình tập trung là:",
+        "answers": [
+            "Nếu điểm tập trung bị hỏng, toàn bộ hệ thống sẽ bị tê liệt ",
+            "Số lượng yêu cầu phục vụ tại điểm tập trung duy nhất sẽ rất lớn",
+            "Chi phí bảo trì hệ thống rất lớn",
+            "Tất cả câu trả lời trên"
+        ],
+        "correct": 0,
+        "note": "- Điểm hỏng duy nhất: nếu máy chủ tên miền duy nhất ngừng làm việc thì cũng có nghĩa toàn bộ mạng Internet ngừng hoạt động.\n- Khối lượng xử lý lớn: có rất nhiều truy vấn DNS\n- CSDL tập trung ở xa\n- Bảo trì rất khó khăn"
+    },
+    "bi1spHPrnnWphjFBNS86rn": {
+        "index": 94,
+        "id": "bi1spHPrnnWphjFBNS86rn",
+        "question": "Số hiệu cổng (port) của giao thức truyền mail SMTP là:",
+        "answers": [
+            "23",
+            "25",
+            "21",
+            "110"
+        ],
+        "correct": 0,
+        "note": "SMTP (tiếng Anh: Simple Mail Transfer Protocol - giao thức truyền tải thư tín đơn giản) là một chuẩn truyền tải thư điện tử qua mạng Internet. Port 2555555555555"
+    },
+    "28NWSLx374p9KCStikTCnx": {
+        "index": 95,
+        "id": "28NWSLx374p9KCStikTCnx",
+        "question": "Giao thức truyền thông trong DNS sử dụng cổng dịch vụ số:",
+        "answers": [
+            "21",
+            "25",
+            "53",
+            "110"
+        ],
+        "correct": 2
+    },
+    "p6vhEKJ9h84Fsiuu49ubLw": {
+        "index": 96,
+        "id": "p6vhEKJ9h84Fsiuu49ubLw",
+        "question": "Trong số các cặp giao thức và cổng dịch vụ sau, cặp nào là sai:",
+        "answers": [
+            "SMTP:TCP Port 25",
+            "FTP:UDP Port 22",
+            "HTTP:TCP Port 80",
+            "DNS:UDP Port 53"
+        ],
+        "correct": 0,
+        "note": "FTP: 20, 21\nSMPT: 25\nHTTP: 80\nDNS: 53"
+    },
+    "6aGbBVq8sDe3Z6YvgauGez": {
+        "index": 97,
+        "id": "6aGbBVq8sDe3Z6YvgauGez",
+        "question": "Giao thức nào sau đây hoạt động trên nền giao thức UDP:",
+        "answers": [
+            "ARP",
+            "DNS",
+            "Telnet",
+            "Tất cả các câu trên đều đúng"
+        ],
+        "correct": 1
+    },
+    "oum7uqcvBYPSTBaVAvjHh6": {
+        "index": 98,
+        "id": "oum7uqcvBYPSTBaVAvjHh6",
+        "question": "Khẳng định nào sau đây là đúng khi nói về ngôn ngữ đánh dấu siêu văn bản HTML:",
+        "answers": [
+            "Là một thủ tục World Wide Web",
+            "Phương thức liên kết các file văn bản",
+            "Là công cụ soạn thảo trang thông tin Web",
+            "Giao diện Web"
+        ],
+        "correct": 2
+    },
+    "pHnFLg4NEzkTU1L81yzFFx": {
+        "index": 99,
+        "id": "pHnFLg4NEzkTU1L81yzFFx",
+        "question": "Khẳng định nào sau đây là đúng khi nói về tên gọi loại máy chủ cung cấp dịch vụ thư điện tử:",
+        "answers": [
+            "Web Server",
+            "Mail Server",
+            "FTP Server",
+            "Proxy"
+        ],
+        "correct": 0,
+        "note": "- Web server: dịch vụ website\n- FTP server: chuyển file\n- Proxy: trung gian, kiểm soát, chuyển tiếp thông tin "
+    },
+    "woGix3qfwThJu28oTDHKVt": {
+        "index": 100,
+        "id": "woGix3qfwThJu28oTDHKVt",
+        "question": "Khẳng định nào sau đây là đúng khi nói về đơn vị dữ liệu của tầng Ứng dụng (Application):",
+        "answers": [
+            "Message (Thông điệp)",
+            "Segment/ Datagram (Đoạn/Bó dữ liệu)",
+            "Packet (Gói dữ liệu)",
+            "Frame (Khung dữ liệu)"
+        ],
+        "correct": 0
+    },
+    "2P9XNYTXHUEpKpuJC5pi2V": {
+        "index": 101,
+        "id": "2P9XNYTXHUEpKpuJC5pi2V",
+        "question": "HTTP (Hypertex Transfer Protocol) là: ",
+        "answers": [
+            "Giao thức ứng dụng cho phép các máy tính giao tiếp với nhau qua Web và có khả năng liên kết các trang Web với nhau.",
+            "Giao thức tầng vận chuyển cho phép truyền tải các trang Web.",
+            "Một thành phần tên miền.",
+            "Giao diện Web."
+        ],
+        "correct": 0
+    },
+    "3Rh2Q2mnf4yPc99Cn8yzPa": {
+        "index": 102,
+        "id": "3Rh2Q2mnf4yPc99Cn8yzPa",
+        "question": "Các giao thức ứng dụng hoạt động trên:",
+        "answers": [
+            "Tầng trình diễn",
+            "Tầng phiên",
+            "Tầng ứng dụng",
+            "Tầng liên kết dữ liệu"
+        ],
+        "correct": 2
+    },
+    "mhP3VsdPd8Y7bpvtt3bzy3": {
+        "index": 103,
+        "id": "mhP3VsdPd8Y7bpvtt3bzy3",
+        "question": "HTTP làm nhiệm vụ gì:",
+        "answers": [
+            "Cung cấp một cơ chế để lấy dữ liệu từ server chuyển đến client",
+            "Hiển thị các trang Web từ xa trên màn hình và giúp người dùng tương tác với chúng",
+            "Cung cấp giao diện người dùng như các nút bấm, thanh trượt,…",
+            "Cung cấp dữ liệu từ server sử dụng giao thức chuyển file (File Transport Protocol)"
+        ],
+        "correct": 0
+    },
+    "nePpwwWezeJxyHZBMGmhyZ": {
+        "index": 104,
+        "id": "nePpwwWezeJxyHZBMGmhyZ",
+        "question": "Trên Internet, email được gửi từ máy nguồn bằng cách thiết lập một kết nối TCP đến một cổng cụ thể trên máy đích. Cổng đó là:",
+        "answers": [
+            "80",
+            "110",
+            "25",
+            "404"
+        ],
+        "correct": 2
+    },
+    "jpMWAWQ3VdjnnQJFhbWf4a": {
+        "index": 105,
+        "id": "jpMWAWQ3VdjnnQJFhbWf4a",
+        "question": "Giả sử có một bản ghi của dịch vụ DNS là (cnn.com, r1.infor.cnn.com, CNAME)",
+        "answers": [
+            "cnn.com là tên viết tắt (rút gọn) của r1.infor.cnn.com",
+            "r1.infor.cnn.com là tên viết tắt (rút gọn) của cnn.com",
+            "Cả A và B đều đúng",
+            "Cả A và B đều sai"
+        ],
+        "correct": 0
+    },
+    "vDzCVnJ4pscsUSdjBCivnb": {
+        "index": 106,
+        "id": "vDzCVnJ4pscsUSdjBCivnb",
+        "question": "Giao thức được sử dụng để 2 bên truyền file là:",
+        "answers": [
+            "HTTP",
+            "FTP",
+            "SMTP",
+            "SNMP"
+        ],
+        "correct": 1
+    },
+    "f5ReneusHkoAMmxoQzzh4R": {
+        "index": 107,
+        "id": "f5ReneusHkoAMmxoQzzh4R",
+        "question": "Giả sử có một bản ghi của dịch vụ DNS là (alpha.com, 123.4.5.7, NS). Chọn câu trả lời đúng:",
+        "answers": [
+            "123.4.5.7 là địa chỉ IP của máy alpha.com",
+            "alpha.com là một tên miền, không phải là một máy",
+            "123.4.5.7 là địa chỉ IP của máy phục vụ thư (mail server) có tên miền là google.com",
+            "Tất cả đều sai"
+        ],
+        "correct": 1
+    },
+    "ggKNHprTfWZzzuzkgxSTMi": {
+        "index": 108,
+        "id": "ggKNHprTfWZzzuzkgxSTMi",
+        "question": "Giả sử tất cả các máy tính thuê bao Internet của FPT khi truy cập vào website google.com đều bị chuyển hướng sang một trang web khác. Các máy tính thuê bao các ISP khác không gặp tình huống này. Nguyên nhân gây ra lỗi lớn nhất sẽ là:",
+        "answers": [
+            "Các máy tính bị nhiễm virus",
+            "Website google bị lỗi",
+            "DNS server của FPT bị lỗi ",
+            "Router ra ngoài của ISP FPT bị lỗi"
+        ],
+        "correct": 2
+    },
+    "utNzx4PHBCxvqaTt6MLFJS": {
+        "index": 109,
+        "id": "utNzx4PHBCxvqaTt6MLFJS",
+        "question": "Các Web client thường được gọi là gì:",
+        "answers": [
+            "Netscape Navigator",
+            "Browers",
+            "Mosaic",
+            "HTML interpreter (trình thông dịch HTML)"
+        ],
+        "correct": 1
+    },
+    "78P62KKhpzgGJaRV8HJ48D": {
+        "index": 110,
+        "id": "78P62KKhpzgGJaRV8HJ48D",
+        "question": "Web server thường sử dụng phần mềm chạy trên:",
+        "answers": [
+            "Cổng 25",
+            "Cổng 404",
+            "Cổng 125",
+            "Cổng 80"
+        ],
+        "correct": 3
+    },
+    "6cFEFS1p1xyLS5mhtUDAhS": {
+        "index": 111,
+        "id": "6cFEFS1p1xyLS5mhtUDAhS",
+        "question": "Để thiết kế một trang Web như chúng ta vẫn thấy trên màn hình (các định dạng font chữ, màu sắc, các hiệu ứng đồ họa, các đường liên kết), người ta đã phát triển một kiểu định dạng đặc biệt. Định dạng trang chuẩn được dùng trong Web là:",
+        "answers": [
+            "HTTP",
+            "Mosaic",
+            "HTML",
+            "Netscape"
+        ],
+        "correct": 2
+    },
+    "ew31heR4ypx2pmS8gfeMBB": {
+        "index": 112,
+        "id": "ew31heR4ypx2pmS8gfeMBB",
+        "question": "Phát biểu nào sau đây đúng về giao thức HTTP:",
+        "answers": [
+            "Phiên bản giao thức luôn được đặt trong tất cả thông điệp",
+            "Tất cả các tiêu đề đều dưới dạng text",
+            "Tất cả dữ liệu đều truyền dưới dạng văn bản (text)",
+            "A và B"
+        ],
+        "correct": 3
+    },
+    "sR4P1bz13aPJxDSCHgAkat": {
+        "index": 113,
+        "id": "sR4P1bz13aPJxDSCHgAkat",
+        "question": "Trong những thông điệp HTTP trả lời dưới đây, thông điệp nào đúng:",
+        "answers": [
+            "200 'OK'",
+            "201 'Moved Permanently'",
+            "404 'Not Modified'",
+            "20 'Not Implemented'"
+        ],
+        "correct": 0
+    },
+    "gLTewii7t9Dbkj2YGTy6Si": {
+        "index": 114,
+        "id": "gLTewii7t9Dbkj2YGTy6Si",
+        "question": "Những thông điệp nào dưới đây được giao thức POP3 hỗ trợ:",
+        "answers": [
+            "Kiểm chứng (Authorization)",
+            "Đọc một thư (Retrieving a message)",
+            "Xoá một thư",
+            "Tất cả đều đúng"
+        ],
+        "correct": 3
+    },
+    "a5aLfLAMvSuJs4vZYZPEMQ": {
+        "index": 115,
+        "id": "a5aLfLAMvSuJs4vZYZPEMQ",
+        "question": "Giao thức nào thuộc tầng Application:",
+        "answers": [
+            "IP",
+            "HTTP",
+            "NFS",
+            "TCP"
+        ],
+        "correct": 1
+    },
+    "vVnAwjsQUQuKfU2aH9bQPR": {
+        "index": 116,
+        "id": "vVnAwjsQUQuKfU2aH9bQPR",
+        "question": "Cho biết ứng dụng nào thuộc loại Client/Server:",
+        "answers": [
+            "WinWord",
+            "WWW (World Wide Web)",
+            "Excel ",
+            "Photoshop"
+        ],
+        "correct": 1
+    },
+    "x2qx4iDgiQMfFJF8L93uqQ": {
+        "index": 117,
+        "id": "x2qx4iDgiQMfFJF8L93uqQ",
+        "question": "Mã 404 trong thông điệp trả lời từ Web server cho Web client có ý nghĩa:",
+        "answers": [
+            "Server không hiểu yêu cầu của client",
+            "Đối tượng client yêu cầu không có",
+            "Không có câu trả lời nào đúng",
+            "Yêu cầu của Client không hợp lệ"
+        ],
+        "correct": 1
+    },
+    "7foFiDFE3ppWpEJZwMy5zh": {
+        "index": 118,
+        "id": "7foFiDFE3ppWpEJZwMy5zh",
+        "question": "Giao thức được sử dụng để truyền thư giữa các máy chủ phục vụ thư (Mail server) là:",
+        "answers": [
+            "HTTP",
+            "FTP",
+            "SMTP",
+            "POP"
+        ],
+        "correct": 2
+    },
+    "h6mY7noKsN4k7j8bndU4gn": {
+        "index": 119,
+        "id": "h6mY7noKsN4k7j8bndU4gn",
+        "question": "Ứng dụng nào sử dụng mô hình client/server:",
+        "answers": [
+            "Bit Torrent",
+            "Email, Web",
+            "Skype",
+            "KaZaA"
+        ],
+        "correct": 1
+    },
+    "79DGD5NUffZxiLqHK5gbWf": {
+        "index": 120,
+        "id": "79DGD5NUffZxiLqHK5gbWf",
+        "question": "Ứng dụng nào sử dụng mô hình P2P:",
+        "answers": [
+            "Telnet",
+            "Email",
+            "Web",
+            "Skype"
+        ],
+        "correct": 0,
+        "note": "peer to peer"
+    },
+    "2g8pq9995pteZnnybMY32y": {
+        "index": 121,
+        "id": "2g8pq9995pteZnnybMY32y",
+        "question": "Các ứng dụng dùng giao thức TCP:",
+        "answers": [
+            "Web, truyền file, Email",
+            "Web, DNS, điện thoại Internet",
+            "Hội thảo từ xa, điện thoại Internet, streaming media",
+            "Telnet, DNS, Email"
+        ],
+        "correct": 0
+    },
+    "mgbsaJMUN9yDcQg8aPP6P2": {
+        "index": 122,
+        "id": "mgbsaJMUN9yDcQg8aPP6P2",
+        "question": "Các ứng dụng dùng giao thức UDP:",
+        "answers": [
+            "Web, truyền file, Email",
+            "Web, DNS, điện thoại Internet",
+            "Hội thảo từ xa, điện thoại Internet, streaming media",
+            "Telnet, DNS, Email"
+        ],
+        "correct": 2
+    },
+    "dxdVQZ45cang4hzEM4oGx6": {
+        "index": 123,
+        "id": "dxdVQZ45cang4hzEM4oGx6",
+        "question": "Định danh (identifier) của tiến trình bao gồm:",
+        "answers": [
+            "Địa chỉ IP của host",
+            "Địa chỉ IP và số hiệu cổng liên kết với tiến trình trên host",
+            "Địa chỉ IP nguồn và địa chỉ IP đích",
+            "Địa chỉ IP nguồn, số hiệu cổng nguồn, địa chỉ IP đích, số hiệu cổng đích"
+        ],
+        "correct": 1
+    },
+    "98pJorGXm5RA7okrHhxsfM": {
+        "index": 124,
+        "id": "98pJorGXm5RA7okrHhxsfM",
+        "question": "Đâu là một URL:",
+        "answers": [
+            "www.someschool.edu",
+            "192.168.1.1",
+            "…/someDept/pic.gif",
+            "www.someschool.edu/someDept/pic.gif"
+        ],
+        "correct": 3
+    },
+    "8HxDUHU1YxyMyFkjMQBb26": {
+        "index": 125,
+        "id": "8HxDUHU1YxyMyFkjMQBb26",
+        "question": "RTT (Round Trip Time) là:",
+        "answers": [
+            "Thời gian khởi tạo kết nối TCP",
+            "Thời gian để gửi một gói nhỏ đi từ client đến server",
+            "Thời gian để gửi một gói nhỏ đi từ client đến server và quay lại",
+            "Thời gian truyền file"
+        ],
+        "correct": 2
+    },
+    "e1uEooQohZQXQ3KUYZ5yhv": {
+        "index": 126,
+        "id": "e1uEooQohZQXQ3KUYZ5yhv",
+        "question": "Trong cơ sở dữ liệu của DNS lưu trữ các resource record (RR) có dạng:",
+        "answers": [
+            "(name, value, type, ttl)",
+            "(value, name, ttl, type)",
+            "(value, ttl, name, type)",
+            "(name, type, ttl, value) PHẦN 4. TẦNG GIAO VẬN"
+        ],
+        "correct": 0,
+        "note": "Time To Live (TTL)\nThe TTL is a value in a DNS record that determines the number of seconds before subsequent changes to the record go into effect. Each of your domain's DNS records, such as an MX record, CNAME record, and so on, has a TTL value. A record's current TTL determines how long it will take any change you make now to go into effect. Changes to a record that has a TTL of 86400 seconds, for example, will take up to 24 hours to go into effect."
+    },
+    "rb26sTez3dRS8A5p1f1UWT": {
+        "index": 127,
+        "id": "rb26sTez3dRS8A5p1f1UWT",
+        "question": "Những giao thức nào sau đây thuộc tầng vận chuyển (Transport Layer) trong mô hình TCP/IP:",
+        "answers": [
+            "UDP",
+            "IP",
+            "TCP",
+            "Cả A và C đều đúng"
+        ],
+        "correct": 3
+    },
+    "b7BHEFdLB1ANbkGhN8Czzh": {
+        "index": 128,
+        "id": "b7BHEFdLB1ANbkGhN8Czzh",
+        "question": "Giao thức nào cung cấp tính năng vận chuyển gói tin có độ tin cậy cao:",
+        "answers": [
+            "UDP",
+            "TCP",
+            "ARP",
+            "IP"
+        ],
+        "correct": 1
+    },
+    "h5meAftKeAqNqE76E2bAgG": {
+        "index": 129,
+        "id": "h5meAftKeAqNqE76E2bAgG",
+        "question": "Trường Window trong header của gói TCP liên quan đến:",
+        "answers": [
+            "Kích thước bộ nhớ khả dụng",
+            "Hệ điều hành",
+            "Kích thước màn hình",
+            "Tất cả đều sai"
+        ],
+        "correct": 0
+    },
+    "7Sjwt6hoDsckZsAPgmMMhm": {
+        "index": 130,
+        "id": "7Sjwt6hoDsckZsAPgmMMhm",
+        "question": "Gói tin TCP yêu cầu kết nối sẽ có giá trị của các cờ:",
+        "answers": [
+            "RST=1, SYN=1",
+            "ACK=1, SYN=1",
+            "ACK=0, SYN=1",
+            "FIN=1, SYN=0"
+        ],
+        "correct": 2
+    },
+    "1ZQRkNo85Ntodqhr3us99Z": {
+        "index": 131,
+        "id": "1ZQRkNo85Ntodqhr3us99Z",
+        "question": "TCP và UDP hoạt động ở tầng nào trong mô hình OSI:",
+        "answers": [
+            "Session (Tầng 5)",
+            "Transport (Tầng 4)",
+            "Network (Tầng 3)",
+            "Data Link (Tầng 2)"
+        ],
+        "correct": 1
+    },
+    "gePc2BYKwxteucgeMHy4EQ": {
+        "index": 132,
+        "id": "gePc2BYKwxteucgeMHy4EQ",
+        "question": "Khẳng định nào sau đây là đúng khi nói về kỹ thuật sử dụng băng thông hiệu quả:",
+        "answers": [
+            "Điều khiển luồng cửa sổ tĩnh",
+            "Điều khiển luồng tốc độ đảm bảo",
+            "Điều khiển luồng cửa sổ động ",
+            "Điều khiển luồng tốc độ động"
+        ],
+        "correct": 2
+    },
+    "bn4GTNvNoNnAnfG7yoD5K7": {
+        "index": 133,
+        "id": "bn4GTNvNoNnAnfG7yoD5K7",
+        "question": "Giao thức TCP hoạt động cùng tầng với những giao thức nào:",
+        "answers": [
+            "ARP, RARP",
+            "UDP",
+            "TELNET, FTP",
+            "IP, ARP"
+        ],
+        "correct": 1
+    },
+    "8zJ8gVtkTmNNjX76LEErGe": {
+        "index": 134,
+        "id": "8zJ8gVtkTmNNjX76LEErGe",
+        "question": "Các giao thức TCP và UDP hoạt động ở tầng nào:",
+        "answers": [
+            "Application",
+            "Network",
+            "Transport",
+            "Presentation"
+        ],
+        "correct": 2
+    },
+    "rWwD7FMDfy5QCpyEYuj4d1": {
+        "index": 135,
+        "id": "rWwD7FMDfy5QCpyEYuj4d1",
+        "question": "Giao thức UDP được sử dụng cho những ứng dụng:",
+        "answers": [
+            "Có yêu cầu liên kết",
+            "Đòi hỏi độ tin cậy cao",
+            "Yêu cầu độ trễ nhỏ",
+            "Không đòi hỏi độ tin cậy cao"
+        ],
+        "correct": 3
+    },
+    "djYR4msoT6hAo4AQMpfcka": {
+        "index": 136,
+        "id": "djYR4msoT6hAo4AQMpfcka",
+        "question": "Tầng giao vận Host to Host hoạt động bởi giao thức:",
+        "answers": [
+            "TCP",
+            "IP",
+            "ICMP",
+            "ARP"
+        ],
+        "correct": 0
+    },
+    "dLqNeYKV2ZA6VFMPii7Tsv": {
+        "index": 137,
+        "id": "dLqNeYKV2ZA6VFMPii7Tsv",
+        "question": "Trong gói dữ liệu UDP (UDP segment), vùng dữ liệu thực sự bắt đầu từ byte thứ:",
+        "answers": [
+            "4",
+            "5",
+            "8",
+            "9"
+        ],
+        "correct": 3
+    },
+    "hXgRu9WocWav29ZuDS63LP": {
+        "index": 138,
+        "id": "hXgRu9WocWav29ZuDS63LP",
+        "question": "Đẳng thức nào sau đây mô tả chính xác nhất giao thức UDP:",
+        "answers": [
+            "UDP = IP",
+            "UDP = TCP - (tính tin cậy)",
+            "UDP = ICMP + (phân kênh theo địa chỉ cổng)",
+            "UDP = TCP – IP"
+        ],
+        "correct": 1
+    },
+    "hJf9CNwKQNTrkjq9EpdANo": {
+        "index": 139,
+        "id": "hJf9CNwKQNTrkjq9EpdANo",
+        "question": "Để phát hiện lỗi trong gói tin, người ta sử dụng kỹ thuật:",
+        "answers": [
+            "Số thứ tự (sequence number)",
+            "Số thứ tự ghi nhận (acknowledgement number)",
+            "Bộ định thời (timer)",
+            "Checksum"
+        ],
+        "correct": 0,
+        "note": "Checksum: giá trị ktra lỗi, đc tính bằng phần bù của tổng chuối 16bit"
+    },
+    "rJJ52BYMDmwBZEvhpKnRXy": {
+        "index": 140,
+        "id": "rJJ52BYMDmwBZEvhpKnRXy",
+        "question": "Khi thực thể TCP gửi một gói SYNACK segment với trường Acknowledgement Number = 100, điều này có nghĩa là:",
+        "answers": [
+            "Gói dữ liệu nó gửi đi bắt đầu bằng byte thứ 100 trong dòng dữ liệu",
+            "Byte dữ liệu đầu tiên trong dòng dữ liệu sẽ gửi đi có số thứ tự là 100",
+            "Nó sẽ gửi từ byte thứ 100",
+            "Nó hy vọng nhận được dữ liệu bắt đầu bằng byte có số thứ tự 100"
+        ],
+        "correct": 3
+    },
+    "koDnvXECWh3yzT4v8UVv8M": {
+        "index": 141,
+        "id": "koDnvXECWh3yzT4v8UVv8M",
+        "question": "Giao thức giao vận chạy phía trên IP mà không cần thiết lập kết nối trước khi truyền là:",
+        "answers": [
+            "UDP",
+            "TCP",
+            "HTTP",
+            "FTP"
+        ],
+        "correct": 0
+    },
+    "i1FtLgo9LDYgGHu5nnkmXd": {
+        "index": 142,
+        "id": "i1FtLgo9LDYgGHu5nnkmXd",
+        "question": "Giao thức TCP có thể xử lý:",
+        "answers": [
+            "Gói tin bị mất",
+            "Các gói tin bị trùng lặp",
+            "Các gói tin không theo thứ tự",
+            "Tất cả các phương án trên"
+        ],
+        "correct": 3
+    },
+    "8NSPPNUo9mw9JEqe6WqLrc": {
+        "index": 143,
+        "id": "8NSPPNUo9mw9JEqe6WqLrc",
+        "question": "Checksum trong gói dữ liệu UDP có độ dài:",
+        "answers": [
+            "4 bit",
+            "8 bit",
+            "16 bit",
+            "32 bit"
+        ],
+        "correct": 2
+    },
+    "buSujXHgKGcgYPakpsUHQU": {
+        "index": 144,
+        "id": "buSujXHgKGcgYPakpsUHQU",
+        "question": "Vị trí dữ liệu thực sự trong gói dữ liệu TCP bắt đầu từ byte:",
+        "answers": [
+            "40",
+            "32",
+            "5",
+            "Không xác định"
+        ],
+        "correct": 3
+    },
+    "nbUtoshL7hcY1fXhK2SrBv": {
+        "index": 145,
+        "id": "nbUtoshL7hcY1fXhK2SrBv",
+        "question": "Giả sử thực thể TCP A cần gửi 1500 byte cho thực thể giao vận B. Gói thứ nhất chứa 1000 byte dữ liệu, trường Sequence Number của gói này là 100. Trường Sequence Number của gói thứ hai sẽ là:",
+        "answers": [
+            "1101",
+            "1100",
+            "500",
+            "501"
+        ],
+        "correct": 0,
+        "note": "= 1000 + 100"
+    },
+    "o659uCxGjJWueSKgSXB7ds": {
+        "index": 146,
+        "id": "o659uCxGjJWueSKgSXB7ds",
+        "question": "Với giao thức TCP, bên nhận sẽ thông báo lại cho bên gửi về số lượng tối đa dữ liệu mà nó có thể nhận được. Giá trị này được xác định tại trường:",
+        "answers": [
+            "Sequence Number",
+            "Acknowledgement Number",
+            "Rcvr Number",
+            "Header length"
+        ],
+        "correct": 0,
+        "note": "Receiver"
+    },
+    "51hZQfjwyrjCghdCozQsWM": {
+        "index": 147,
+        "id": "51hZQfjwyrjCghdCozQsWM",
+        "question": "Sau khi thực thể TCP gửi đi gói SYN segment với trường Sequence Number = 100, nó nhận được gói ACKSYN với truờng Sequence Number = 200. Trường Acknowledgment Number của gói ACKSYN này sẽ là:",
+        "answers": [
+            "100",
+            "101",
+            "200",
+            "201"
+        ],
+        "correct": 1
+    },
+    "ciQi1rrmfTgK411A9vyRpi": {
+        "index": 148,
+        "id": "ciQi1rrmfTgK411A9vyRpi",
+        "question": "Giả sử ứng dụng tạo ra một thông điệp 60 byte. Thông điệp này được đặt trong TCP segment rồi sau đó là IP datagram. Giả sử cả gói TCP lẫn gói IP không có trường dữ liệu đặc biệt (Optional = 0). Trong mỗi IP datagram sẽ chứa bao nhiêu phần trăm dữ liệu thật sự:",
+        "answers": [
+            "20%",
+            "40%",
+            "60%",
+            "80%"
+        ],
+        "correct": 2
+    },
+    "bxMpZKVvPY1ULQqMwpqLQs": {
+        "index": 149,
+        "id": "bxMpZKVvPY1ULQqMwpqLQs",
+        "question": "TCP port mặc định được sử dụng cho FTP server có giá trị là bao nhiêu:",
+        "answers": [
+            "20 và 21",
+            "80 và 8080",
+            "110 và 80",
+            "8080 và 1080"
+        ],
+        "correct": 0
+    },
+    "mkue1vpij1UXVmQad5Vvot": {
+        "index": 150,
+        "id": "mkue1vpij1UXVmQad5Vvot",
+        "question": "Trong gói dữ liệu UDP (UDP segment), địa chỉ dùng để xác định tiến trình nhận nằm ở:",
+        "answers": [
+            "Byte 1 và 2",
+            "Byte 3 và 4",
+            "Byte 5 và 6",
+            "Không xác định"
+        ],
+        "correct": 0
+    },
+    "dFWQSwhZE3SbWkJUoET45q": {
+        "index": 151,
+        "id": "dFWQSwhZE3SbWkJUoET45q",
+        "question": "Các protocol TCP và UDP hoạt động ở tầng nào trong các tầng sau đây:",
+        "answers": [
+            "Transport",
+            "Network",
+            "Application",
+            "Presentation"
+        ],
+        "correct": 0
+    },
+    "tGTrVTRg2yhqjcLn1F1fgy": {
+        "index": 152,
+        "id": "tGTrVTRg2yhqjcLn1F1fgy",
+        "question": "Giao thức TCP làm việc ở tầng nào của mô hình OSI:",
+        "answers": [
+            "Tầng ứng dụng",
+            "Tầng giao vận",
+            "Tầng mạng",
+            "Tầng liên kết dữ liệu"
+        ],
+        "correct": 1
+    },
+    "bP2LGPfAfEVxzFk57Leyoz": {
+        "index": 153,
+        "id": "bP2LGPfAfEVxzFk57Leyoz",
+        "question": "Giao thức nào dưới đây không đảm bảo dữ liệu gửi đi có tới máy nhận hoàn chỉnh hay không:",
+        "answers": [
+            "TCP",
+            "ASP",
+            "UDP",
+            "ARP"
+        ],
+        "correct": 2
+    },
+    "iKWTJkdUujCpThcEptuNL4": {
+        "index": 154,
+        "id": "iKWTJkdUujCpThcEptuNL4",
+        "question": "Các giao thức của tầng giao vận (Transport):",
+        "answers": [
+            "Kiểm soát việc truyền tin giữa hai tiến trình trên mạng máy tính",
+            "Kiểm soát nội dung thông điệp trao đổi giữa hai tiến trình và hành vi của mỗi bên khi nhận được thông điệp",
+            "Kiểm soát việc truyền tin giữa hai máy tính trên mạng máy tính",
+            "Kiểm soát việc truyền dữ liệu giữa hai máy tính trên cùng một môi trường truyền"
+        ],
+        "correct": 0
+    },
+    "4rLwn1ZXeh4krKKHgjx1W8": {
+        "index": 155,
+        "id": "4rLwn1ZXeh4krKKHgjx1W8",
+        "question": "Giả sử trường Length của một gói dữ liệu UDP có giá trị 150. Dữ liệu thực sự sẽ có:",
+        "answers": [
+            "67 byte ",
+            "142 byte",
+            "150 byte",
+            "158 byte"
+        ],
+        "correct": 1
+    },
+    "1GzFVeLqfJ1CZLxuyJ8W1u": {
+        "index": 156,
+        "id": "1GzFVeLqfJ1CZLxuyJ8W1u",
+        "question": "Quan sát một người đang truy cập một trang web, thấy anh ta gõ đường dẫn như sau: http://www.tomang.net:3000. Hãy cho biết Server web mà trang web trên sử dụng TCP port như thế nào:",
+        "answers": [
+            "Sử dụng port mặc định",
+            "Không sử dụng port mặc định",
+            "Sử dụng port chuẩn",
+            "Sử dụng port dành riêng cho Web server"
+        ],
+        "correct": 3
+    },
+    "7ioX54yDgqRyxurMd3tHrE": {
+        "index": 157,
+        "id": "7ioX54yDgqRyxurMd3tHrE",
+        "question": "UDP socket được xác định bởi:",
+        "answers": [
+            "Địa chỉ IP nguồn, địa chỉ IP đích",
+            "Địa chỉ IP nguồn, số port nguồn",
+            "Địa chỉ IP đích, số port đích",
+            "Địa chỉ IP nguồn, địa chỉ IP đích, số port nguồn, số port đích"
+        ],
+        "correct": 0
+    },
+    "dPt44ApcRuuceiktCFqfMf": {
+        "index": 158,
+        "id": "dPt44ApcRuuceiktCFqfMf",
+        "question": "TCP socket được xác định bởi:",
+        "answers": [
+            "Địa chỉ IP nguồn, địa chỉ IP đích",
+            "Địa chỉ IP nguồn, số port nguồn, địa chỉ IP đích",
+            "Địa chỉ IP nguồn, địa chỉ IP đích, số port đích",
+            "Địa chỉ IP nguồn, số port nguồn, địa chỉ IP đích, số port đích"
+        ],
+        "correct": 3
+    },
+    "gnJ39TwsdCepWLFjK4r98N": {
+        "index": 159,
+        "id": "gnJ39TwsdCepWLFjK4r98N",
+        "question": "Giao thức truyền tin cậy (rdt-reliable data transfer protocol) cần được sử dụng trên:",
+        "answers": [
+            "Các kênh truyền có độ tin cậy cao",
+            "Các kênh truyền không tin cậy",
+            "Cả hai trường hợp trên đều đúng",
+            "Cả hai trường hợp trên đều sai"
+        ],
+        "correct": 1
+    },
+    "wUemo7MMBWeu4Lp3JiUtBU": {
+        "index": 160,
+        "id": "wUemo7MMBWeu4Lp3JiUtBU",
+        "question": "Độ phức tạp của giao thức truyền tin cậy (rdt-reliable data transfer protocol) phụ thuộc vào:",
+        "answers": [
+            "Kiến trúc mạng",
+            "Các thiết bị mạng (router, switch, hub, …)",
+            "Các đặc tính của kênh truyền",
+            "Khoảng cách giữa các hosts"
+        ],
+        "correct": 2
+    },
+    "vPrS1qYh1zq8JXJSnYR4oz": {
+        "index": 161,
+        "id": "vPrS1qYh1zq8JXJSnYR4oz",
+        "question": "Byte đầu tiên của một địa chỉ IP có dạng: 11100001. Vậy nó thuộc lớp nào:",
+        "answers": [
+            "Lớp B",
+            "Lớp C",
+            "Lớp D",
+            "Lớp E"
+        ],
+        "correct": 0,
+        "note": "11100001 = 225\n\nA 0-127\nB 127-191\nC 191-223\nD 223-239"
+    },
+    "ueagDX7gKK4hJRknUA45az": {
+        "index": 162,
+        "id": "ueagDX7gKK4hJRknUA45az",
+        "question": "Trong mạng máy tính dùng giao thức TCP/IP và đều dùng Subnet Mask là 255.255.255.0 thì cặp máy tính nào sau đây liên thông:",
+        "answers": [
+            "192.168.1.3 và 192.168.100.1",
+            "192.168.15.1 và 192.168.15.254",
+            "192.168.100.15 và 192.186.100.16 ",
+            "172.25.11.1 và 172.26.11.2"
+        ],
+        "correct": 1
+    },
+    "eziYEhCpfMX9GdrW689Ngd": {
+        "index": 163,
+        "id": "eziYEhCpfMX9GdrW689Ngd",
+        "question": "Cho địa chỉ 192.64.10.0/28. Hãy cho biết số lượng mạng con và số lượng máy trên mỗi mạng con:",
+        "answers": [
+            "6 mạng con, mỗi mạng con có 30 máy",
+            "14 mạng con, mỗi mạng con có 14 máy",
+            "16 mạng con, mỗi mạng con có 16 máy",
+            "8 mạng con, mỗi mạng con có 32 máy"
+        ],
+        "correct": 0,
+        "note": "192 => lớp C, bắt đầu từ /24\nsố mạng con = 2^(28-24)-2=16-2=14\nmỗi mạng con có : 16-2 = 14(máy) "
+    },
+    "sTRh3YNBCJ63EsnjtPdKGx": {
+        "index": 164,
+        "id": "sTRh3YNBCJ63EsnjtPdKGx",
+        "question": "Một mạng lớp B cần chia thành 3 mạng con sử dụng Subnet mask nào sau đây:",
+        "answers": [
+            "255.255.224.0",
+            "255.0.0.255",
+            "255.255.192.0",
+            "255.255.255.224"
+        ],
+        "correct": 0
+    },
+    "pemhRdiLSa4V7rMC4EozFk": {
+        "index": 165,
+        "id": "pemhRdiLSa4V7rMC4EozFk",
+        "question": "Cho kết xuất lệnh route print trên máy X như sau:  Máy X có địa chỉ IP:",
+        "answers": [
+            "0.0.0.0",
+            "172.16.9.12",
+            "127.0.0.1",
+            "172.16.9.0"
+        ],
+        "correct": 2
+    },
+    "1tGgsS4Zz943Z9Ym5CN8hc": {
+        "index": 166,
+        "id": "1tGgsS4Zz943Z9Ym5CN8hc",
+        "question": "Các địa chỉ IP cùng mạng con với địa chỉ 131.107.2.56/28:",
+        "answers": [
+            "Từ 131.107.2.48 đến 131.107.2.63",
+            "Từ 131.107.2.49 đến 131.107.2.63",
+            "Từ 131.107.2.48 đến 131.107.2.62",
+            "Từ 131.107.2.55 đến 131.107.2.126"
+        ],
+        "correct": 2
+    }
+}

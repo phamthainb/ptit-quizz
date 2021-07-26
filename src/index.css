@@ -12,3 +12,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.slick-arrow {
+  background: red !important;
+  padding: 10px !important;
+  z-index: 999;
+}
