@@ -95,10 +95,10 @@ export default function Quizz(props: Props) {
             }}
           ></textarea>
           <br></br>
-          {localStorage.getItem("dev")
+          {/* {localStorage.getItem("dev")
             ? JSON.parse(localStorage.getItem("dev") || "")[data.id] &&
               JSON.parse(localStorage.getItem("dev") || "")[data.id]["correct"]
-            : "no"}
+            : "no"} */}
         </>
       ) : (
         "Nothing here."
