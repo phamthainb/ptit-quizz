@@ -28,10 +28,12 @@ const settings: Settings = {
   nextArrow: <span>nextArrow</span>,
   prevArrow: <span>prevArrow</span>,
 };
+
 function ListQuizz() {
   const [currentIndex, setCurrentIndex] = useState<number>(0);
   const [setup, setSetUp] = useState<TInput>();
-
+  const [correct, setTimerCorrect] = useState<number>(0);
+  const [timer, setTimer] = useState<number>(0);
   const refSlider = useRef<any>();
   const history = useHistory();
 
@@ -79,13 +81,33 @@ function ListQuizz() {
   };
   // console.log("setup", setup);
 
+  useEffect(() => {
+    setInterval(() => {
+      setTimer((pre) => pre + 1);
+    }, 1000);
+  }, []);
+
   return (
     <SApp>
       {setup && (
         <>
-          {currentIndex + 1 <= setup?.length
-            ? `${currentIndex + 1}/${setup?.length}`
-            : "Total Check"}
+          <div
+            className="head"
+            style={{ display: "flex", justifyContent: "space-between" }}
+          >
+            <div className="list">
+              {currentIndex + 1 <= setup?.length
+                ? `${currentIndex + 1}/${setup?.length}`
+                : "Total Check"}
+            </div>
+            <div className="time-total">
+              {Math.floor(timer / 60)} : {timer - Math.floor(timer / 60) * 60}s
+            </div>
+            <div
+              className="check"
+              style={{ color: "green" }}
+            >{`${correct}/${setup?.length}`}</div>
+          </div>
           <br />
           {setup?.listData ? (
             <Slider
@@ -104,6 +126,7 @@ function ListQuizz() {
                   onChoice={(ans) => {
                     onChoice(ans, index);
                   }}
+                  setTimerCorrect={setTimerCorrect}
                 />
               ))}
               {/* <TotalCheck /> */}

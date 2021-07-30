@@ -1,6 +1,7 @@
 import styled from "styled-components";
 import slugify from "slugify";
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
+import Countdown from "react-countdown";
 
 export type TQuizz = {
   index: number;
@@ -15,11 +16,30 @@ export interface Props {
   index: number;
   currentIndex: number;
   onChoice: (index: number) => void; // pick one ans
+  setTimerCorrect: any;
 }
+// Random component
+const Completionist = () => <span>overtime!</span>;
+
+// Renderer callback with condition
+const renderer = ({ hours, minutes, seconds, completed }: any) => {
+  if (completed) {
+    // Render a completed state
+    return <Completionist />;
+  } else {
+    // Render a countdown
+    return (
+      <span>
+        {minutes}:{seconds}
+      </span>
+    );
+  }
+};
 
 export default function Quizz(props: Props) {
-  const { data, index, currentIndex, onChoice } = props;
+  const { data, index, currentIndex, onChoice, setTimerCorrect } = props;
   const [numberPick, setNumberPick] = useState(0);
+  // const coutdown = useRef(30);
   const [check, setCheck] = useState(false);
   // console.log("data", data);
 
@@ -30,8 +50,20 @@ export default function Quizz(props: Props) {
     localStorage.setItem("dev", JSON.stringify(rs));
   };
 
+  // console.log(coutdown.current);
+  // useEffect(() => {
+  //   coutdown.current = 30;
+  // }, []);
+
   return (
     <SQuizz className={`${currentIndex === index ? "active" : "hidden"}`}>
+      {/* {" "}
+      <div className="cout-down">
+        <Countdown
+          renderer={renderer}
+          date={Date.now() + 1000 * coutdown.current}
+        />
+      </div>{" "} */}
       {data ? (
         <>
           <h2 className="question">
@@ -44,18 +76,23 @@ export default function Quizz(props: Props) {
                   className="item"
                   key={slugify(`${data.question}__${index}`)}
                   onClick={() => {
-                    // setNumberPick((pre) => pre + 1);
-                    // if (numberPick < 1) onChoice(index);
+                    setNumberPick((pre) => pre + 1);
+                    if (numberPick < 1) {
+                      onChoice(index);
+                      if (index === data.correct)
+                        setTimerCorrect((pre: any) => pre + 1);
+                    }
 
-                    // if (index === data.correct) setCheck(true);
-                    // else setCheck(false);
-                    onChange(index);
+                    if (index === data.correct) setCheck(true);
+                    else setCheck(false);
+                    // onChange(index);
                   }}
                 >
                   <label
                     className={`${
                       check && data.correct === index ? "correct" : ""
                     }`}
+                    style={{ paddingBottom: "12px" }}
                   >
                     <input
                       type="radio"
@@ -69,14 +106,13 @@ export default function Quizz(props: Props) {
               );
             })}
           </ul>
-
           {check && data?.note && (
             <p className="note">
               Note: <br />
               {data?.note}
             </p>
           )}
-          <textarea
+          {/* <textarea
             style={{ width: "500px" }}
             onChange={(e) => {
               const tempData = localStorage.getItem("dev") || "{}";
@@ -89,7 +125,7 @@ export default function Quizz(props: Props) {
           {localStorage.getItem("dev")
             ? JSON.parse(localStorage.getItem("dev") || "")[data.id] &&
               JSON.parse(localStorage.getItem("dev") || "")[data.id]["correct"]
-            : "no"}
+            : "no"} */}
         </>
       ) : (
         "Nothing here."
