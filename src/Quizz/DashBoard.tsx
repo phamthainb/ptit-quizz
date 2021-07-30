@@ -108,13 +108,13 @@ export default function DashBoard() {
               <div className="item">
                 <p className="item__title">
                   Số câu:{" "}
-                  <span style={{ color: "red" }}>{watch("length") || 30}</span>
+                  <span style={{ color: "red" }}>{watch("length") || 60}</span>
                 </p>
                 <div className="item__input">
                   <input
                     style={{ width: "100%" }}
                     type="range"
-                    defaultValue={30}
+                    defaultValue={60}
                     min={10}
                     max={
                       watch("subject") ? DataInfo[watch("subject")].size : 100
