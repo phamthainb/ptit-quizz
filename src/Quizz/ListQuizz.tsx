@@ -11,10 +11,12 @@ import { TInput } from "./DashBoard";
 
 //data
 import atbm from "../data/atbm.json";
+import atbm_new from "../data/atbm_new.json";
 import mmt from "../data/mmt.json";
 
 const data: any = {
   atbm: atbm,
+  atbm_new: atbm_new,
   mmt: mmt,
 };
 

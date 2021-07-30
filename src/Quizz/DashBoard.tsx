@@ -5,6 +5,7 @@ import styled from "styled-components";
 
 enum TSubject {
   atbm = "atbm",
+  atbm_new = "atbm_new",
   mmt = "mmt",
 }
 
@@ -21,6 +22,9 @@ const DataInfo: {
 } = {
   atbm: {
     size: 297,
+  },
+  atbm_new: {
+    size: 123,
   },
   mmt: {
     size: 296,
@@ -90,7 +94,15 @@ export default function DashBoard() {
                   value={TSubject.atbm}
                   {...register("subject", { required: true })}
                 />
-                An toàn bảo mật
+                An toàn bảo mật (297)
+              </label>
+              <label>
+                <input
+                  type="radio"
+                  value={TSubject.atbm_new}
+                  {...register("subject", { required: true })}
+                />
+                An toàn bảo mật MỚI (123)
               </label>
               <label>
                 <input
@@ -193,6 +205,11 @@ const SDashBoard = styled.div`
   .item__input {
     display: flex;
     justify-content: space-evenly;
+    flex-direction: column;
+
+    label{
+      margin-bottom: 12px;
+    }
   }
 
   p.item__title {
