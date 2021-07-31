@@ -24,7 +24,7 @@ const DataInfo: {
     size: 297,
   },
   atbm_new: {
-    size: 123,
+    size: 209,
   },
   mmt: {
     size: 296,
@@ -80,6 +80,9 @@ export default function DashBoard() {
 
   return (
     <SDashBoard>
+      <a href="https://phamthainb.github.io/ptit-quizz/atbm/index.html">
+        ATBM Search easy
+      </a>
       <div className="header">
         <h2>Ptit Quizz</h2>
       </div>
@@ -94,7 +97,7 @@ export default function DashBoard() {
                   value={TSubject.atbm}
                   {...register("subject", { required: true })}
                 />
-                An toàn bảo mật (297)
+                An toàn bảo mật (297) CNTT
               </label>
               <label>
                 <input
@@ -102,7 +105,7 @@ export default function DashBoard() {
                   value={TSubject.atbm_new}
                   {...register("subject", { required: true })}
                 />
-                An toàn bảo mật MỚI (123)
+                An toàn bảo mật MỚI (209) ATTT
               </label>
               <label>
                 <input
@@ -207,7 +210,7 @@ const SDashBoard = styled.div`
     justify-content: space-evenly;
     flex-direction: column;
 
-    label{
+    label {
       margin-bottom: 12px;
     }
   }
