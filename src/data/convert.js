@@ -10,7 +10,9 @@ const fs = require("fs");
 // },
 
 let newArray = {};
-fs.readFile("./qldapm/data5.json", "utf8", function (err, data) {
+const path = './qldapm/data5'
+
+fs.readFile(`${path}.json`, "utf8", function (err, data) {
   if (err) throw err;
   const array = JSON.parse(data);
 
@@ -20,7 +22,7 @@ fs.readFile("./qldapm/data5.json", "utf8", function (err, data) {
       "index": index + 1,
       "id": id,
       "question": item.question,
-      "answers": item.options.map(k => k[1].slice(3, k[1].length)),
+      "answers": item.options.map(k => k[1].slice(2, k[1].length)),
       "correct": item.Ans === "A" ? 0 : item.Ans === "B" ? 1 : item.Ans === "C" ? 2 : 3
     }
 
@@ -31,8 +33,9 @@ fs.readFile("./qldapm/data5.json", "utf8", function (err, data) {
 
   //   console.log(`${property}: ${obj[property].index}`);
   // }
-  fs.writeFile("./qldapm/data5_temp.json", JSON.stringify(newArray), "utf8", () => { });
+  fs.writeFile(`${path}_temp.json`, JSON.stringify(newArray), "utf8", () => { });
 });
+
 // fs.readFile("src/data/mmt.json", "utf8", function (err, data) {
 //   if (err) throw err;
 //   const obj = JSON.parse(data);
