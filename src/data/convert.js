@@ -1,14 +1,37 @@
 const shortID = require("short-uuid");
 const fs = require("fs");
 
-fs.readFile("src/data/atbm.json", "utf8", function (err, data) {
+// "6iSzoBh6DhC7AeRErVcdjo": {
+//   "index": 4,
+//   "id": "6iSzoBh6DhC7AeRErVcdjo",
+//   "question": "Quá trình dữ liệu di chuyển từ hệ thống máy tính này sang hệ thống máy tính khác phải trải qua giai đoạn nào:",
+//   "answers": ["Phân tích dữ liệu", "Nén dữ liệu", "Đóng gói", "Lọc dữ liệu"],
+//   "correct": 0
+// },
+
+let newArray = {};
+fs.readFile("./qldapm/data5.json", "utf8", function (err, data) {
   if (err) throw err;
-  const obj = JSON.parse(data);
-  for (const property in obj) {
-    obj[property].index = obj[property].index + 1;
-    console.log(`${property}: ${obj[property].index}`);
-  }
-  fs.writeFile("src/data/atbm_rw.json", JSON.stringify(obj), "utf8", () => {});
+  const array = JSON.parse(data);
+
+  array.forEach((item, index) => {
+    let id = shortID().new();
+    let a = {
+      "index": index + 1,
+      "id": id,
+      "question": item.question,
+      "answers": item.options.map(k => k[1].slice(3, k[1].length)),
+      "correct": item.Ans === "A" ? 0 : item.Ans === "B" ? 1 : item.Ans === "C" ? 2 : 3
+    }
+
+    newArray[id] = { ...a };
+  })
+  // for (const property in obj) {
+  //   obj[property].index = obj[property].index + 1;
+
+  //   console.log(`${property}: ${obj[property].index}`);
+  // }
+  fs.writeFile("./qldapm/data5_temp.json", JSON.stringify(newArray), "utf8", () => { });
 });
 // fs.readFile("src/data/mmt.json", "utf8", function (err, data) {
 //   if (err) throw err;

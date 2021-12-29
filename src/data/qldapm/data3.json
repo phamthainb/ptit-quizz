@@ -1,0 +1,1112 @@
+[
+  {
+    "Ans": "A",
+    "question": "4 giám đốc dự án(PM) ngồi ăn trưa với nhau và thảo luận về dự án của họ. phần\nlớn thời gian họ phàn nàn về việc quản l{ và điều hành dự án khó khăn như thế\nnào. Một số lời phàn nàn là về các cổ đông và các thay đổi mà họ tạo ra cho dự án.\nNgười khác thì phàn nàn về sự khó khăn trong việc thúc đẩy nhân viên hợp tác và\nlàm việc. 1 người PM muốn tập trung vào tất cả các lợi ích của ma trận tổ chức mà\nhọ đều làm ra. Anh ta sẽ đề cập tới vấn đề nào?",
+    "options": [
+      ["A", "A. Cải thiện quyền quản lý và kiểm soát nguồn lực của PM "],
+      ["B", "B. Có hơn một người tham gia quản lý dự án"],
+      ["C", "C. Truyền thông dễ dàng hơn"],
+      ["D", "D. Báo cáo dễ dàng hơn."]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "2 PM vừa nhận ra họ đang ở trong một ma trận tổ chức yếu và quyền lực của họ\ntrong vai trò là PM bị hạn chế. Một người nhận ra anh ta thật sự là người giải quyết\ncông việc dự án (project expediter), người còn lại nhận ra rằng anh ta là điều phối\nviên của dự án (project coordinator). Vậy người tiến hành và điều phối viên của dự\nán khác nhau ntn?",
+    "options": [
+      [
+        "A",
+        "A. Người giải quyết công việc dự án không thể đưa ra các quyết định"
+      ],
+      [
+        "B",
+        "B. Người giải quyết công việc dự án có thể đưa ra nhiều quyết định hơn điều phối\nviên dự án"
+      ],
+      ["C", "C. Người giải quyết công việc báo cáo cho quản lý cấp cao hơn"],
+      ["D", "D. Người giải quyết công việc có một số thẩm quyền riêng"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Trong một tổ chức hướng dự án (tổ chức trong đó k có các công việc thường\nnhật mà toàn là dự án), đội dự án có đặc điểm gì:",
+    "options": [
+      ["A", "A. Báo cáo cho một vài thủ trưởng"],
+      ["B", "B. Không có sự trung thành đối với dự án"],
+      [
+        "C",
+        "C. Báo cáo với người quản lý có trách nhiệm và thẩm quyền (functional manager)"
+      ],
+      [
+        "D",
+        "D. Thường xuyên có mặt trong dự án, không có phòng ban chức năng(will not\nalways have a home)"
+      ]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Một PM đang cố gắng hoàn thành dự án phát triển phần mềm, nhưng không thể\ntập trung và quan tâm nhiều tới dự án. Nguồn nhân lực được tập trng vào hoàn\nthành các công việc liên quan tới các tiến trình sản xuất phần mềm, và PM có ít\nthẩm quyền để phân công nguồn lực một cách hợp lý. Loại hình tổ chức nào mà\nngười PM này đang làm việc?",
+    "options": [
+      ["A", "A. Tổ chức bao gồm các phòng ban chức năng."],
+      [
+        "B",
+        "B. Ma trận. đối với tổ chức loại này, thành viên đội dự án phải báo cáo với 2 thủ\ntrưởng: 1 là PM và quản lý bộ phận chức năng."
+      ],
+      ["C", "C. Tổ chức mà PM là người giải quyết công việc"],
+      ["D", "D. Tổ chức mà PM là người điều hành"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Một PM có ít kinh nghiệm quản lý dự án. Nhưng anh ta được phân công làm PM\ncho một dự án mới. do anh ta sẽ làm việc trong một tổ chức ma trận (matrix\norganization) để hoàn thành dự án của mình, anh ta có thể trông đợi việc truyền\nthông trong dự án của mình có đặc điểm:",
+    "options": [
+      ["A", "A. Đơn giản"],
+      ["B", "B. Truyền thông mở và thúc đẩy"],
+      ["C", "C. Phức tạp"],
+      ["D", "D. Khó tự động hóa"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "2 nhân viên trong đội dự án đang nói chuyện với nhau và phàn nàn về việc rất\nnhiều người đang yêu cầu nhân viên đó phải làm một số việc. nếu anh ta làm việc\ntrong một tổ chức bao gồm các phòng ban chức năng (functional organization), ai\nsẽ có quyền để đưa ra chỉ dẫn cho các thành viên dự án?",
+    "options": [
+      ["A", "A. Người quản lý dự án PM"],
+      ["B", "B. Người quản lý bộ phận chức năng functional manager"],
+      ["C", "C. Đội dự án"],
+      ["D", "D. Ma trận kiểm soát chặt tight matrix"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Ai có nhiều thẩm quyền nhất trong một tổ chức hướng dự án (projectized\norganization)",
+    "options": [
+      ["A", "A. Người quản lý dự án PM"],
+      ["B", "B. Người quản lý bộ phận chức năng functional manager"],
+      ["C", "C. Đội dự án"],
+      ["D", "D. Đội dự án đều có quyền như nhau"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Tính chất nào dưới đây không phải là tính chất của một dự án",
+    "options": [
+      ["A", "A. Tạm thời"],
+      ["B", "B. Có thời gian bắt đầu và kết thúc xác định"],
+      ["C", "C. Có các hoạt động liên quan tới nhau"],
+      ["D", "D. Lặp lại công việc dự án mỗi tháng. (repeat itself every month)"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Các bên liên quan quản lý dự án ngoại trừ việc:",
+    "options": [
+      [
+        "A",
+        "A. Đưa cho các bên liên quan một ít $ (giving stakeholders extras)"
+      ],
+      ["B", "B. Xác định các bên liên quan\n"],
+      ["C", "C. Xác định yêu cầu của các bên liên quan\n"],
+      ["D", "D. Quản l{ các mong đợi của các bên liên quan"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Một người quản l{ và giám đốc kĩ thuật thảo luận về một thay đổi trong gói\ncông việc chính. Sau khi thảo luận, người quản lý liên lạc với bạn và yêu cầu bạn\nhoàn thành các thủ tục giấy tờ để thực hiện việc thay đổi đó. Đây là ví dụ về:",
+    "options": [
+      ["A", "A. Sự chú ý việc quản lý vào quản lý phạm vi"],
+      ["B", "B. Lập kế hoạch quản lý\n"],
+      ["C", "C. Trách nhiệm của người giải quyết công việc dự án\n"],
+      ["D", "D. Một sự thay đổi hệ thống điều khiển."]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Dự án đang trong quá trình lập kế hoạch nhóm. 3 bên có liên quan yêu cầu \ngiám đốc dự án cung cấp một số thông tin về phương pháp quản lý dự án mới của\ncông ty, phương pháp này lấy từ đâu và tại sao nó lại khác biệt với cách họ quản lý\ncác dự án. 3 bên có liên quan đều là bạn của người quản lý dự án, toàn bộ nhóm dự\nán đều đã làm việc với nhau trong nhiều năm. Dự án sử dụng một vài điều khoản\nmới như “hành động hiệu chỉnh” (corective action), điều này làm cho một số bên\ncó liên quan lo lắng, họ không chắc chắn nếu cách thức quản lý dự án sẽ thay đổi\ncùng với các điều khoản mới. người quản lý dự án nên làm gì?\n",
+    "options": [
+      [
+        "A",
+        "A. Đưa ra lời khuyên cho các bên có liên quan rằng PM sẽ giữ lại các điều khoản\nnày trong truyền thông trong dự án."
+      ],
+      [
+        "B",
+        "B. Cung cấp một danh sách các điều khoản mới và định nghĩa của nó\n"
+      ],
+      ["C", "C. Thông báo cho phòng quản lý dự án\n"],
+      [
+        "D",
+        "D. Chắc chắn rằng PM sẽ duy trì thẩm quyền của mình như một người quản lý dự\nán, mặc dù PM và các bên có liên quan là bạn."
+      ]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Một PM đang quản lý dự án thứ 2 của mình. Dự án đã bắt đầu được 1 tháng sau\nkhi dự án thứ nhất bắt đầu. dự án đầu tiên của PM này là một dự án nhỏ, tuy nhiên\nđang mở rộng từng ngày. Mỗi ngày trôi qua, người PM này bắt đầu cảm thấy cần\nsự giúp đỡ. Gần đây, anh ta đã nghe có tin rằng năm ngoái cũng có một dự án gần\ngiống với dự án thứ 2 của anh ta. Anh ta nên làm gì?\n",
+    "options": [
+      ["A", "A. Liên lạc với người PM của dự án kia và yêu cầu hỗ trợ"],
+      ["B", "B. Sử dụng bản ghi và hướng dẫn từ phòng quản lý dự án\n"],
+      [
+        "C",
+        "C. Chờ đợi xem nếu dự án bị ảnh hưởng bởi sự mở rộng phạm vi dự án\n"
+      ],
+      [
+        "D",
+        "D. Chắc chắn rằng phạm vi dự án phải được các bên có liên quan đồng ý và phê\nduyệt"
+      ]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Dự án đang tiến hành tốt, ngoại trừ số lượng các thay đổi đã được tạo ra. Dự án\nđược thực hiện và chia ra 7 ban khác nhau trong công ty và sẽ cải thiện đáng kể\nhiệu năng của các phòng ban này khi nó được thực hiện. có 14 quy trình quản lý dự\nán được lựa chọn để sử dụng trong dự án này. PM là một chuyên gia kĩ thuật và\nđược training về truyền thông và quản lý nhân lực. điều nào dưới đây là nguyên\nnhân của vấn đề của dự án (số lượng các thay đổi)?\n",
+    "options": [
+      ["A", "A. PM không được huấn luyện để hiểu rõ môi trường công ty"],
+      [
+        "B",
+        "B. Dự án nên được giám sát quản lý nhiều hơn để có kết quả tốt và đem lại lợi\nnhuận cho công ty\n"
+      ],
+      ["C", "C. Dự án nên sử dụng thêm nhiều tiến trình quản lý dự án hơn\n"],
+      ["D", "D. Một vài bên liên quan chưa được xác định"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Vòng đời dự án và vòng đời sản phẩm khác nhau. Trong vòng đời dự án có đặc\nđiểm gì khác khi so sánh với vòng đời sản phẩm?\n",
+    "options": [
+      ["A", "A. Không kết hợp phương pháp luận"],
+      ["B", "B. Là khác biệt trong từng ngành sản xuất khác nhau\n"],
+      ["C", "C. Có thể sinh ra nhiều dự án khác nhau\n"],
+      ["D", "D. Miêu tả các hành động quản lý dự án"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Các bên có liên quan có thể được xác định trong quy trình nào của việc quản lý\ndự án ?\n",
+    "options": [
+      ["A", "A. Khởi tạo, lên kế hoạch, thực thi, kiểm soát và kết thúc dự án"],
+      ["B", "B. Khởi tạo và lên kế hoạch\n"],
+      ["C", "C. Lên kế hoạch và kiểm soát\n"],
+      ["D", "D. Kiểm soát và kết thúc"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Trong quản lý dự án, ta chỉ quản lý bởi mục tiêu làm việc khi nào?\n",
+    "options": [
+      ["A", "A. Được hỗ trợ quản lý (it’s supported by management)"],
+      ["B", "B. Các luật được viết ra\n"],
+      ["C", "C. Dự án không ảnh hưởng tới mục tiêu chung\n"],
+      ["D", "D. Dự án bao gồm mục tiêu dự án trong tôn chỉ dự án"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Người quản lý của bạn quyết định rằng tất cả các đơn hàng(orders) đều được coi\nnhư trong dự án (treated as ‘project’) và người PM sẽ cập nhật các đơn hàng này\nhàng ngày, giải quyết các vấn đề và chắc chắn rằng khách hàng chính thức chấp\nnhận sản phẩm trong vòng 30 ngày. Doanh thu từ 1 đơn hàng riêng lẻ có thể dao\nđộng từ 100$ tới 150000$. PM không yêu cần phải lập kế hoạch và chỉ cần cung\ncấp trạng thái đơn hàng hàng ngày. Bạn xác định tình huống này như thế nào?\n",
+    "options": [
+      [
+        "A",
+        "A. Do mỗi đơn hàng là một sự cố gắng tạm thời nên mỗi đơn hàng đều là một dự\nán"
+      ],
+      [
+        "B",
+        "B. Đây là việc quản l{ chương trình cho đến khi có nhiều dự án kéo theo\n"
+      ],
+      ["C", "C. Đây là công việc định kz(recurring process)\n"],
+      [
+        "D",
+        "D. Doanh thu của các đơn hàng trên 100000$ sẽ được coi như một dự án và sẽ kéo\ntheo các hoạt động quản lý dự án"
+      ]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Trong giai đoạn (quy trình - process) nào của vòng đời dự án mà tài liệu ngân\nsách chi tiết được viết ra?\n",
+    "options": [
+      ["A", "A. Khởi tạo"],
+      ["B", "B. Trước quy trình quản lý dự án\n"],
+      ["C", "C. Lập kế hoạch\n"],
+      ["D", "D. Thực thi"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Tôn chỉ dự án được viết ra trong giai đoạn nào của vòng đời dự án?\n",
+    "options": [
+      ["A", "A. Thực thi"],
+      ["B", "B. Lập kế hoạch\n"],
+      ["C", "C. Kết thúc\n"],
+      ["D", "D. Khởi tạo"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Đội dự án vừa hoàn thành lịch khởi tạo dự án (initial project schedule) và ngân\nsách dự án. Việc phải làm tiếp theo là:\n",
+    "options": [
+      ["A", "A. Bắt đầu xác định rủi ro"],
+      ["B", "B. Bắt đầu lặp lại hành động\n"],
+      ["C", "C. Xác định các yêu cầu truyền thông\n"],
+      ["D", "D. Làm sơ đồ Gantt"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Lịch làm việc chi tiết của dự án có thể được tạo ra sau khi đã có:\n",
+    "options": [
+      ["A", "A. Ngân sách dự án"],
+      ["B", "B. Bảng phân rã công việc WBS\n"],
+      ["C", "C. Kế hoạch quản lý dự án\n"],
+      ["D", "D. Bảng đánh giá rủi ro chi tiết"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Người nên được kiểm soát dự án trong quá trình lập kế hoạch dự án là:\n",
+    "options": [
+      ["A", "A. Người quản lý dự án PM"],
+      ["B", "B. Nhân viên dự án\n"],
+      ["C", "C. Giám đốc bộ phận chức năng\n"],
+      ["D", "D. Nhà tài trợ"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Trong giai đoạn khởi tạo dự án, văn bản nào dưới đây KHÔNG cần thiết:\n",
+    "options": [
+      ["A", "A. Các quy trình của công ty"],
+      ["B", "B. Văn hóa của công ty\n"],
+      ["C", "C. Các bảng phân rã công việc đã có trước đó WBS\n"],
+      ["D", "D. Tuyên bố phạm vi dự án"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Nhà tài trợ dự án vừa cung cấp bản tuyên bố phạm vi dự án sơ bộ. việc phải\nlàm tiếp theo là:\n",
+    "options": [
+      ["A", "A. Bắt đầu hoàn thành gói công việc"],
+      ["B", "B. Hoàn thành phê chuẩn phạm vi dự án\n"],
+      ["C", "C. Bắt đầu kết hợp điều khiển thay đổi\n"],
+      ["D", "D. Bắt đầu tạo ra các kế hoạch quản lý"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Các ràng buộc về lịch trình dự án mức cao được xác định trong giai đoạn nào?\n",
+    "options": [
+      ["A", "A. Khởi tạo"],
+      ["B", "B. Lập kế hoạch\n"],
+      ["C", "C. Thực thi\n"],
+      ["D", "D. Kiểm soát"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Bảng phân rã công việc WBS và từ điển WBS đều được hoàn thành. Đội dự án\nbắt đầu xác định các rủi ro. Nhà tài trợ liên lạc với PM để yêu cầu làm ma trận\ntrách nhiệm. dự án có ngân sách là 100000$ với 14 nhân lực đến từ 3 quốc gia. Dự\nán có một rủi ro nhỏ và PM đã quản lý rất nhiều dự án giống dự án này. Việc phải\nlàm tiếp theo là:\n",
+    "options": [
+      ["A", "A. Hiểu rõ kinh nghiệm của nhà tài trợ trong các dự án trước"],
+      ["B", "B. Tạo ra danh sách hoạt động (activity list)\n"],
+      ["C", "C. Chắc chắn rằng phạm vi dự án đã được xác định\n"],
+      ["D", "D. Hoàn thành quản lý rủi ro và ma trận trách nhiệm"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Một PM không có nhiều thời gian để lên kế hoạch trước khi ngày bắt buộc khởi\nđộng dự án đang tới. Do đó anh ta muốn lập kế hoạch hiệu quả nhất có thể. Anh ta\nnên làm gì?\n",
+    "options": [
+      [
+        "A",
+        "A. Chắc chắn nên có tuyên bố phạm vi dự án sơ bộ đã hoàn thành và sau đó tiến\nhành làm WBS"
+      ],
+      ["B", "B. Tạo danh sách hoạt động trước khi tạo ra sơ đồ mạng\n"],
+      [
+        "C",
+        "C. Có tài liệu về các rủi ro đã biết trước khi làm các giả thuyết và ước tính sâu hơn\n"
+      ],
+      [
+        "D",
+        "D. Hoàn thiện kế hoạch quản lý chất lượng trước khi quyết định đơn vị đo chất\nlượng"
+      ]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "PM chắc chắn rằng sản phẩm của dự án phải hoàn thiện theo kế hoạch quản lý\ndự án. Anh ta đang ở giai đoạn nào của dự án?\n",
+    "options": [
+      ["A", "A. Lên kế hoạch"],
+      ["B", "B. Thực thu\n"],
+      ["C", "C. Kiểm soát\n"],
+      ["D", "D. Kết thúc"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Một PM nhận được cuộc gọi từ nhân viên dự án, thông báo rằng đã có sự khác\nnhau giữa tốc độ của một hệ thống trong dự án và tốc độ đề ra. PM ngạc nhiên bởi\nvì quản lý hiệu năng không được xác định trong giai đoạn lập kế hoạch. Nếu PM\nsau đó có thể ước tính được khi nào sẽ có phản hồi của sự khác nhau này, thì anh ta\nđang ở giai đoạn nào của quản lý dự án?\n",
+    "options": [
+      ["A", "A. Khởi tạo"],
+      ["B", "B. Thực thi\n"],
+      ["C", "C. Kiểm soát\n"],
+      ["D", "D. Kết thúc"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Một nhân viên dự án thông báo cho PM rằng hoạt động bao gồm một gói công\nviệc hiện nay không còn thích hợp nữa. điều này là tốt nhất cho PM khi anh ta\nđang ở trong một phần nào của giai đoạn phát triển dự án?\n",
+    "options": [
+      ["A", "A. Hành động hiệu chỉnh"],
+      ["B", "B. Kết hợp điều khiển thay đổi\n"],
+      ["C", "C. Kiểm soát\n"],
+      ["D", "D. Kết thúc dự án"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Trong buổi họp đội dự án, một nhân viên dự án hỏi về đơn vị đo đạc nào được\nsử dụng trong dự án để kiểm soát hiệu năng. nhân viên này cảm thấy một vài thước\nđo có liên quan tới công việc của anh ta đang không chính xác. Dự án được xem xét\ntốt nhất trong phần nào của giai đoạn phát triển dự án?\n",
+    "options": [
+      ["A", "A. Kết thúc"],
+      ["B", "B. Kiểm soát\n"],
+      ["C", "C. Thực thi\n"],
+      ["D", "D. Khởi tạo"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Trong khi hoàn thành gói công việc, nhà tài trợ yêu cầu PM báo cáo dự án đang\nđược diễn tiến ntn. Trong quá trình chuẩn bị báo cáo, PM yêu cầu tất cả nhân viên dự\nán họ đã làm được bao nhiêu % công việc của mình. Có một nhân viên rất khó khăn\ntrong việc quản lý từ đầu. khi trả lời câu hỏi của PM, anh ta nói rằng chưa hoàn\nthành gì cả. Mệt mỏi vì được trả lời như vậy, PM báo cáo với thủ trưởng của đội dự\nán là các nhân viên không có tinh thần hợp tác. Vấn đề thật sự ở đây là gì?\n",
+    "options": [
+      ["A", "A. PM không có đủ nguồn lực cho dự án"],
+      [
+        "B",
+        "B. PM không tạo ra hệ thống tưởng thưởng xứng đáng cho nhân viên để nâng cao\ntinh thần hợp tác của họ\n"
+      ],
+      [
+        "C",
+        "C. PM nên có buổi họp với thủ trưởng của đội dự án khi lần đầu tiên nhân viên dự\nán có vấn đề\n"
+      ],
+      ["D", "D. PM không có gói công việc"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Sự kết hợp hiệu quả (effective project integration) thường yêu cầu phải nhấn\nmạnh vào:\n",
+    "options": [
+      ["A", "A. Sự nghiệp cá nhân của mỗi thành viên dự án"],
+      ["B", "B. Cập nhật liên tục kế hoạch quản lý dự án\n"],
+      ["C", "C. Truyền thông hiệu quả được xem như công cụ giao tiếp chính\n"],
+      ["D", "D. Kiểm soát sản phẩm"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Sự cần thiết của……… là một trong những hiệu quả mạnh mẽ chính cho việc\ntruyền thông trong dự án:\n",
+    "options": [
+      ["A", "A. Tối ưu hóa"],
+      ["B", "B. Toàn vẹn\n"],
+      ["C", "C. Tích hợp, kết hợp\n"],
+      ["D", "D. Sự khác biệt"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Mô tả nào dưới đây là chính xác nhất về việc sử dụng các thông tin lịch sử từ\ncác dự án đã có:\n",
+    "options": [
+      [
+        "A",
+        "A. Ước lượng, vòng đời chi phí (life cycle costing) và lên kế hoạch dự án"
+      ],
+      ["B", "B. Quản lý rủi ro, ước lượng và rút ra bài học\n"],
+      [
+        "C",
+        "C. Lên kế hoạch quản lý dự án, ước lượng và lập báo cáo trạng thái\n"
+      ],
+      ["D", "D. Ước lượng, quản lý rủi ro và lên kế hoạch dự án"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Khi có sự thay đổi, PM tốt nhất nên hướng sự tập trung của mình vào:\n",
+    "options": [
+      ["A", "A. Tạo thay đổi"],
+      ["B", "B. Theo dõi và ghi lại các thay đổi\n"],
+      ["C", "C. Thông báo với nhà tài trợ về các thay đổi\n"],
+      ["D", "D. Ngăn chặn các thay đổi không cần thiết"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Vai trò của nhà tài trợ trong dự án là:\n",
+    "options": [
+      ["A", "A. Giúp đỡ cho công việc lên kế hoạch"],
+      [
+        "B",
+        "B. Giúp đỡ ngăn chặn các thay đổi không cần thiết đối với mục tiêu dự án\n"
+      ],
+      ["C", "C. Xác định các ràng buộc không cần thiết trong dự án\n"],
+      ["D", "D. Giúp kế hoạch quản lý dự án thực hiện tốt"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Điều nào KHÔNG phải là một thành phần của hệ thống kiểm soát thay đổi hiệu\nquả?\n",
+    "options": [
+      ["A", "A. Các thủ tục"],
+      ["B", "B. Các tiêu chuẩn cho báo cáo\n"],
+      ["C", "C. Các buổi họp\n"],
+      ["D", "D. Các bài học rút ra"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Một hệ thống cấp phép được dùng để làm gì?\n",
+    "options": [
+      ["A", ". Quản lý mỗi công việc sẽ được ai làm"],
+      ["B", "B. Quản lý thời gian làm việc và chuỗi công việc nào được làm\n"],
+      ["C", "C. Quản lý mỗi công việc sẽ được làm xong tại thời điểm nào\n"],
+      [
+        "D",
+        " Quản lý ai mỗi công việc sẽ được ai làm và bao giờ hoàn thành công việc và khi\nnào làm công việc đó để công việc và nhân viên có thể tương tác với công việc và\nnhân viên khác"
+      ]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Một dự án bị yêu cầu thay đổi trong tôn chỉ dự án. Ai có trách nhiệm chính để\nquyết định nếu như các thay đổi này là cần thiết?\n",
+    "options": [
+      ["A", "A. Người quản lý dự án PM"],
+      ["B", "B. Đội dự án\n"],
+      ["C", "C. Nhà tài trợ\n"],
+      ["D", "D. Các bên có liên quan"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Ai thực hiện việc tích hợp dự án?\n",
+    "options": [
+      ["A", "A. Người quản lý dự án PM"],
+      ["B", "B. Đội dự án\n"],
+      ["C", "C. Nhà tài trợ\n"],
+      ["D", "D. Các bên có liên quan"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Điều nào dưới đây mô tả đúng nhất vai trò của PM như một người kết hợp dự\nán (integrator)\n",
+    "options": [
+      ["A", "A. Giúp đội dự án quen với dự án"],
+      ["B", "B. Đặt tất cả các phần của dự án vào một chỉnh thể liên kết\n"],
+      ["C", "C. Đặt tất cả các phần của dự án vào một chương trình\n"],
+      [
+        "D",
+        "D. Làm cho tất cả các thành viên dự án làm việc cùng nhau trong một chỉnh thể\nliên kết"
+      ]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Việc phê chuẩn các hành động hiệu chỉnh là đầu vào của (được thực hiện trước)\n",
+    "options": [
+      ["A", "A. Kiểm soát phạm vi và thẩm tra phạm vi (scope verification)"],
+      [
+        "B",
+        "B. Trực tiếp và thi hành quản lý dự án và kiểm soát tích hợp thay đổi\n"
+      ],
+      ["C", "C. Phát triển kế hoạch dự án và phát triển tôn chỉ dự án\n"],
+      ["D", "D. Phát triển kế hoạch dự án và lên lịch cho việc phát triển"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Một bên có liên quan đặc biệt có tiếng trong việc tạo ra thay đổi trong dự án.\nCách PM tiếp cận với bên có liên quan này tại thời điểm bắt đầu dự án nào là tốt\nnhất trong tình huống này?\n",
+    "options": [
+      [
+        "A",
+        "A. Nói không với anh ta 1 vài lần để khuyên ngăn anh ta tạo ra nhiều thay đổi"
+      ],
+      ["B", "B. Kéo anh ta vào dự án càng sớm càng tốt\n"],
+      [
+        "C",
+        "C. Nói chuyện với thủ trưởng của anh ta để tìm cách đưa anh ta sang 1 dự án khác\n"
+      ],
+      [
+        "D",
+        "D. Nói với anh ta không nên tham gia vào các bên có liên quan của dự án này."
+      ]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Bạn là 1 PM mới chưa có kinh nghiệm gì. Bạn được yêu cầu lên kế hoạch cho\nmột dự án mới. trong tình huống này, trong quá trình lập kế hoạch, tốt nhất bạn nên\ndựa vào gì để có cơ hội thành công?\n",
+    "options": [
+      ["A", "A. Trực giác và hiểu biết cá nhân"],
+      ["B", "B. Phân tích của các bên có liên quan\n"],
+      ["C", "C. Thông tin lịch sử từ các dự án đã có\n"],
+      ["D", "D. Quản lý cấu hình"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Điều nào dưới đây mô tả đúng nhất về kế hoạch quản lý dự án?\n",
+    "options": [
+      ["A", "A. Một bản in từ phần mềm quản lý dự án"],
+      ["B", "B. Một biểu đồ đoạn (a bar chart)\n"],
+      [
+        "C",
+        "C. Quản lý rủi ro, nhân viên, quy trình cải thiện và các kế hoạch quản lý khác\n"
+      ],
+      ["D", "D. Phạm vi dự án"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "You are taking over a project and determine the following: activity B has an\nearly finish(EF) of day 3, a late finish(LF) of day 6, and an early start(ES) of day 2.\nActivity L is being done by a hard-to-get resource. The cost performance index\n(CPI) is 1.1 and the schedule performance index(SPI) is 0.8. based on this\ninformation what would you be more concerned about?\n",
+    "options": [
+      ["A", "A. Float"],
+      ["B", "B. Resources\n"],
+      ["C", "C. Cost\n"],
+      ["D", "D. Schedule"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Người PM trước của dự án của bạn đã quản lý dự án mà không có tổ chức dự\nán. Có sự thiếu hụt trong kiểm soát quản lý và không có sản phẩm chuyển giao nào\nđược xác định rõ. Lựa chọn nào dưới đây là tốt nhất cho bạn để tổ chức dự án tốt\nhơn?\n",
+    "options": [
+      ["A", "A. Thông qua cách tiếp cận vòng đời dự án vào dự án của mình"],
+      [
+        "B",
+        "B. Xây dựng các bài học thu được qua mỗi giai đoạn phát triển dự án\n"
+      ],
+      [
+        "C",
+        "C. Xây dựng các kế hoạch công việc cụ thể cho từng gói công việc\n"
+      ],
+      ["D", "D. Xây dựng bản mô tả sản phẩm của dự án"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Bạn đang kiểm soát dự án trong giai đoạn lên kế hoạch và phát hiện ra có 6 cá\nnhân đã k{ vào tôn chỉ dự án. Điều nào dưới đây có liên quan nhất với bạn?\n",
+    "options": [
+      ["A", "A. Ai sẽ là thành viên của ban kiểm soát thay đổi"],
+      ["B", "B. Dùng nhiều thời gian hơn để quản lý cấu hình\n"],
+      ["C", "C. Có một nhà tài trợ dự án riêng\n"],
+      ["D", "D. Xác định cấu trúc báo cáo"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Tôn chỉ dự án cho một dự án của được phê chuẩn để lê kế hoạch và bạn vừa được\nphân công là PM. Nhận ra rằng lên kế hoạch dự án là nỗ lực xuyên suốt dự án, việc\nnào sau đây bạn nên kết hợp nhất?\n",
+    "options": [
+      ["A", "A. Tạo bảng WBS và định nghĩa hành động"],
+      ["B", "B. Ước tính thời gian hành động và xây dựng lịch làm việc\n"],
+      ["C", "C. Lên kế hoạch nhân sự và ước tính chi phí\n"],
+      ["D", "D. Ước tính chi phí và tính toán ngân sách"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Tất cả các điều dưới đây đều là một phần của quản lý và thực thi quản lý dự án, \nngoại trừ:\n",
+    "options": [
+      ["A", "A. Xác định các thay đổi"],
+      ["B", "B. Sử dụng bảng WBS\n"],
+      ["C", "C. Thực hiện các hành động hiệu chỉnh\n"],
+      ["D", "D. Xây dựng một hệ thống kiểm soát dự án."]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Một PM được trang bị để lãnh đạo một dự án kỹ thuật cao trong khu vực với\nnhững người ít thông thạo về lĩnh vực này. PM ủy quyền xây dựng lịch làm việc,\nước tính chi phí, lựa chọn hành động và phân công hành động cho nhiều thành viên\ntrong đội dự án, và chỉ làm việc như người xem xét và điều phối các hoạt động của\ndự án. Kết quả của cách tiếp cận này giống như:\n",
+    "options": [
+      [
+        "A",
+        "A. Một đội chức năng suốt toàn bộ dự án ở mức độ cao, là điển hình của sự sáng\ntạo và trách nhiệm"
+      ],
+      [
+        "B",
+        "B. Một đội hỗn loạn lúc ban đầu, nhưng sau đó sẽ trở nên gắn kết và làm việc hiệu\nquả\n"
+      ],
+      [
+        "C",
+        "C. Một đội không thực sự có hiệu quả, nhưng luôn làm việc cùng nhau do môi\ntrường làm việc mà PM đem lại\n"
+      ],
+      [
+        "D",
+        "D. Một đội có hiệu năng thấp, nhuệ khí thấp, dễ xung đột và tốc độ thay thế nhân\nviên cao"
+      ]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Bạn đang trong quá trình thực hiện các thay đổi quan trọng cho một sản phẩm\nđã có, khi bạn biết rằng nguồn lực đã hứa vào lúc khởi động dự án hiện tại đang\nkhông có thì điều tốt nhất bạn nên làm là gì?\n",
+    "options": [
+      [
+        "A",
+        ". Chỉ ra làm thế nào mà các nguồn lực đã được cam kết cho dự án của bạn lúc\nban đầu"
+      ],
+      ["B", "B. Lập lại kế hoạch dự án mà không có các nguồn lực đó\n"],
+      [
+        "C",
+        "C. Giải thích, trình bày ảnh hưởng nếu nguồn nhân lực đã cam kết không có.\n"
+      ],
+      ["D", "D. Phá dự án, k làm nữa"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Bạn được phân công để quản lý việc phát triển của website đầu tiên của một tổ\nchức. website này sẽ rất phức tạp và có tính tương tác cao, và đội dự án của bạn\ncũng như khách hàng chưa có kinh nghiệm gì trong việc phát triển website. Thời\nhạn bàn giao sản phẩm rất gấp gáp. Bất kz một sự chậm trễ nào sẽ tiêu tốn $ của\ncông ty bạn cũng như khách hàng. Bạn có một nhà tài trợ dự án và có bản hợp\nđồng bàn giao, tôn chỉ dự án và kế hoạch quản lý dự án đều đã có chữ ký. Bên phía\nkhách hàng đã giữ lại đầy đủ các thông báo của quá trình thực hiện dự án thông\nqua báo cáo trạng thái và biên bản họp. dự án đang trong đúng lịch trình, trong\nngân sách và việc xem xét lại cuối cùng(chỉ mang tính hình thức) cũng đã được lên\nlịch. Đột nhiên, bạn nghe rằng toàn bộ nỗ lực có thể bị hủy bởi vì sản phẩm đang\nphát triển là hoàn toàn không được chấp nhận. điều gì là nguyên nhân của vấn đề\nnày?\n",
+    "options": [
+      [
+        "A",
+        "A. Một bên có liên quan không được liên quan thỏa đáng trong dự án(not\nadequately involved)"
+      ],
+      [
+        "B",
+        "B. Tôn chỉ dự án và kế hoạch dự án không được giải thích kỹ lưỡng hoặc không được\nxem xét lại một cách đầy đủ từ phía khách hàng\n"
+      ],
+      [
+        "C",
+        "C. Hợp đồng truyền thông không đầy đủ và không cung cấp các thông tin yêu cầu\ncho các bên có liên quan\n"
+      ],
+      ["D", "D. Nhà tài trợ dự án không cung cấp đầy đủ cho dự án"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "PM nhận được 1 thay đổi từ khách hàng và thay đổi này không ảnh hưởng tới lịch\nhoạt động của dự án và dễ dàng để hoàn thành. PM nên làm gì đầu tiên?\n",
+    "options": [
+      ["A", "A. Thực hiện thay đổi càng sớm càng tốt"],
+      ["B", "B. Liên lạc với nhà tài trợ để được sự cho phép\n"],
+      ["C", "C. Liên lạc với ban kiểm soát thay đổi\n"],
+      ["D", "D. Ước tính các thành phần khác trong tam giác ràng buộc."]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Công ty của bạn vừa trúng thầu một dự án lớn. dự án sẽ bắt đầu trong vòng 3\ntháng và có trị giá 2000000$. Bạn đang là PM của một dự án đã có. Điều đầu tiên\nbạn nên làm là gì sau khi nghe tin về dự án mới?\n",
+    "options": [
+      [
+        "A",
+        "A. Hỏi ban điều hành công ty về nguồn nhân lực mà dự án mới sẽ sử dụng"
+      ],
+      ["B", "B. Nâng mức nguồn lực cho dự án của bạn\n"],
+      ["C", "C. Dừng, phá bỏ dự án của bạn(crash your project)\n"],
+      [
+        "D",
+        "D. Hỏi ban điều hành công ty xem dự án mới có ảnh hưởng tới dự án của bạn hay\nkhông"
+      ]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Bạn là PM vừa được phân công để kiểm soát một dự án(người PM cũ của dự án\nnày vừa rời khỏi công ty). Người PM cũ nói với bạn rằng dự án đang trong đúng\nlịch trình, nhưng chỉ khi anh ta thúc giục liên tục các nhân viên làm việc. điều đầu\ntiên bạn sẽ làm trong cương vị 1 PM mới là:\n",
+    "options": [
+      ["A", "A. Kiểm tra trạng thái rủi ro"],
+      ["B", "B. Kiểm tra chi phí hiệu năng\n"],
+      ["C", "C. Xác định chiến lược quản lý\n"],
+      ["D", "D. Nói với đội dự án về mục tiêu của bạn"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Bạn được phân công làm PM của một dự án đang được thực hiện. dự án vẫn đang\nthực hiện trong ranh giới các ràng buộc, tuy nhiên khách hàng k hài lòng với hiệu\nnăng của dự án. Điều đầu tiên bạn nên làm là gì?\n",
+    "options": [
+      ["A", "A. Thảo luận vấn đề khách hàng đưa ra với đội dự án"],
+      ["B", "B. Tính toán lại các ràng buộc (baseline)\n"],
+      ["C", "C. Thương lượng lại hợp đồng\n"],
+      ["D", "D. Gặp khách hàng để trao đổi"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Một PM biết được rằng các hành động hiệu chỉnh vừa được 1 nhân viên dự án\nthực hiện, nhưng chưa được ghi lại. người PM này nên làm gì tiếp theo?\n",
+    "options": [
+      ["A", "A. Báo cáo vi phạm với giám đốc chức năng"],
+      ["B", "B. Làm sáng tỏ l{ do đằng sau hành động của nhân viên đó\n"],
+      [
+        "C",
+        "C. Thêm hành động hiệu chỉnh này vào bản ghi (historical record)\n"
+      ],
+      ["D", "D. Tìm xem ai đã gây ra vấn đề này(ai đã thực hiện hiệu chỉnh)"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Yêu cầu của khách hàng thay đổi thông số của sản phẩm sẽ làm thời gian thực\nhiện dự án tăng thêm 2 tuần. người PM nên làm gì?\n",
+    "options": [
+      [
+        "A",
+        "A. Dồn lịch thực hiện để hoàn thành đúng thời hạn (recover the 2 weeks)"
+      ],
+      [
+        "B",
+        "B. Cắt giảm phạm vi để hoàn thành đúng hạn, bù lại 2 tuần thêm vào\n"
+      ],
+      [
+        "C",
+        "C. Tham khảo ý kiến nhà tài trợ trước khi có bất kz hành động nào\n"
+      ],
+      [
+        "D",
+        "D. Hỏi ý kiến (or khuyên bảo - advise) khách hàng về ảnh hưởng của sự thay đổi"
+      ]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Trong quá trình thực thi dự án, PM xác định có một thay đổi về nguyên vật liệu\ncho dự án là cần thiết. PM triệu tập 1 cuộc họp để lên kế hoạch thực hiện thay đổi\nnày. Đây là một ví dụ về:\n",
+    "options": [
+      ["A", "A. Quản lý bằng mục tiêu"],
+      ["B", "B. Sự thiếu hụt hệ thống kiểm soát thay đổi\n"],
+      ["C", "C. Quan hệ giữa các thành viên dự án được đánh giá tốt\n"],
+      ["D", "D. Sự thiếu hụt một bảng WBS rõ ràng"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Dự án đang phát triển tốt khi tất cả các thay đổi bất ngờ từ các bên có liên\nquan. Sau khi các thay đổi đã được xác định, PM dành thời gian với tất cả các bên có\nliên quan để tìm ra tại sao lại có thay đổi và xem xét có thêm thay đổi nữa hay không.\nCông việc dự án tạm lắng xuống khi một nhân viên tình cờ đề cập với PM rằng anh\nta đã thêm chức năng vào sản phẩm của dự án mà không làm ảnh hưởng tới thời\ngian, chi phí hay chất lượng của dự án. PM nên làm gì đầu tiên?\n",
+    "options": [
+      [
+        "A",
+        "A. Hỏi nhân viên đó làm thế nào để xác định sự cần thiết của chức năng này"
+      ],
+      [
+        "B",
+        "B. Tổ chức họp để xem xét lại công việc đã hoàn thành của nhân viên này\n"
+      ],
+      ["C", "C. Tìm kiếm các chức năng thêm vào khác\n"],
+      [
+        "D",
+        "D. Hỏi nhân viên đó làm thế nào anh ta biết được rằng không ảnh hưởng tới thời gian,\nchi phí hay chất lượng của dự án"
+      ]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Một PM đang quản lý một hợp đồng có giá sẵn (fixed price contract). Cô ấy\nnghĩ rằng một thay đổi lớn từ yêu cầu của khách hàng sẽ ảnh hưởng tới lịch trình\ndự án. Cô ấy nên làm gì đầu tiên?\n",
+    "options": [
+      ["A", "A. Gặp các bên có liên quan"],
+      ["B", "B. Gặp đội dự án\n"],
+      ["C", "C. Thương lượng lại về phần còn lại của hợp đồng\n"],
+      ["D", "D. Theo sau hệ thống kiểm soát thay đổi"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Trong khi hoàn thành một dự án, một PM nhận ra rằng anh ta cần giảm bớt chi\nphí dự án. Sau khi nghiên cứu các lựa chọn của mình, anh ta thực hiện thay đổi\ndưới đây. Lựa chọn nào sẽ làm giảm chi phí dự án?\n",
+    "options": [
+      [
+        "A",
+        "A. Thay đổi thành phần A từ thành phần B. thành phần A có chi phí cao hơn nhưng\ncó vòng đời chi phí ít hơn B"
+      ],
+      [
+        "B",
+        "B. Thay đổi nguồn lực C thành nguồn lực B để hoàn thành hành động A. nguồn lực\nB có nhiều nhân viên có kinh nghiệm hơn\n"
+      ],
+      [
+        "C",
+        "C. Di chuyển hành động B và H để thực hiện cùng lúc, và chấp nhận tăng 30% rủi\nro mà 5 nguồn lực cần thiết sẽ được thêm vào sau đó\n"
+      ],
+      ["D", "D. Bỏ một kiểm tra từ kế hoạch quản lý dự án"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Dự án này được tuyên bố (chartered?) để xác định cách thức mới để mở rộng\nvòng đời sản phẩm của một sản phẩm của công ty bậc trung. Người PM tới từ một\nban kỹ thuật và đội dự án là từ ban sản phẩm và ban tiếp thị. Tuyên bố phạm vi dự\nán sơ bộ và kế hoạch dự án đã hoàn thành khi một bên có liên quan thông báo với\nđội dự án là: có một cách tốt hơn để hoàn thành một gói công việc. họ cung cấp\nvăn bản xem xét kỹ thuật từ ban của họ, văn bản này chứng minh cách thức mới để\nhoàn thành công việc sẽ thực sự nhanh hơn cách thức cũ. PM đã từng có kinh\nnghiệm tương tự với phòng ban này trong dự án khác, và hi vọng là sẽ xảy ra trong\ndự án này. PM nên làm gì đầu tiên?\n",
+    "options": [
+      [
+        "A",
+        "A. Liên hệ với phòng ban và phàn nàn về sự thiếu hụt thời hạn cuối cùng(deadline)\ncho đệ trình phạm vi(submission of scope)"
+      ],
+      [
+        "B",
+        "B. Tìm kiếm xem thay đổi về lịch trình này sẽ ảnh hưởng tới chi phí để hoàn thành\ngói dự án và chất lượng sản phẩm của gói dự án\n"
+      ],
+      [
+        "C",
+        "C. Xem xét nếu có một cách để thay đổi từ môi trường ma trận từ một tổ chức chức\nnăng để loại trừ tất cả các sự can thiệp từ các phòng ban khác\n"
+      ],
+      ["D", "D. Hỏi phòng ban đó nếu họ có các thay đổi nào khác"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Kết thúc hợp đồng và kết thúc quản lý giống nhau ở chỗ chúng đều có liên\nquan tới\n",
+    "options": [
+      ["A", "A. Xác minh, thẩm tra sản phẩm"],
+      ["B", "B. Buổi họp khởi động dự án\n"],
+      ["C", "C. Hoạt động quản lý chất lượng\n"],
+      ["D", "D. Việc tạo ra kế hoạch xác minh phạm vi"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Đầu ra của kết thúc quản lý là sự tạo ra:\n",
+    "options": [
+      ["A", "A. Tài liệu lưu trữ của dự án"],
+      ["B", "B. Tôn chỉ dự án\n"],
+      ["C", "C. Kế hoạch quản lý dự án\n"],
+      ["D", "D. Kế hoạch phân tích rủi ro"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Tất cả các điều sau đều diễn ra trong khi kết thúc dự án, ngoại trừ:\n",
+    "options": [
+      ["A", "A. Các bài học thu được"],
+      ["B", "B. Sự chấp nhận chính thức\n"],
+      ["C", "C. Giảm sử dụng nguồn lực\n"],
+      ["D", "D. Phân tích lợi ích chi phí thực hiện"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Dự án không được hoàn thành trừ phi:\n",
+    "options": [
+      [
+        "A",
+        "A. Phạm vi dự án được hoàn thành, kết thúc việc quản l{ được hoàn thành và các hóa\nđơn được thanh toán"
+      ],
+      [
+        "B",
+        "B. Có sự chấp nhận chính thức, và bất kz yêu cầu khác nào cho kết thúc dự án đã\nđược ghi rõ trong hợp đồng đều được đáp ứng\n"
+      ],
+      ["C", "C. Khách hàng hài lòng và hóa đơn cuối cùng được thanh toán\n"],
+      ["D", "D. Hoàn thiện các bài học rút ra."]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Bạn đang làm việc trong một dự án phát triển phần mềm mới và sử dụng hơn\n230 nhân lực. cuối cùng, tất cả phạm vi đã hoàn thành. Điều nên làm bây giờ là\n(it’s would be best to)\n",
+    "options": [
+      ["A", "A. Tổ chức một buổi tiệc cho đội dự án"],
+      ["B", "B. Chắc chắn rằng dự án được tích hợp với các dự án khác\n"],
+      ["C", "C. Bắt đầu tập trung vào dự án riêng của bạn\n"],
+      ["D", "D. Phân tích xem dự án thành công hay thất bại."]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Tôn chỉ dự án bao gồm điều nào sau đây?\n",
+    "options": [
+      ["A", "A. Xác định các rủi ro"],
+      ["B", "B. Ước lượng các gói công việc\n"],
+      ["C", "C. Ước lượng chi tiết các nguồn lực\n"],
+      ["D", "D. Yêu cầu về kinh doanh cho dự án"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Một PM đang cố gắng để thuyết phục ban lãnh đạo sử dụng quản lý dự án và\nquyết định bắt đầu cái thiện việc quản lý dự án của công ty bằng cách sử dụng tôn\nchỉ dự án. Điều nào dưới đây mô tả chính xác nhất tại sao tôn chỉ dự án có thể giúp\nPM này:\n",
+    "options": [
+      ["A", "A. Tôn chỉ dự án mô tả chi tiết cần phải hoàn thành cái gì"],
+      ["B", "B. Tôn chỉ dự án liệt kê tên của toàn bộ đội dự án\n"],
+      ["C", "C. Tôn chỉ dự án mang lại quyền lực cho PM\n"],
+      ["D", "D. Tôn chỉ dự án mô tả lịch sử dự án"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Lập trình theo độ dài (linear programming) là một ví dụ của loại hình tiêu\nchuẩn lựa chọn dự án nào?\n",
+    "options": [
+      ["A", "A. Tối ưu hóa ràng buộc"],
+      ["B", "B. Cách tiếp cận cạnh tranh\n"],
+      ["C", "C. Thông số đo đạc lợi ích\n"],
+      ["D", "D. Phân tích ảnh hưởng"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Bạn vừa làm xong tôn chỉ dự án nhưng chưa được phê duyệt. quản lý của bạn và\nthủ trưởng của anh ta yêu cầu dự án phải bắt đầu ngay lập tức. Điều nào dưới đây\nlà tốt nhất để thực hiện?\n",
+    "options": [
+      ["A", "A. Xây dựng quy trình kiểm soát thay đổi tích hợp"],
+      [
+        "B",
+        "B. Chỉ ra cho quản lý của bạn biết ảnh hưởng của việc thi hành mà không được phê\nduyệt\n"
+      ],
+      ["C", "C. Tập trung vào hoàn thành dự án đã được k{ trong tôn chỉ dự án\n"],
+      ["D", "D. Bắt đầu làm việc chỉ trong các chuỗi hành động then chốt"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Phòng kỹ thuật vừa phát hiện ra một vấn đề với hệ thống tính toán chi phí và đã\nyêu cầu phòng hệ thống để phân tích điều gì sai và sửa chữa nó. Bạn là một PM\nđang làm việc với chương trình tính toán chi phí trong một dự án khác. Ban lãnh\nđạo đã xác định yêu cầu thay đổi đối với ban kiểm soát thay đổi là thêm vào dự án\ncủa bạn một công việc mới. dự án đã có của bạn có hiệu suất chi phí (CPI) là 1.2\nvà chỉ số thực hiện theo lịch (SPI) là 1.3 nên bạn cần thêm phòng để thêm công \nviệc mà không làm chậm trễ dự án của bạn hay làm tăng chi phí của dự án này. Sau\nmột vài phân tích, bạn xác định rằng công việc mới và công việc đã có không ảnh\nhưởng lẫn nhau và có thể làm đồng thời. 2 công việc yêu cầu các kỹ năng khác\nnhau. Điều tốt nhất nên làm là:\n",
+    "options": [
+      [
+        "A",
+        "A. Tạo ra mục tiêu dự án và phát triển tuyên bố phạm vi dự án sơ bộ"
+      ],
+      [
+        "B",
+        "B. Ước tính lại lịch trình dự án với đầu vào(input) từ phòng kỹ thuật\n"
+      ],
+      [
+        "C",
+        "C. Thực hiện xác minh phạm vi đối với công việc mới với sự giúp đỡ của các bên\ncó liên quan\n"
+      ],
+      ["D", "D. Xác định các thay đổi cụ thể đối với công việc đã có"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Toàn bộ các công việc kỹ thuật trong dự án đã hoàn thành. Điều nào phải hoàn\nthành tiếp?\n",
+    "options": [
+      ["A", "A. Xác minh phạm vi"],
+      ["B", "B. Kế hoạch phản ứng rủi ro\n"],
+      ["C", "C. Kế hoạch quản lý nhân viên\n"],
+      ["D", "D. Các bài học rút ra"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Một hệ thống đánh số của WBS cho phép các nhân viên dự án:\n",
+    "options": [
+      [
+        "A",
+        "A. Ước tính chi phí một cách có hệ thống về các thành phần của WBS"
+      ],
+      ["B", "B. Cung cấp sự chứng minh dự án (project justification)\n"],
+      ["C", "C. Xác định mức độ cho mỗi thành phần\n"],
+      ["D", "D. Sử dụng nó trong phần mềm quản lý dự án"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "WBS có thể được suy nghĩ tốt nhất như một sự viện trợ hiệu quả cho truyền\nthông…….\n",
+    "options": [
+      ["A", "A. Đội dự án"],
+      ["B", "B. PM\n"],
+      ["C", "C. Khách hàng\n"],
+      ["D", "D. Các bên có liên quan"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Điều nào dưới đây là thuộc tính chính của xác minh phạm vi?\n",
+    "options": [
+      ["A", "A. Hoàn thành nhiều kế hoạch quản lý phạm vi dự án"],
+      ["B", "B. Sự chấp nhận của khách hàng về sản phẩm bàn giao của dự án\n"],
+      ["C", "C. Sự cải thiện ước lượng lịch trình\n"],
+      ["D", "D. Sự cải thiện của hệ thống thông tin quản lý dự án"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Trong giai đoạn thực thi, một nhân viên dự án hỏi người PM do anh ta không\nchắc chắn mình phải thực hiện công việc nào trong dự án. Tài liệu nào dưới đây\nchứa bản mô tả chi tiết của các gói công việc?\n",
+    "options": [
+      ["A", "A. Từ điển WBS"],
+      ["B", "B. Danh sách hoạt động\n"],
+      ["C", "C. Tuyên bố phạm vi dự án sơ bộ\n"],
+      ["D", "D. Kế hoạch quản lý phạm vi dự án"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Tuyên bố phạm vi dự án được tạo ra trong giai đoạn nào của dự án?\n",
+    "options": [
+      ["A", "A. Khởi tạo"],
+      ["B", "B. Lên kế hoạch\n"],
+      ["C", "C. Thực thi\n"],
+      ["D", "D. Kiểm soát"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Chương trình được lên kế hoạch nhiều năm trước khi có một giới thiệu lớn của\ncông nghệ mới. trong khi lên kế hoạch cho dự án mới để bắt đầu trong chương\ntrình này, PM đã mở rộng kế hoạch quản lý phạm vi dự án do dự án trở nên phức\ntạp hơn. Mức độ không chắc chắn trong phạm vi là:\n",
+    "options": [
+      ["A", "A. Không thay đổi"],
+      ["B", "B. Giảm xuống\n"],
+      ["C", "C. Giảm xuống sau đó tăng lên\n"],
+      ["D", "D. Tăng lên"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Một kế hoạch quản lý dự án nên thực tế để sử dụng quản lý dự án. Phương\npháp nào dưới đây là tốt nhất để có được một kế hoạch quản lý dự án có tính thực tế?\n",
+    "options": [
+      ["A", " Nhà tài trợ tạo ra kế hoạch quản lý dự án dựa vào đầu vào từ PM"],
+      [
+        "B",
+        "B. Các giám đốc chức năng tạo ra kế hoạch quản lý dự án dựa vào đầu vào từ PM\n"
+      ],
+      [
+        "C",
+        "C. PM tạo ra kế hoạch quản lý dự án dựa vào đầu vào từ nhà quản lý cấp cao\n"
+      ],
+      ["D", "D. PM tạo ra kế hoạch quản lý dự án dựa vào đầu vào từ đội dự án"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Một PM mới được các chuyên gia quản lý dự án có kinh nghiệm cố vấn. anh ta\nthấy rằng thật khó để tìm đủ thời gian quản lý dự án do dự án và phạm vi sản phẩm\nđang ngày càng phức tạp. các chuyên gia đề cập tới các công cụ đơn giản cho quản\nlý dự án như WBS, có thể được sử dụng trong quá trình thực hiện dự án để giúp đỡ\nviệc quản lý. Vậy WBS dùng để làm gì?\n",
+    "options": [
+      ["A", "A. Truyền thông với khách hàng"],
+      ["B", "B. Chỉ ra lịch và ngày cho mỗi gói công việc\n"],
+      ["C", "C. Chỉ ra các giám đốc chức năng cho mỗi nhân viên dự án\n"],
+      ["D", "D. Chỉ ra yêu cầu kinh doanh cho dự án"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Trong buổi họp với đội dự án, một nhân viên đề nghị tăng phạm vi to hơn\nphạm vi trong tôn chỉ dự án. PM chỉ ra rằng đội dự án cần tập trung vào hoàn thành\ntất cả công việc và chỉ công việc được yêu cầu. đây là một ví dụ về:\n",
+    "options": [
+      ["A", "A. Quy trình quản l{ thay đổi"],
+      ["B", "B. Quản lý phạm vi\n"],
+      ["C", "C. Phân tích chất lượng\n"],
+      ["D", "D. Phân tích phạm vi"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Khi nào thì xác minh phạm vi nên được hoàn thành:\n",
+    "options": [
+      ["A", "A. Cuối dự án (at the end of project)"],
+      ["B", "B. Đầu dự án (at the beginning of project)\n"],
+      ["C", "C. Ở cuối mỗi pha của dự án\n"],
+      ["D", "D. Trong giai đoạn lập kế hoạch"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Dự án đã gần như hoàn thành. Dự án có biến động về lịch trong là 300 và biến\nđộng chi phí là -900. Tất cả đã được hoàn thành và đáp ứng yêu cầu chất lượng ngoại \ntrừ việc giám định kiểm soát chất lượng. Tất cả các mục trong nhật ký vấn đề\n(issue log) đều được giải quyết. Khá nhiều nguồn lực đã được giải phóng. Nhà tài trợ tổ\nchức một buổi gặp mặt để xác minh sản phẩm khi khách hàng thông báo với PM\nrằng họ muốn một thay đổi chính đối với phạm vi dự án. PM nên làm gì?\n",
+    "options": [
+      [
+        "A",
+        "A. Gặp đội dự án để xác định nếu thay đổi này có thể phải thực hiện"
+      ],
+      ["B", "B. Hỏi khách hàng về mô tả thay đổi này\n"],
+      [
+        "C",
+        "C. Giải thích rằng thay đổi không thể thực hiện vào thời điểm này của dự án\n"
+      ],
+      ["D", "D. Thông báo với ban lãnh đạo"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Bạn vừa tham gia vào phòng quản lý dự án sau 5 năm làm việc trong dự án.\nMột trong những điều bạn muốn giới thiệu với công ty là sự cần thiết của bảng\nWBS. Một vài PM đã tức giận do bạn đang đòi hỏi họ phải làm thêm việc. Điều\nnào dưới đây là tốt nhất khi bạn muốn thuyết phục họ sử dụng WBS?\n",
+    "options": [
+      [
+        "A",
+        "A. Nói với học rằng WBS sẽ ngăn chặn các công việc từ không tốt tới tốt (from\nslipping to the crack)"
+      ],
+      ["B", "B. Nói với họ rằng WBS không cần thiết\n"],
+      [
+        "C",
+        "C. Nói với họ rằng WBS là yêu cầu bắt buộc nếu dự án kéo theo những hợp đồng\n"
+      ],
+      ["D", "D. Nói với họ rằng WBS là cách duy nhất để xác định rủi ro."]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Một PM mới vừa xin bạn lời khuyên để tạo ra bảng WBS. Sau khi bạn giải\nthích quy trình cho anh ta, anh ta hỏi bạn rằng nên sử dụng phần mềm nào để lập\nbảng WBS và anh ta nên làm gì với nó khi anh ta hoàn thành. Bạn sẽ trả lời rằng\nbức hình (picture) không phải là kế quả giá trị nhất của việc tạo bảng WBS, đó là:\n",
+    "options": [
+      ["A", "A. A bar chart (biểu đồ đoạn)"],
+      ["B", "B. Team buy in\n"],
+      ["C", " C. Các hoạt động\n"],
+      ["D", "D. Một danh sách các rủi ro"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Để quản lý dự án một cách hiệu quả, công việc nên được chia nhỏ ra. Điều nào\ndưới đây KHÔNG mô tả cách chia công việc nhỏ tới mức nào?\n",
+    "options": [
+      ["A", "A. Cho đến khi nó có kết thúc hợp lý"],
+      ["B", "B. Cho đến khi không thể chia nhỏ hơn về mặt logic\n"],
+      ["C", "C. Cho đến khi công việc được làm bởi 1 người\n"],
+      ["D", "D. Cho đến khi nó có thể ước tính một cách thực tế"]
+    ]
+  }
+]

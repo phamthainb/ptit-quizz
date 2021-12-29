@@ -7,6 +7,7 @@ enum TSubject {
   atbm = "atbm",
   atbm_new = "atbm_new",
   mmt = "mmt",
+  qldapm = "qldapm",
 }
 
 export type TInput = {
@@ -28,6 +29,9 @@ const DataInfo: {
   },
   mmt: {
     size: 296,
+  },
+  qldapm: {
+    size: 1202,
   },
 };
 
@@ -114,6 +118,14 @@ export default function DashBoard() {
                   {...register("subject", { required: true })}
                 />
                 Mạng máy tính
+              </label>
+              <label>
+                <input
+                  type="radio"
+                  value={TSubject.qldapm}
+                  {...register("subject", { required: true })}
+                />
+                qldapm{" "}
               </label>
             </div>
           </div>

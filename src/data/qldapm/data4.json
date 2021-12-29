@@ -1,0 +1,1016 @@
+[
+  {
+    "Ans": "C",
+    "question": "Một PM có thể sẽ sử dụng…………… để chắc chắn rằng đội dự án biết rõ công việc nào được bao gồm trong mỗi gói công việc của họ?",
+    "options": [
+      ["A", " Tuyên bố phạm vi dự án "],
+      ["B", "Phạm vi sản phẩm "],
+      ["C", "Từ điển WBS "],
+      ["D", "Lịch trình"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Một PM vừa được phân công cho 1 dự án mới và được đưa cho tôn chỉ dự án và tuyên bố phạm vi dự án sơ bộ. Điều đầu tiên anh ta nên làm là gì? ",
+    "options": [
+      ["A", "Tạo ra tuyên bố phạm vi dự án"],
+      [
+        "B",
+        "Chắc chắn rằng tất cả các bên có liên quan đã có đầu vào trong phạm vi(có tham gia) "
+      ],
+      ["C", "Phân tích rủi ro dự án "],
+      ["D", "Bắt đầu thực hiện kế hoạch quản lý dự án "]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Pha xây dựng của một sản phẩm phần mềm mới sắp hoàn thành. Pha tiếp theo là kiểm thử và cài đặt(implementation). Theo lịch trình, dự án chỉ còn 2 tuần nữa. PM nên làm gì truwóc khi chuyển sang pha cuối cùng",
+    "options": [
+      ["A", "Xác minh phạm vi "],
+      ["B", "Kiểm soát chất lượng"],
+      ["C", "Báo cáo hiệu năng "],
+      ["D", "Kiểm soát chi phí"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Tất cả các điều dưới đây đều là một phần của đường chuẩn phạm vi (scope baseline) ngoại trừ:",
+    "options": [
+      ["A", "Kế hoạch quản lý phạm vi dự án "],
+      ["B", "Tuyên bố phạm vi dự án "],
+      ["C", "Bảng WBS"],
+      ["D", "Từ điện WBS"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Một trong các bên liên quan của dự án liên lạc với PM để thảo luận vài mở rộng về phạm vi mà họ muốn thêm vào dự án. PM hỏi về văn bản chi tiết và các hoạt động trong quy trình quản lý phạm vi. Khi phạm vi yêu cầu đã hoàn tất, PM nên làm gì tiếp theo?",
+    "options": [
+      ["A", "Hỏi bên có liên quan nếu họ mong chờ thêm thay đổi "],
+      [
+        "B",
+        "Hoàn thành kiểm soát thay đổi tích hợp (integrated change control) "
+      ],
+      [
+        "C",
+        "Chắc chắn rằng ảnh hưởng của thay đổi đã được các bên có liên quan hiểu rõ "
+      ],
+      [
+        "D",
+        "Tìm ra nguyên nhân gốc rễ tại sao phạm vi lại không được khám phá ra trong khi lập kế hoạch dự án. thành khi kiểm soát phạm vi chưa hoàn thành"
+      ]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Để quản lý lịch trình, một PM phân tích lại dự án để dự đoán trước thời gian thực hiện dự án. Cô ấy phân tích chuỗi hành động với độ linh hoạt lịch trình ít \nnhất, đây là kỹ thuật gì? ",
+    "options": [
+      ["A", "Phương pháp đường tới hạn (critical path method) "],
+      ["B", "Sơ đồ dòng (flowchart)"],
+      ["C", "Sơ đồ ưu tiên "],
+      ["D", "WBS "]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": " Một thành phần (or phụ thuộc - dependency) yêu cầu thiết kế phải hoàn thành trước khi sản xuất bắt đầu. Đây là ví dụ của: ",
+    "options": [
+      ["A", "Thành phần rời rạc "],
+      ["B", "Thành phần ngoại cảnh"],
+      ["C", "Thành phần bắt buộc"],
+      ["D", "Thành phần phạm vi "]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Biểu đồ đoạn (bar charts) giải thích điều nào tốt hơn là sơ đồ mạng?",
+    "options": [
+      ["A", "Quan hệ logic"],
+      ["B", "Các đường then chốt"],
+      ["C", "Cân bằng tài nguyên"],
+      ["D", "Quá trình hoặc trạng thái"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": " Nếu ước tính lạc quan nhất(optimistic estimate) cho 1 hoạt động là 12 ngày,\nvà ước tính bi quan nhất là 18 ngày, độ lệch tiêu chuẩn của hành động này là bn?",
+    "options": [["A", "1"], ["B", "1.3"], ["C", "6"], ["D", "3"]]
+  },
+  {
+    "Ans": "D",
+    "question": " Phương pháp giải quyết vấn đề bằng cách đánh giá kinh nghiệm (heuristic) được\nmiêu tả tốt nhất là:",
+    "options": [
+      ["A", "Một công cụ điều khiển"],
+      ["B", "Phương pháp lên lịch trình"],
+      ["C", "Công cụ lên kế hoạch"],
+      ["D", "Quy tắc tự đặt ra (rule of thumb)"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Độ trễ có nghĩa là gì (lag means)",
+    "options": [
+      [
+        "A",
+        "Khối lượng thời gian một hành động có thể trễ mà không làm chậm tiến độ dự\nán"
+      ],
+      [
+        "B",
+        "Khối lượng thời gian một hành động có thể trễ mà không làm chậm ngày bắt\nđầu của hành động tiếp theo"
+      ],
+      ["C", "Thời gian chờ đợi"],
+      [
+        "D",
+        " Sản phẩm của 2 hướng thành công tiên tiến và lạc hậu??? (the product of a\nforward and backward pass)"
+      ]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Công cụ quản lý dự án nào tốt nhất để xác định thời gian dài nhất thực hiện 1\ndự án?",
+    "options": [
+      ["A", "WBS "],
+      ["B", "Sơ đồ mạng"],
+      ["C", "Biểu đồ đoạn (bar chart)"],
+      ["D", "Tôn chỉ dự án"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Điều nào dưới đây là đúng?",
+    "options": [
+      [
+        "A",
+        "Đường tới hạn có thể lướt qua a dummy(k biết nên dịch là cái gì J) a critical\npath can run over a dummy)"
+      ],
+      ["B", "Chỉ có thể có 1 đg then chốt"],
+      ["C", "Sơ đồ mạng sẽ thay đổi mỗi khi thời gian kết thúc dự án thay đổi"],
+      ["D", "Một dự án không bao giờ có trễ tiêu cực (negative float?)"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": " Khoảng thời gian tồn tại của một điểm mốc là:",
+    "options": [
+      ["A", " Ngắn hơn khoảng thời gian tồn tại của hoạt động dài ngày nhất"],
+      ["B", " Ngắn hơn khoảng thời gian của hoạt động đại diện của nó"],
+      ["C", "Không có khoảng thời gian tồn tại"],
+      ["D", "Có cùng khoảng thời gian tồn tại giống hoạt động đại diện của nó"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Điều nào dưới đây mô tả tốt nhất về quan hệ giữa độ lệch tiêu chuẩn và rủi\nro?\n",
+    "options": [
+      ["A", "không có quan hệ gì cả"],
+      ["B", "độ lệch tiêu chuẩn cho biết nếu ước tính là chính xác"],
+      ["C", "độ lệch tiêu chuẩn cho biết độ không chắc chắn của ước tính"],
+      [
+        "D",
+        "độ lệch tiêu chuẩn cho biết nếu ước tính có bao gồm cả phần thêm(đệm vào -\npad) vào"
+      ]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Phân tích Monte Carlo được dùng để làm gì?",
+    "options": [
+      ["A", "Có được các dấu hiệu của rủi ro kéo theo trong dự án"],
+      ["B", "Ước tính độ dài của hoạt động"],
+      ["C", " Mô phỏng thứ tự xảy ra của các hoạt động"],
+      ["D", " Chứng minh cho ban lãnh đạo rằng cần thêm nhân viên dự án"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Độ trễ của một hoạt động được quyết định bởi",
+    "options": [
+      ["A", "Việc thực hiện phân tích Monte Carlo"],
+      ["B", "Thời gian chờ đợi giữa các hoạt động"],
+      ["C", "Độ trễ của việc quyết định"],
+      [
+        "D",
+        "Việc quyết định khối lượng thời gian một hoạt động có thể bị chậm lại bởi sự\nchậm trễ trong đường tới hạn"
+      ]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Một dự án có 3 đường tới hạn. Điều nào dưới đây mô tả đúng nhất ảnh hưởng\ncủa các đường tới hạn này tới dự án?\n",
+    "options": [
+      ["A", "Làm cho dự án dễ quản lý hơn "],
+      ["B", "Làm gia tăng rủi ro của dự án"],
+      ["C", "Yêu cầu nhiều nhân lực hơn"],
+      ["D", "Làm dự án tốn kém hơn"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Nếu thời gian và chi phí dự án không quan trọng như số lượng các nguồn lực\nsử dụng trong 1 tháng, việc tốt nhất để làm trong các việc dưới đây là: \n  ",
+    "options": [
+      ["A", "Thực hiện phân tích Monte Carlo "],
+      ["B", " Xúc tiến dự án (fast track the project)"],
+      ["C", "Thực hiện cân bằng nguồn tài nguyên "],
+      ["D", "Phân tích vòng đời chi phí"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": " Khi nào đồ thị điểm mốc(milestone chart) được sử dụng thay cho sơ đồ đoạn\n(bar chart)? \n  ",
+    "options": [
+      ["A", "Lên kế hoạch dự án "],
+      ["B", "Báo cáo với thành viên đội dự án"],
+      ["C", "Báo cáo với ban lãnh đạo"],
+      ["D", "Phân tích rủi ro"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Kế hoạch quản lý dự án của bạn làm lịch trình dự án khá tốn thời gian. Nếu sơ\nđồ mạng của dự án không thay đổi nhưng bạn có thêm các nguồn nhân lực, điều tốt\nnhất nên làm là:",
+    "options": [
+      ["A", "Xúc tiến dự án "],
+      ["B", "Cấp lại các nguồn lực"],
+      ["C", "Hủy dự án (crash) "],
+      ["D", "Phân tích Monte Carlo"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Phương pháp sơ đồ ưu tiên khác với phương pháp sơ đồ mũi tên ở chỗ sơ đồ\nưu tiên có đặc điểm:\n  ",
+    "options": [
+      ["A", " Có thể sử dụng PERT"],
+      ["B", " Có 4 quan hệ giữa các hành động "],
+      [
+        "C",
+        "Chỉ có quan hệ finish-to-finish (A F2F B tức là B không thể kết thúc trc khi A\nkết thúc) "
+      ],
+      ["D", "Có thể sử dụng các hành động k đúng (dummy activities)"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": " Điều nào dưới đây là tốt nhất để thực hiện cố gắng hoàn thành một dự án\ntrước 2 ngày?\n",
+    "options": [
+      [
+        "A",
+        "Nói với nhà quản lý cấp cao rằng đường tới hạn của dự án không cho phép dự\nán hoàn thành trước hạn "
+      ],
+      ["B", "Nói với thủ trưởng của bạn"],
+      ["C", " Gặp đội dự án và tìm kiếm lựa chọn để hủy hoặc xúc tiến dự án "],
+      ["D", "Làm việc cật lực và nhìn vào trạng thái dự án trong tháng tới. "]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": " Trong nỗ lực hoàn thành dự án trước hạn, PM tìm kiếm chi phí liên kết với\nviệc hủy từng hoạt động. Cách tiếp cận tốt nhất để hủy hoạt động sẽ bao gồm tìm\nkiếm trong:",
+    "options": [
+      ["A", "Ảnh hưởng rủi ro của việc hủy từng hoạt động "],
+      ["B", " Quan điểm của khách hàng đối với từng hoạt động bị hủy "],
+      [
+        "C",
+        " Quan điểm của thủ trưởng về hoạt động nào bị hủy, hoạt động nào được làm tiếp"
+      ],
+      ["D", " Các giai đoạn trong vòng đời dự án mà hoạt động đó xảy ra"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": ". Một PM đang cố gắng để sắp xếp tất cả các hành động trong dự án và đã xác\nđịnh được: hoạt động 1 có thể thực hiện ngay lập tức và ước tính sẽ kéo dài trong 1\ntuần. Hoạt động 2 sẽ bắt đầu sau khi hoạt động 1 hoàn thành và ước tính kéo dài \ntrong 4 tuần. Hoạt động 3 có thể bắt đầu sau khi hoạt động 2 hoàn thành và ước\ntính kéo dài trong 5 tuần. Hoạt động 4 có thể bắt đầu sau khi hoạt động 1 hoàn\nthành và ước tính kéo dài trong 8 tuần. Hoạt động 3 và 4 phải được hoàn thành trước\nkhi kết thúc dự án. Vậy đường tới hạncủa dự án này kéo dài trong bao lâu?\n  ",
+    "options": [["A", "A. 10 "], ["B", "B. 11 "], ["C", "C. 14"], ["D", "D. 8"]]
+  },
+  {
+    "Ans": "B",
+    "question": "Dựa vào dữ liệu của câu hỏi trên, nếu hoạt động 4 kéo dài trong 10 tuần,\nđường tới hạn của dự án sẽ kéo dài trong bao lâu?\n  ",
+    "options": [["A", "A. 10 "], ["B", "B. 11"], ["C", "C. 14"], ["D", "D. 8"]]
+  },
+  {
+    "Ans": "B",
+    "question": " Điều nào dưới đây bao gồm việc hỏi đội dự án về thời gian ước tính cho hoạt\nđộng của họ và có được sự đồng ý (reaching agreement)trong lịch cho mỗi hoạt\nđộng?",
+    "options": [
+      ["A", "A. Sắp xếp các hành động (activity sequencing)"],
+      ["B", "B. Xây dựng lịch trình"],
+      ["C", "C. Định nghĩa phạm vi"],
+      ["D", "D. Tạo ra tôn chỉ dự án"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Một PM đang trong giai đoạn thực thi của một dự án xây dựng lớn khi anh\nkhám phá ra thời gian cần thiết để hoàn thành dự án dài hơn thời gian hiện có. Điều\ntốt nhất nên làm là gì?",
+    "options": [
+      ["A", "Cắt giảm phạm vi dự án"],
+      [
+        "B",
+        "Gặp ban lãnh đạo và nói với họ rằng thời với hạn yêu cầu không thể hoàn thành\nkịp dự án"
+      ],
+      ["C", "Làm việc thêm ngoài giờ"],
+      [
+        "D",
+        "Xác định các lựa chọn để dồn lịch và giới thiệu chúng với ban lãnh đạo như một\nlựa chọn khuyến nghị."
+      ]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Trong khi lên kế hoạch dự án, bạn ước tính thời gian cần thiết cho mỗi hoạt\nđộng và thêm ước tính để tạo ra ước lượng dự án. Bạn cam kết hoàn thành dự án\nđúng hạn. Trong tình huống này, điều gì Sai? \n  ",
+    "options": [
+      [
+        "A",
+        "Đội dự án không tạo ra ước tính và việc ước tính sẽ tốn thời gian nếu sử dụng\nphương pháp này"
+      ],
+      ["B", " Đội dự án không tạo ra ước tính và sơ đồ mạng k được sử dụng "],
+      ["C", " Ước tính quá tốt thời gian và nên được ban lãnh đạo tạo ra  "],
+      [
+        "D",
+        "Ước lượng dự án nên giống với ngày yêu cầu hoàn thành của khách hàng "
+      ]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": " Trong khi định nghĩa hoạt động, một nhân viên xác định rằng 1 hoạt động cần\nđược thực hiện. Tuy nhiên, 1 nhân viên khác tin rằng hoạt động đó không phải là 1 \nphần của dự án như anh ta hiểu trong tuyên bố phạm vi dự án. PM tốt nhất nên làm\ngì?",
+    "options": [
+      ["A", " Cố gắng xây dựng sự đồng thuận trong đội dự án"],
+      ["B", " Thực hiện quyết định cá nhân"],
+      ["C", "Hỏi nhà tài trợ về thông tin chi tiết "],
+      ["D", "Hỏi quản lý cấp cao về thông tin chi tiết"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": " Bạn là 1 PM ở Mỹ, phát triển dự án phần mềm 5,000,000$. Trong khi làm\nviệc với đội dự án để xây dựng sơ đồ mạng, bạn chú ý một chuỗi các hoạt động có\nthể được thực hiện song song nhưng phải hoàn thành trong một thứ tụ riêng biệt. Loại\nhoạt động nào của phương pháp sắp xếp thứ tự hoạt động được yêu cầu cho những\nhoạt động này?",
+    "options": [
+      ["A", "Phương pháp sơ đồ ưu tiên"],
+      ["B", " Phương pháp sơ đồ mũi tên "],
+      ["C", "Phương pháp đường tới hạn "],
+      ["D", " Phương pháo sơ đồ toán tử  "]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Bạn là 1 PM ở Mỹ, phát triển dự án phần mềm 5,000,000$. Trong khi làm\nviệc với đội dự án để xây dựng sơ đồ mạng, dữ liệu xây dựng của bạn cho thấy\nchất lượng có thể dc cải thiện nếu mô hình dữ liệu được quản lý cấp cao phê chuẩn\ntrước khi chuyển sang thành phần thiết kế khác. Họ hỗ trợ đề nghị này với một bài\nbáo từ một tạp chí phần mềm hàng đầu. Mô tả nào dưới đây là tốt nhất với loại đầu\nvào này? (với loại hỗ trợ này)\n  ",
+    "options": [
+      ["A", " Phụ thuộc (or thành phần - dependency) bắt buộc\n"],
+      ["B", "Phụ thuộc tùy ý"],
+      ["C", "Phụ thuộc ngoại cảnh   "],
+      ["D", "Heuristic – phương pháp đánh giá kinh nghiệm  "]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Dựa vào bảng sau, nếu bạn cần làm ngắn thời gian thực hiện dự án, bạn sẽ\ngiảm thời gian cho hoạt động nào?\n  ",
+    "options": [
+      ["A", "Hoạt động Start-B"],
+      ["B", "Hoạt động A-D "],
+      ["C", "Hoạt động E-End   "],
+      ["D", "Hoạt động C-E  "]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": ". Bạn có một dự án với các hoạt động sau: hoạt động A kéo dài 40 giờ và có thể\nbắt đầu sau khi bắt đầu dự án. Hoạt động B kéo dài 25 giờ và nên bắt đầu sau khi\nbắt đầu dự án. Hoạt động C phải bắt đầu sau khi hoạt động A và kéo dài trong 35\ngiờ. Hoạt động D phải bắt đầu sau hoạt động B và C và kéo dài 30 giờ. Hoạt động\nE phải bắt đầu sau hoạt động C và kéo dài 10 giờ. Hoạt động F và D là các hoạt\nđộng cuối cùng của dự án. Điều nào dưới đây là đúng nếu hoạt động B thực sự kéo\ndài trong 37 giờ?\n  ",
+    "options": [
+      ["A", " Đường tới hạn là 67 giờ"],
+      ["B", "Đường tới hạn thay đổi: Start, B, D, End"],
+      ["C", "Đường tới hạn thay đổi thành Start, A, C, E, F, End"],
+      ["D", "Đường tới hạn tăng lên 12h"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Một PM vừa nhận được ước tính thời gian hoạt động từ đội dự án. Anh ta cần\nđiều nào dưới đây để hoàn thành xây dựng lịch trình? \n  ",
+    "options": [
+      ["A", " Thay đổi các yêu cầu"],
+      ["B", "Hệ thống kiểm soát thay đổi lịch trình\n"],
+      ["C", ". Đề nghị các hành động hiệu chỉnh"],
+      ["D", "Thời gian dự trù "]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Một PM đang kiểm soát một dự án từ một PM khác trong giai đoạn lập kế\nhoạch. Nếu PM mới muốn xem kế hoạch của ng PM cũ để quản l{ thay đổi lịch\ntrình, tốt nhất nên xem xét văn bản nào?\n  ",
+    "options": [
+      ["A", " Kế hoạch quản lý truyền thông"],
+      ["B", " Kế hoạch quản lý dự án"],
+      ["C", " Kế hoạch quản lý nhân lực "],
+      ["D", "Kế hoạch quản lý lịch trình, thời gian"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Một PM đang sử dụng ước tính thời gian trung bình có điều chỉnh để thực\nhiện phân tích lịch trình mạng. Loại hình phân tích toán học nào được sử dụng?\n  ",
+    "options": [
+      ["A", "A. Phương pháp đường tới hạn"],
+      ["B", "B. PERT"],
+      ["C", "C. Monte Carlo "],
+      ["D", "D. Cân bằng nguồn lực"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "  WBS, ước tính cho từng gói công việc, và sơ đồ mạng đều đã hoàn thành.\nNgười PM nên làm gì tiếp theo?",
+    "options": [
+      ["A", "Sắp xếp các hành động"],
+      [
+        "B",
+        " Xác minh rằng phạm vi chuẩn đã có (verify that they have the correct scope)\n"
+      ],
+      ["C", " Tạo ra lịch trình sơ bộ và lấy phê chuẩn từ đội dự án\n"],
+      ["D", " Hoàn thành quản lý rủi ro"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Một dự án phát triển sản phẩm mới có 4 cấp (level) trong bảng WBS và dc\nxếp chuỗi sử dụng phương pháp sơ đồ mũi tên. Ước tính thời gian hoạt động đã có.\nĐiều tiếp theo nên làm là gì?",
+    "options": [
+      ["A", "Tạo ra danh sách hành động"],
+      ["B", "Bắt đầu làm bảng WBS"],
+      ["C", "Hoàn thành lịch trình"],
+      ["D", "Nén lịch trình (compress)"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Bạn là một PM cho một dự án phát triển sản phẩm mới có 4 cấp trong bảng\nWBS, và được sắp xếp bằng phương pháp sơ đồ mũi tên. Ước tính thời gian đã\nđược nén và một lịch trình đã được tạo ra. Hành động quản lý thời gian nào nên được\nlàm tiếp theo?",
+    "options": [
+      ["A", "Bắt đầu kiểm soát lịch trình"],
+      [
+        "B",
+        "Bắt đầu ước tính nguồn lực hành động (activity resource estimating)"
+      ],
+      ["C", "Ước tính tương tự lịch trình"],
+      ["D", " Có được sự phê chuẩn"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Một nhân viên từ phòng nghiên cứu phát triển nói với bạn rằng công việc của\ncô ấy quá sáng tạo để cung cấp cho bạn một ước tính riêng có sẵn cho hoạt động.\nbạn phải quyết định sử dụng giờ lao động từ dự án trước để dự đoán cho tương lai.\nĐây là một ví dụ về:",
+    "options": [
+      ["A", "Ước tính thông số"],
+      ["B", "Ước tính 3 điểm (three point)"],
+      ["C", " Ước tính tương tự"],
+      ["D", "Phân tích Monte Carlo"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": " An activity has an early start(ES) of day 3, a late start (LS) of day 13, an early\nfinish(EF) of day 9, and a late finish(LF) of day 19. The activity:",
+    "options": [
+      ["A", "Is on the critical path(đường tới hạn)"],
+      ["B", "Has a lag"],
+      ["C", "Is progressing well"],
+      ["D", "Is not on the critical path"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Dự án được tính toán để hoàn thành 4 ngày sau ngày hoàn thành mong đợi\n(desired completion date). Bạn không có nguồn lực nào khác. Dự án có rủi ro thấp,\ntỷ lệ chi phí có lợi (benefit cost ratio) được mong đợi là 1.6 và các phụ thuộc được ưu\ntiên. Trong tình huống này, điều tốt nhất nên làm là gì?",
+    "options": [
+      ["A", " Cắt giảm nguồn lực từ một hoạt động"],
+      ["B", "Thực hiện nhiều hoạt động đồng thời "],
+      [
+        "C",
+        "Di chuyển nguồn lực từ phụ thuộc được ưu tiên sang các phụ thuộc khác"
+      ],
+      ["D", "Bỏ một hoạt động ra khỏi dự án"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Một PM của một công ty xây dựng nhỏ có một dự án với chi phí là\n130000$ với thời hạn hơn 6 tuần. Theo lịch của cô ấy, dự án nên có chi phí\n60000$ đến bây giờ. Tuy nhiên, hiện tại dự án đã chi ra 90000$. Dự án đang đi\nchậm lịch trình do ước tính gốc không đúng. Ai sẽ có trách nhiệm chính để giải\nquyết vấn đề này?",
+    "options": [
+      ["A", "A. PM "],
+      ["B", "B. Nhà quản lý cấp cao"],
+      ["C", "C. Nhà tài trợ dự án"],
+      ["D", "D. Quản lý của ban quản lý dự án"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Tổ chức của bạn có một thời gian khó khăn trong quản lý toàn bộ các dự án.\nBạn dc đề nghị để giúp nhà quản lý cấp cao hiểu vấn đề này. Loại báo cáo nào sẽ\ngiúp công cấp thông tin tóm tắt cho nhà quản lý cấp cao?",
+    "options": [
+      ["A", " Ước tính chi phí chi tiết"],
+      ["B", "Kế hoạch quản lý dự án"],
+      ["C", "Sơ đồ đoạn (bar chart) "],
+      ["D", "Báo cáo điểm mốc "]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": " Sắp xếp lại các nguồn lực để có hằng số tài nguyên được sử dụng mỗi tháng được\ngọi là:",
+    "options": [
+      ["A", "A. Crashing"],
+      ["B", "B. Floating "],
+      ["C", "C. Leveling"],
+      ["D", "D. Fast tracking "]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": " Điều nào dưới đây là một lợi ích của một đánh giá dự án tương tự?",
+    "options": [
+      ["A", "Đánh giá sẽ gần hơn với công việc sẽ thực sự yêu cầu"],
+      ["B", "Nó được dựa vào việc hiểu chi tiết yêu cầu công việc"],
+      ["C", "Nó mang lại cho đội dự án việc hiểu rõ mong đợi của ban lãnh đạo"],
+      ["D", "Nó giúp PM xác định nếu dự án hoàn thành đúng lịch trình"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Trong giai đoạn thực hiện dự án, một số lượng lớn thay đổi đã được thực hiện.\nNgười PM nên làm gì? ",
+    "options": [
+      [
+        "A",
+        "PChờ đợi đến khi tất cả thay đổi được biết và làm một lịch trình mới"
+      ],
+      [
+        "B",
+        "Thực hiện phê chuẩn các thay đổi nếu cần, nhưng giữ lại đường chuẩn lịch trình\n(baseline)"
+      ],
+      ["C", " Chỉ thực hiện thay đổi được ban lãnh đạo phê chuẩn "],
+      [
+        "D",
+        "Nói chuyện với ban lãnh đạo trước khi thực hiện bất kỳ thay đổi nào"
+      ]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Cách thông thường để tính toán ước tính tại điểm hoàn thành(EAC) là lấy chi\nphí tài thời điểm hoàn thành(BAC) và:",
+    "options": [
+      ["A", "A. Chia cho SPI"],
+      ["B", "B. Nhân với SPI"],
+      ["C", "C. Nhân với CPI"],
+      ["D", "D. Chia cho CPI"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": " Ước tính tại điểm hoàn thành EAC là đánh giá định kỳ của:",
+    "options": [
+      ["A", " Chi phí hoàn thành công việc"],
+      ["B", " Giá trị của công việc được thực hiện"],
+      ["C", " Tổng chi phí dự kiến tại thời điểm hoàn thành dự án."],
+      ["D", " Chi phí sẽ hoàn thành công việc(what it will cost)"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Nếu giá trị thu được(EV-earned value) là 350, chi phí thực tế(AC-actual\nvalue) là 400, giá trị dự tính(PV-planned value) là 325, chi phí phát sinh(CV-cost\nvarience) là bao nhiêu?",
+    "options": [
+      ["A", "A. 350 "],
+      ["B", "B. -75"],
+      ["C", "C. 400"],
+      ["D", "D. -50"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": " Sự mất cân bằng kép là gì?",
+    "options": [
+      ["A", "A. Khấu hao"],
+      ["B", "B. Sự giảm theo đường thẳng"],
+      ["C", "C. Sự giảm nhanh chóng"],
+      ["D", "D. Dự toán(or chi phí) vòng đời (life cycle costing)"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": " Ước lượng tương tự là gì?",
+    "options": [
+      ["A", "Sử dụng kĩ thuật ước lượng từ dưới lên(bottom-up)"],
+      ["B", "Đc sử dụng thường xuyên nhất trong giai đoạn thực thi dự án"],
+      ["C", "Sử dụng kĩ thuật ước lượng từ trên xuống(top-down)"],
+      ["D", "Sử dụng chi phí chi tiết thực tế trong quá khứ"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Chi phí của việc lựa chọn 1 dự án và từ bỏ dự án khác được gọi là:",
+    "options": [
+      ["A", "A. Chi phí cố định (fixed cost)"],
+      ["B", "B. Chi phí ngầm(sunk cost)"],
+      ["C", "C. Giá trị thực (net present value NPV)"],
+      ["D", "D. Chi phí cơ hội"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Điểm chính nổi bật của đánh giá vòng đời là:",
+    "options": [
+      ["A", "A. Chi phí ước tính cài đặt"],
+      ["B", "B. Ước tính chi phí của thực hiện và bảo trì"],
+      ["C", "C. Xem xét chi phí cài đặt khi lên kế hoạch chi phí dự án"],
+      [
+        "D",
+        "D. Xem xét chi phí thực hiện và bảo trì khi lập quyết định trong dự án "
+      ]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Việc đo hiệu suất chi phí tốt nhất nên được thực hiện theo cách nào dưới đây?",
+    "options": [
+      [
+        "A",
+        "Hỏi mỗi nhân viên dự án đã hoàn thành được bao nhiêu % công việc và báo cáo\ntrong báo cáo tiến trình hàng tháng"
+      ],
+      [
+        "B",
+        "Tính toán giá trị thu được EV và sử dụng thông số và các tính toán khác để báo\ncáo hiệu năng đã thực hiện và dự đoán hiệu năng tương lai"
+      ],
+      [
+        "C",
+        "Sử dụng luật 50/50 và chắc chắn rằng chi phí vòng đời là ít hơn chi phí dự án"
+      ],
+      [
+        "D",
+        "Tập trung vào khối lượng sử dụng tháng trước và chi tiêu tháng tiếp theo"
+      ]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Chỉ số thực hiện chi phí CPI là 0.89 nghĩa là:",
+    "options": [
+      [
+        "A",
+        "Vào thời điểm này, chúng ta mong đời tổng chi phí dự án hơn 89% so với kế\nhoạch "
+      ],
+      [
+        "B",
+        " Khi dự án hoàn thành chúng ta sẽ sử dụng 89% hơn so với kế hoạch"
+      ],
+      ["C", "Dự án chỉ thực hiện 89% so với kế hoạch"],
+      ["D", " Dự án chỉ nhận được 89% chi phí so với kế hoạch đầu tư"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": " Chỉ số thực hiện lịch trình SPI là 0.76 nghĩa là: ",
+    "options": [
+      ["A", "Bạn đang chi tiêu quá ngân sách"],
+      ["B", "Bạn đang đi nhanh hơn kế hoạch"],
+      [
+        "C",
+        " Bạn đang chỉ thực hiện 76% của tỷ lệ ban đầu của kế hoạch (the rate originally\nplanned)"
+      ],
+      ["D", "Bạn đang chỉ thực hiện 24% của tỷ lệ ban đầu của kế hoạch"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Điều nào dưới đây không cần thiết khi đưa ra ước tính dự án?",
+    "options": [
+      ["A", "PA. WBS"],
+      ["B", "B. Sơ đồ mạng"],
+      ["C", "C. Các rủi ro "],
+      ["D", "D. Thủ tục kiểm soát thay đổi"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Điều nào dưới đây là một ví dụ của ước tính tham số?\n",
+    "options": [
+      ["A", "A. Dollar per module"],
+      ["B", "B. Điểm nút học được( learning bend)"],
+      ["C", "C. Bottom-up "],
+      ["D", "D. CPM"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Một phác thảo ước tính độ lớn được thực hiện trong giai đoạn nào của dự án?",
+    "options": [
+      ["A", "A. Lên kế hoạch"],
+      ["B", "B. Kết thúc "],
+      ["C", "C. Thực thi"],
+      ["D", "D. Khởi tạo"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Chi phí thực tế nên gần(how close) với ước lượng ngân sách cuối cùng ntn?",
+    "options": [
+      ["A", "A. Từ -75% tới 25%"],
+      ["B", "B. Từ -10% tới 15%"],
+      ["C", "C. Từ 10% tới -25% "],
+      ["D", "D. –từ -5% tới 10%"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Nhân tố nào không nên được xem xét khi lựa chọn giữa 2 dự án để đảm\nnhận(undertake)?",
+    "options": [
+      ["A", "A. Giá trị thực NPV"],
+      ["B", "B. Tỷ lệ chi phí lợi ích ( benefit cost ratio BCR)"],
+      ["C", "C. Thời gian thu hồi vốn đầu tư"],
+      ["D", "D. Luật lợi nhuận giảm dần."]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Nếu dự án A có giá trị thực NPV là 30000$ và dự án B có giá trị thực NPV là\n50000$, chi phí cơ hội là gì khi lựa chọn dự án B",
+    "options": [
+      ["A", "A. 23000$"],
+      ["B", "B. 30000$"],
+      ["C", "C. 20000$"],
+      ["D", "D. 50000$"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Loại chi phí đào tạo đội dự án là:",
+    "options": [
+      ["A", "A. Trực tiếp"],
+      ["B", "B. NPV"],
+      ["C", "C. Gián tiếp"],
+      ["D", "D. Cố định"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Chi phí thiết lập dự án là một ví dụ về:",
+    "options": [
+      ["A", "A. Chi phí biến động"],
+      ["B", "B. Chi phí cố định"],
+      ["C", "C. Chi phí hoạt động (overhead costs)"],
+      ["D", "D. Chi phí cơ hội"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": " Phân tích giá trị được thực hiện để thu được cái gì? ",
+    "options": [
+      ["A", "A. Nhiều giá trị hơn từ phân tích chi phí"],
+      ["B", "B. Quyền quản lý với việc mua vào của dự án"],
+      ["C", "C. Đội để mua vào dự án"],
+      ["D", "D. Một cách ít tốn kém hơn để làm cùng một công việc"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Ai có rủi ro về chi phí trong hợp đồng giá cố định? ",
+    "options": [
+      ["A", "A. Đội dự án"],
+      ["B", "B. Người mua "],
+      ["C", "C. Người bán"],
+      ["D", "D. Ban lãnh đạo"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Điều nào dưới đây thể hiện giá trị ước tính của công việc đã hoàn thành thực\ntế?",
+    "options": [
+      ["A", " Giá trị thu được EV"],
+      ["B", "Giá trị dự tính PV(planned value)\n"],
+      ["C", "TChi phí thực tế AC"],
+      ["D", "Chi phí phát sinh CV( cost variance)"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": " Bạn có 4 dự án và phải chọn 1. Dự án A đang được thực hiện hơn 6 năm và có\ngiá trị thực NPV là 70000$. Dự án B đang được thực hiện hơn 3 năm và có NPV là\n30000$. Dự án C đang được thực hiện hơn 5 năm và có NPV là 40000$. Dự án D\nđang dc thực hiện hơn 1 năm và NPV là 60000$. Bạn sẽ chọn dự án nào?",
+    "options": [
+      ["A", "A. Dự án A"],
+      ["B", "B. Dự án B"],
+      ["C", "C. Dự án C"],
+      ["D", "D. Dự án D"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Dự án A có tỷ suất hoàn vốn nội bộ (internal rate of return –IRR) là 21%. Dự\nán B có IRR= 7%. Dự án C có IRR= 31%. Dự án D có IRR= 19%. Dự án tốt nhất\nlà: ",
+    "options": [
+      ["A", "A. Dự án A "],
+      ["B", "B. Dự án B"],
+      ["C", "C. Dự án C"],
+      ["D", "D. Dự án D"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Là một PM, bạn được giới thiệu các thông tin sau về giá trị thực NPV của một\nvài dự án. Bạn sẽ lựa chọn dự án nào trong số các dự án dưới đây?",
+    "options": [
+      ["A", "A. Dự án A với NPV là 95000$"],
+      ["B", "B. Dự án B với NPV là 120000$"],
+      ["C", "C. Dự án C với NPV là 20000$"],
+      ["D", "D. Dự án D với NPV là -30000$"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Công ty của bạn có thể chấp nhận 1 trong 3 dự án sau: dự án A có NPV là\n30000$ và cần 6 năm để hoàn thành, dự án B có NPV là 60000$ và cần 3 năm để\nhoàn thành, dự án C có NPV là 90000$ và cần 4 năm để hoàn thành. Dựa vào các\nthông tin trên, bạn sẽ chọn dự án nào để thực hiện?",
+    "options": [
+      ["A", "A. 3 dự án có giá trị như nhau"],
+      ["B", "B. Dự án A"],
+      ["C", "C. Dự án B"],
+      ["D", "D. Dự án C"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Người bán nói với bạn rằng các hoạt động của bạn gây ra việc tăng chi phí\ncủa họ. bạn nên làm gì?",
+    "options": [
+      ["A", "A. Đề nghị thay đổi đối với chi phí dự án"],
+      ["B", "B. Có buổi họp với ban lãnh đạo để xem nên làm gì"],
+      ["C", "C. Hỏi người bán về các thông tin hỗ trợ"],
+      ["D", "D. Từ chối mọi hành động sai "]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Dự đoán chi phí chỉ ra rằng bạn sẽ bị vượt quá chi phí vào giai đoạn cuối của\ndự án. Bạn nên làm gì?",
+    "options": [
+      ["A", "A. Loại trừ các rủi ro trong ước tính và ước tính lại"],
+      ["B", "B. Gặp nhà tài trợ để tìm ra công việc nào nên được làm sớm hơn"],
+      ["C", "C. Cắt giảm chất lượng"],
+      ["D", "D. Giảm phạm vi"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Một dự án phát triển cửa hàng mới yêu cầu việc mua bán của nhiều thiết bị,\nmáy móc và đồ đạc. Phòng ban có trách nhiệm cho việc phát triển vừa tập trung\nquy trình mua bán bên ngoài và tiêu chuẩn hóa hệ thống đặt hàng mới. Những thủ\ntục trên có trong tài liệu nào?",
+    "options": [
+      ["A", "A. Tuyên bố phạm vi dự án"],
+      ["B", "B. WBS"],
+      ["C", "C. Kế hoạch quản lý nhân lực"],
+      ["D", "D. Chính sách của tổ chức"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Vào giai đoạn đầu của dự án, bạn có buổi thảo luận với nhà tài trợ về các kỹ\nthuật ước lượng nên được sử dụng. Bạn muốn có đánh giá của chuyên gia, nhưng\nnhà tài trợ phản đối và muốn dùng ước tính tương tự. Tốt nhất nên làm gì?",
+    "options": [
+      ["A", "Đồng ý với ước tính tương tự như một đánh giá của chuyên gia"],
+      ["B", "Đề nghị đánh giá vòng đời như một thỏa hiệp"],
+      ["C", "Xác định tại sao nhà tài trợ muốn một ước tính chính xác như thế"],
+      [
+        "D",
+        "Cố gắng thuyết phục nhà tài trợ đồng { các đánh giá của chuyên gia do nó chính\nxác hơn"
+      ]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Bạn vừa hoàn thành giai đoạn khởi tạo của một dự án nhỏ và đang bước sang\ngiai đoạn lên kế hoạch khi một bên có liên quan tới dự án hỏi bạn về ngân sách dự\nán và đường chuẩn chi phí (cost baseline). Bạn nên nói gì?\n",
+    "options": [
+      [
+        "A",
+        "Ngân sách dự án có thể được tìm thấy trong tôn chỉ dự án mới vừa hoàn thành"
+      ],
+      [
+        "B",
+        "Ngân sách dự án và đường chuẩn sẽ không được kết thúc và được chấp nhận cho đến\nkhi giai đoạn lên kế hoạch hoàn tất "
+      ],
+      [
+        "C",
+        " Kế hoạch quản lý dự án sẽ không bao gồm ngân sách dự án và đường chuẩn,\nđây là một dự án nhỏ"
+      ],
+      [
+        "D",
+        " Có thể hoàn thành một ước tính trước khi kế hoạch quản lý dự án được tạo ra"
+      ]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": " PM được chỉ định ước tính chi phí chung để chia nhỏ các hoạt động để thiết lập \nmột đường chuẩn cho việc đo đạc hiệu năng dự án. Đây là quy trình gì?",
+    "options": [
+      ["A", "A. Quản lý chi phí"],
+      ["B", "B. Ước tính chi phí"],
+      ["C", "C. Dự thảo ngân sách"],
+      ["D", "D. Kiểm soát chi phí"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Bạn được hỏi để chuẩn bị ngân sách để hoàn thành một dự án. Dự án này vừa bắt\nđầu năm ngoái và bị hoãn trong 6 tháng. Điều nào dưới đây không có trong ngân\nsách?",
+    "options": [
+      ["A", "A. Chi phí cố định"],
+      ["B", "B. Chi phí ngầm"],
+      ["C", "C. Chi phí trực tiếp"],
+      ["D", "D. Chi phí biến động (VC – variable costs)"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Để cung cấp một dự án mới cho phòng ban của mình, bạn cần di chuyển tài\nnguyên từ một dự án sang một dự án khác. Do phòng ban của bạn đang làm việc\nhết công suất, di chuyển tài nguyên sẽ chăncs chắn trì hoãn dự án mà bạn chuyển\ntài nguyên. Điều này làm ảnh hưởng tiêu cực ít nhất đến dự án nào dưới đây ếu bạn\ndi chuyển tài nguyên từ dự án này?\n",
+    "options": [
+      [
+        "A",
+        "Dự án A với tỷ lệ chi phí lợi ích là 0.8, không có tôn chỉ dự án, có 4 nguồn lực"
+      ],
+      [
+        "B",
+        ". Dự án B với NPV là 60000$, 12 nguồn lực, và chi phí biến động giữa 1000$ tới\n2000$ một tháng"
+      ],
+      [
+        "C",
+        "Dự án C với chi phí cơ hội là 300000$, không có hệ thống kiểm soát dự án, tỷ\nsuất hoàn vốn nội bộ IRR là 12%"
+      ],
+      ["D", "Dự án D với chi phí gián tiếp là 20000$ và 13 nguồn lực"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Một dự án sản xuất có chỉ số thực hiện lịch trình SPI là 0.89 và chỉ số thực\nhiện chi phí CPI là 0.91. Thông thường, giải thích nào tốt nhất cho tình huống này?",
+    "options": [
+      ["A", "Phạm vi dự án đã thay đổi"],
+      [
+        "B",
+        "Một nhà cung cấp không kinh doanh nữa và một nhà cung cấp khác cần được tìm\nthấy"
+      ],
+      ["C", " Các thiết bị thêm vào cần thiết phải mua"],
+      [
+        "D",
+        "Hoạt động đường giới hạn thực hiện lâu hơn và cần nhiều giờ lao động để hoàn\nthành"
+      ]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Mặc dù các bên có liên quan nghĩ rằng có đủ tiền trong ngân sách, dự án thực\nhiện được 1 nửa và CPI là 0.7. Để xác định nguyên nhân cốt lõi, các bên có liên quan\nkiểm tra dự án và phát hiện ra ngân sách chi phí dự án đã bị ước tính một cách\ntương tự. mặc dù các ước tính hoạt động thêm vào ước tính dự án, các bên có liên\nquan nghĩ rằng có gì đó bị bỏ sót trong khi hoàn thành ước tính. Điều bị bỏ sót ấy\nlà gì?",
+    "options": [
+      ["A", "A. Chi phí ước tính được nên được sử dụng để đo CPI"],
+      ["B", "B. SPI nên được sử dụng, k phải CPI"],
+      ["C", "C. Ước tính từ dưới lên nên được sử dụng"],
+      ["D", "D. Thông tin lịch sử không được tính đến"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Bạn là một PM của công ty tư vấn lớn. cấp trên của bạn vừa hỏi ý kiến của\nbạn trong một quyết định về dự án nào công ty nên theo đuổi. Dự án A có tỷ suất\nhoàn vốn nội bộ IRR là 12%. Dự án B được dự đoán có tỷ lệ chi phí lợi ích BCR là\n1.3. Dự án C có chi phí cơ hội là 75000$. Dự án D có thời gian thu hồi vốn là 6\ntháng. Bạn sẽ chọn dự án nào?",
+    "options": [
+      ["A", "A. Dự án A"],
+      ["B", "B. Dự án B"],
+      ["C", "C. Dự án C"],
+      ["D", "D. Dự án D"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": " You are about to take over a project from another project manager and find\nout the following information about the project. Activity Z has an early start ES of\nday 15 and a late start LS of day 20. Activity Z is a difficult activity. Cost\nperformance index CPI is 1.1. Schedule performance index SPI is 0.8. There are 11\nstakeholders on the project. Based on this information, which of the following\nwould you be the Most concerned about?",
+    "options": [
+      ["A", "A. Schedule"],
+      ["B", "B. Float"],
+      ["C", "C. Cost"],
+      ["D", "D. The number of available resources"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": " Sự khác nhau giữa đường chuẩn chi phí và ngân sách chi phí là:",
+    "options": [
+      ["A", "A. Quản lý tài nguyên dự trữ"],
+      ["B", "B. Dự trữ phát sinh"],
+      ["C", "C. Ước tính chi phí dự án"],
+      ["D", "D. Tài khoản chi phí (cost account?)"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Bạn cung cấp ước tính chi phí dự án cho nhà tài trợ dự án. Anh ta không hài\nlòng với ước tính, do anh ta nghĩ rằng giá có thể thấp hơn. Anh ta bảo bạn cắt giảm\n15% ước tính dự án. Bạn nên làm gì?",
+    "options": [
+      [
+        "A",
+        "Bắt đầu dự án và liên tục tiết kiệm chi phí dự án(look for cost saving)"
+      ],
+      ["B", "Nói với đội dự án để cắt giảm 15% từ ước tính của họ\n"],
+      ["C", " Thông báo với nhà tài trợ về các hoạt động bị cắt giảm"],
+      [
+        "D",
+        "Thêm các nguồn tài nguyên với chi phí theo giờ thấp ( low hourly rates)"
+      ]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": " Khi một sản phẩm hay dịch vụ hoàn tất và đáp ứng yêu cầu của khách hàng\ntức là:",
+    "options": [
+      ["A", "Chất lượng hoàn thiện"],
+      ["B", "Chi phí của chất lượng là cao"],
+      ["C", "Chi phí của chất lượng là thấp"],
+      ["D", " Khách hàng trả giá thấp nhất cho sản phẩm"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Khái niệm của mức độ chất lượng tối ưu có thể đạt được tại điểm mà doanh thu\ntăng lên từ sự cải tiến sản phẩm bằng với chi phí tăng để bảo đảm nó. Câu này liên \nquan đến:",
+    "options": [
+      ["A", "Phân tích kiểm soát chất lượng"],
+      ["B", "Phân tích không quan trọng"],
+      ["C", "Phân tích tiêu chuẩn chất lượng"],
+      ["D", "Phân tích tính thống nhất"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": " Bạn đang quản lý một dự án 6 tháng và tổ chức họp mặt 1 tuần 2 lần với các bên có liên quan tới dự án. Sau 5.5 tháng làm việc, dự án vẫn theo đúng lịch trình và ngân sách, nhưng các bên có liên quan không \t hài lòng với sản phẩm thu được. Tình huống này sẽ làm chậm 1 tháng để hoàn thành dự án. Quy trình quan trọng nhất để ngăn chặn tình huống này là: ",
+    "options": [
+      ["A", "Kiểm soát rủi ro "],
+      ["B", "Kiểm soát lịch trình"],
+      ["C", "Lên kế hoạch phạm vi "],
+      ["D", "Kiểm soát phạm v"]
+    ]
+  }
+]

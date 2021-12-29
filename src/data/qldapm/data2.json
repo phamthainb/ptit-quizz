@@ -1,0 +1,1402 @@
+[
+  {
+    "Ans": "C",
+    "question": "Tất cả những điều sau đều là nhân tố trong đánh giá rủi ro dự án, ngoại trừ:\n",
+    "options": [
+      ["A", "A. Sự kiện rủi ro\n"],
+      ["B", "B. Xác suất rủi ro\n"],
+      ["C", "C. Số tiền rủi ro (amout at stake)\n"],
+      ["D", "D. Chi phí bảo hiểm"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Nếu một dự án có 60% cơ hội kiếm được 100000$ và có 40% cơ hội mất\n100000$, giá trị tiền tệ dự kiến cho dự án là:\n",
+    "options": [
+      ["A", "A. Thu được 100000$\n"],
+      ["B", "B. Mất đi 60000$\n"],
+      ["C", "C. Thu được 20000$\n"],
+      ["D", "D. Mất đi 40000$"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Cho rằng 2 đầu của dải các ước tính trung bình là +/-3sigma, dải ước tính nào\ndưới đây bao gồm ít rủi ro nhất?\n",
+    "options": [
+      ["A", "A. 30 ngày, cộng trừ 5 ngày\n"],
+      ["B", "B. Từ 22-30 ngày\n"],
+      ["C", "C. Optimistic=26days, most likely=30days, pessimistic=33days\n"],
+      ["D", "D. 28 ngày"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Sự kiện rủi ro nào dưới đây gây trở ngại cho việc đạt tới mục tiêu lịch thực\nhiện dự án nhất?\n",
+    "options": [
+      ["A", "A. Chậm trễ trong việc có được các phê chuẩn được yêu cầu\n"],
+      ["B", "B. Tăng đáng kể chi phí mua nguyên vật liệu\n"],
+      ["C", "C. Tranh chấp hợp đồng sinh ra các yêu sách tăng thanh toán\n"],
+      [
+        "D",
+        "D. Cuộc họp đã được lên kế hoạch để xem lại việc thực hiện k đúng thời hạn"
+      ]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Nếu 1 rủi ro có 20% cơ hội xảy ra trong 1 tháng cho trước, và dự án dự kiến\nkéo dài 5 tháng, xác suất mà sự kiện rủi ro này sẽ xảy ra trong tháng thứ 4 của dự\nán là bn?\n",
+    "options": [
+      ["A", "A. Ít hơn 1%\n"],
+      ["B", "B. 20%"],
+      ["C", "C. 60%\n"],
+      ["D", "D. 80%"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Nếu một sự kiện rủi ro có 90% cơ hội xảy ra, và hậu qua là 10000$, tương \nứng với 90000$ là:",
+    "options": [
+      ["A", " Giá trị rủi ro"],
+      [
+        "B",
+        " Giá trịhiện tại ( present value- giá trịhiện tại của dòng tiền mặt sẽ đem lại \nlượng giá trịquay vòng vốn đầu tưnhất định trong tương lai"
+      ],
+      ["C", "Giá trịtiền tệ dự kiến"],
+      ["D", "Ngân sách ngẫu nhiên"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Các rủi ro sẽ được xcá định trong các quá trình quản lýrủi ro nào?",
+    "options": [
+      ["A", "Phân tích định lượng rủi ro và xác định rủi ro"],
+      ["B", "Xác định rủi ro và kiểm soát rủi ro"],
+      ["C", "Xác định rủi ro và kiểm soát rủi ro"],
+      ["D", "Xác định rủi ro"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Điều gì nên được hoàn thành với những rủi ro trong danh sách theo dõi \n(watchlist) ",
+    "options": [
+      [
+        "A",
+        "Ghi lại chúng cho các thông tin lịch sử để sử dụng trong các dự án kháC"
+      ],
+      ["B", " Ghi lại chúng và xem lại trong quá trình thực hiện dựán"],
+      [
+        "C",
+        " Ghi lại chúng và đểsang một bên vì chúng đã có trong kếhoạch đối phó với sự\nkiện ngẫu nhiên"
+      ],
+      ["D", "Ghi lại chúng và đưa cho khách hàng"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Tất cảnhững điều sau luôn là đầu vào cho quá trình quản lýrủi ro, ngoại trừ:",
+    "options": [
+      ["A", "Các thông tin lịch sự"],
+      ["B", "Các bài học rút ra"],
+      ["C", " WBS "],
+      ["D", "Báo cáo trạng thái dựán"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Khả năng chấp nhận rủi ro được xác định đểgiúp: ",
+    "options": [
+      ["A", "Đội dự án xếp loại được các rủi ro dựán"],
+      ["B", "PM ước tính dự án"],
+      ["C", "Đội dự án lên lịch trình dựán."],
+      [
+        "D",
+        "Ban lãnh đạo biết được những người quản lý khác sẽ hành động trong dự án ntn"
+      ]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Tất cảnhững điều sau có 1 kết quảchung của quản lýrủi ro, ngoại trừ ",
+    "options": [
+      ["A", "Các điều kiện và điều khoản trong hợp đồng được tạo ra"],
+      ["B", "Kế hoạch quản lý dự án được thay đổi"],
+      ["C", "Kế hoạch quản lý truyền thông được thay đổi"],
+      ["D", "Tôn chỉ dự án được thay đổi"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Bảo hiểm mua bán được xem xét tốt nhất nhưlà một ví dụvềloại rủi ro nào?",
+    "options": [
+      ["A", "Sách dự án "],
+      ["B", "Bảng kê công việc (SOW) "],
+      ["C", "Tài liệu vai trò và trách nhiệm. "],
+      ["D", "Sách chỉ dẫn các thủ tục và chính sách của công ty"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Bạn đang thấy rằng thật khó để ước lượng chính xác chi phí sẽ ảnh hưởng bởi \nrủi ro. Bạn nên ước lượng với:",
+    "options": [
+      ["A", "Cơ sở định lượng"],
+      ["B", "Cơ sở số học"],
+      ["C", "Cơ sở định tính"],
+      ["D", "Cơ sở kinh tế"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Đầu ra của kếhoạch đối phó rủi ro (risk response planning) là: ",
+    "options": [
+      ["A", " Số dư Rủi ro "],
+      ["B", "Các rủi ro được xác định"],
+      ["C", "Danh sách ưu tiên của các rủi ro"],
+      ["D", " Các ảnh hưởng được xác định  "]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": " Việc khắc phục(workaround) được xác định trong quá trình quản lýrủi ro nào? ",
+    "options": [
+      ["A", " Xác định rủi ro "],
+      ["B", "Phân tích định lượng rủi ro"],
+      ["C", "Kế hoạch đối phó rủi ro "],
+      ["D", "Kiểm soát rủi ro "]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Trong quá trình quản lýrủi ro nào là nhân tốxác định chuyển giao một loại \nrủi ro (risk made) ",
+    "options": [
+      ["A", " Xác định rủi ro "],
+      ["B", "Phân tích định lượng rủi ro"],
+      ["C", "Kế hoạch đối phó rủi ro "],
+      ["D", "Kiểm soát rủi ro "]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Một PM vừa hoàn thành kế hoạch đối phó rủi ro cho 1 dựán kỹ thuật có kinh \nphí 387000$. Điều nào dưới đây anh ta nên làm tiếp theo?  ",
+    "options": [
+      ["A", " Xác định tỷlệ rủi ro tổng thể cho toàn dựán "],
+      [
+        "B",
+        "Bắt đầu phân tích rủi ro và chỉra trong phác thảo dựán (project drawing)"
+      ],
+      ["C", "Thêm các gói công việc vào bảng WBS  "],
+      ["D", "Tổ chức đánh giá lại rủi ro dự án  "]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Một PM hỏi nhiều bên có liên quan đểxác định xác suất và ảnh hưởng của \nmột sốrủi ro. Anh ta sau đó đã phân tích các giảthuyết. Anh ta đang chuyển sang \nbước tiếp theo của quản lýrủi ro. Dựa vào các thông tin trên, PM đã QUÊN không \nlàm gì?  ",
+    "options": [
+      ["A", "Ước lượng xu hướng trong phân tích rủi ro"],
+      ["B", "Xác định các yếu tốkích hoạt rủi ro (triggers)"],
+      ["C", "Cung cấp ma trận tỷlệ rủi ro tiêu chuẩn"],
+      ["D", "Tạo ra kếhoạch dựphòng "]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Một PM tập hợp đội dựán lại, xác định 56 rủi ro trong dựán, xác định các \nyếu tốkích hoạt rủi ro, xếp hạng trong ma trận mức độrủi ro, kiểm tra các giảthiết \nvà ước lượng chất lượng dữliệu sửdụng. Đội dựán vẫn tiếp tục chuyển sang quá \ntrình quản lýrủi ro. PM đã quên không làm gì? ",
+    "options": [
+      ["A", "Mô phỏng rủi ro "],
+      ["B", "Làm giảm, làm nhẹ rủi ro"],
+      ["C", "Xếp hạng rủi ro tổng thể cho dự án"],
+      ["D", "Kéo theo các bên có liên quan tới dựán "]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Bạn là một PM cho một dựán xây dựng của một nhà máy sản xuất lớn mới và \nchưa từng làm trước đó. Chi phí dựán được ước tính là 30.000.000$ và sẽsửdụng 3 \nngười bán. Một khi bắt đầu, dựán không thểxóa bỏ, và sẽcó một phí tổn lớn trong \nthiết bịvà nhà máy. Là PM của dựán này, điều quan trọng nhất phải thật cẩn thận \nlà: ",
+    "options": [
+      ["A", "Xem xét lại tất cả đề nghịchi phí từ người bán. "],
+      ["B", "Kiểm tra ngân sách dự phòng."],
+      ["C", "Hoàn thành tôn chỉ dự án"],
+      ["D", " Thực hiện xác định các rủi ro. "]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Trong khi lên kếhoạch quản lýrủi ro, đội của bạn đã đưa ra 434 rủi ro và 16 \nnguyên nhân chính của các rủi ro này. Dựán là dựán cuối cùng trong chuỗi các dự \nán mà đội sẽlàm việc cùng nhau. Nhà tài trợrất khuyến khích và một khối lượng \nlớn thời gian đã được đầu tư đểchắc chắn tôn chỉdựán đã hoàn thành và được k{ bởi \ntất cảcác bên có liên quan chính. Trong giai đoạn lập kếhoạch dựán, đội không \nđưa ra một cách thức hiệu quả đểlàm giảm hoặc thoát rủi ro. Nó không phải là \ncông việc đểcó thểthuê ngoài hay bịloại bỏ. Giải pháp tốt nhất là:   ",
+    "options": [
+      ["A", " Chấp nhận rủi ro "],
+      ["B", " Tiếp tục điều tra để làm giảm nhẹ rủi ro"],
+      ["C", "Tìm kiếm cách đểtránh rủi ro "],
+      ["D", "Tìm kiếm cách để chuyển rủi ro (transfer the risk) "]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Một PM đang định lượng rủi ro cho dựán của cô ấy. Cô ấy có nhiều chuyên \nmôn bên ngoài, nhưng giá nhưcó thểsửdụng bên trong dựán. Điều này có thể được \nthực hiện ntn? ",
+    "options": [
+      ["A", "Sử dụng phân tích Monte Carlo sử dụng Internet như một công cụ"],
+      ["B", "Áp dụng phương pháp đường tới hạn "],
+      ["C", " Xác định các tùy chọn cho các hành động sửa lỗi khuyến nghị "],
+      ["D", "Áp dụng kỹ thuật Delphi"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Một PM nhiều kinh nghiệm vừa bát đầu làm việc trong một tổchức hợp nhất \ncông nghệthông tin lớn. Quản lýcủa cô ấy cung cấp cho cô ta một bản nháp tôn \nchỉdựán và ngay lập tức yêu cầu cô ấy cung cấp phân tích vềrủi ro trong dựán. \nĐiều nào dưới đây là tốt nhất có thể giúp đỡ PM? ",
+    "options": [
+      ["A", "Một bài báo từ tạp chí mạng PM"],
+      ["B", "Tuyên bố phạm vi dự án từ giai đoạn lên kế hoạch dự án"],
+      ["C", "Kế hoạch nguồn lực từ giai đoạn lên kế hoạch dự án"],
+      [
+        "D",
+        "Một cuộc nói chuyện với 1 nhân viên từ1 dựán tương tự đã thất bại trong quá \nkhứ"
+      ]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Bạn được trang bịnhưmột người quản lýcủa một dựán lớn, mới và phức tạp. \ndo dựán này là then chốt trong kinh doanh và rất rõ ràng (visible), các nhà quản lý\ncấp cao nói với bạn phân tích rủi ro dựán và chuẩn bịchiến lược đáp ứng rủi ro \ncàng sớm càng tốt. Tổchức có quy trình quản lýrủi ro mà rất ít khi được sửdụng, và \ncó lịch sửnắm bắt rủi ro kém. Điểm mốc đầu tiên của dựán là trong vòng 2 tuần \nnữa. Trong khi chuẩn bịkếhoạch đối phó rủi ro, đầu vào từ đâu thông thường là ít \nquan trọng nhất trong sốcác đáp án sau:",
+    "options": [
+      ["A", "Nhân viên đội dự án   "],
+      ["B", "Nhà tài trợ dự án "],
+      [
+        "C",
+        "Những cá nhân có trách nhiệm với các chính sách và mẫu biểu quản lý rủi ro"
+      ],
+      ["D", "Các bên có liên quan chính "]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Bạn đang trong quá trình thực hiện một dựán 2 năm đểtriển khai các văn \nphòng dọc theo đất nước. một cơn bão gây ra mất điện khi việc nâng cấp đã gần \nhoàn thành. Khi có điện trởlại, toàn bộ báo cáo dựán và dữliệu lịch sử đã mất mà \nkhông có cách nào lấy lại được. Điều gì nên làm để giảm nhẹ rủi ro này?\n  ",
+    "options": [
+      ["A", " Bảo hành mua bán"],
+      ["B", "Lên kế hoạch cho quỹ dự phònG "],
+      ["C", " Kiểm soát thời tiẾT và có kếhoạch đối phó với sựngẫu nhiên "],
+      ["D", "Lên lịch cho việc triển khai ngoài mùa mưa bão  "]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Một dựán phát triển hệthống đang gần tới ngày kết thúc, một rủi ro không \nxác định trước đây đã được khám phá ra. Điều này có khảnăng ảnh hưởng tới khả\nnăng tổng thểcủa dựán đểgiao sản phẩm. điều nên làm tiếp theo là gì? \n  ",
+    "options": [
+      [
+        "A",
+        "Báo động cho nhà tài trợdựán vềcác ảnh hưởng tiền năng tới chi phí, phạm vi, \nlịch trình "
+      ],
+      ["B", "Định tính rủi ro"],
+      ["C", " Làm giảm nhẹ rủi ro bằng cách xây dựng kếhoạch đối phó rủi ro "],
+      [
+        "D",
+        "Xây dựng việc khắc phục không nằm trong kếhoạch với rủi ro đang xảy ra \n(wordaround)"
+      ]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "CPI=0.6, SPI=0.71. Dựán có 625 gói công việc và đang được hoàn thành trong \ngiai đoạn hơn 4 năm. Nhân viên đội dựán rất thiếu kinh nghiệm và dựán nhận \nđược ít hỗtrợcho các kếhoạch thích hợp. Điều nào dưới đây là tốt nhất đểthực \nhiện? ",
+    "options": [
+      ["A", " Cập nhật xác định rủi ro và phân tích "],
+      ["B", "Dành nhiều thời gian hơn để cải thiện ước tính chi phí."],
+      ["C", "Loại bỏcàng nhiều gói công việc càng tốt   "],
+      ["D", " Tổ chức lại ma trận gán trách nhiệm  "]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Trong khi chuẩn bịkếhoạch đối phó rủi ro, bạn xác định thêm 1 vài rủi ro. \nBạn nên làm gì?  \n  ",
+    "options": [
+      [
+        "A",
+        "Thêm khoản dựphòng vào dựán đểxem xét các rủi ro mới và thông báo với \nban lãnh đạo  "
+      ],
+      [
+        "B",
+        "Ghi lại các mục rủi ro và tính toán giá trịtiền tệdựkiến dựa trên xác suất và ảnh \nhưởng từ kết quả của việc xảy ra rủi ro.  "
+      ],
+      [
+        "C",
+        "Xác định các sự kiện rủi ro và các chi phí liên quan, sau đó thêm các chi phí này \nvào ngân sách dựán như một khoản dự phòng.  "
+      ],
+      [
+        "D",
+        "Thêm 10% chi phí của sự bất ngờvào ngân sách dựán và thông báo với khách \nhàng "
+      ]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": " Bạn vừa được phân công làm PM cho một dựán truyền thông mới và đang bắt \nđầu vào giai đoạn thứ2 của dựán. Có khá nhiều rủi ro xuất hiện trong dựán, \nnhưng không có ai ước tính chúng để đánh giá khoảng kết quảcó thểxảy ra. Điều \ngì cần được hoàn thành?",
+    "options": [
+      ["A", " Kế hoạch quản lý rủi ro   "],
+      ["B", "Kế hoạch định lượng rủi ro "],
+      ["C", "Kế hoạch đối phó rủi ro"],
+      ["D", "Kiểm soát rủi ro  "]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Trong giai đoạn thực thi dựán, một nhân viên xác định một rủi ro không có \ntrong sổghi. Bạn nên làm gì?",
+    "options": [
+      [
+        "A",
+        "Lấy thêm nhiều thông tin xem làm thếnào nhân viên đó xác định được rủi ro, do \nbạn đã thực hiện phân tích chi tiết và không xác định được rủi ro này  "
+      ],
+      [
+        "B",
+        "Không quan tâm tới rủi ro, do các rủi ro đã được xác định trong giai đoạn lên kế\nhoạch dựán  "
+      ],
+      ["C", "Thông báo với khách hàng vềrủi ro này  "],
+      ["D", "Phân tích rủi ro này"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Trong giai đoạn thực thi dựán, một vấn đềlớn xảy ra mà không có trong sổ\nghi rủi ro. Bạn nên làm gì đầu tiên? \n  ",
+    "options": [
+      [
+        "A",
+        "Tạo một bản đối phó với rủi ro không nằm trong kếhoạch (create a \nworkaround)  "
+      ],
+      ["B", "Ước tính lại quy trình xác định rủi ro  "],
+      ["C", "Tìm kiếm cho các hậu quảkhông mong đợi của vấn đềnày  "],
+      ["D", "Nói với ban lãnh đạo   "]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Khách hàng yêu cầu thực hiện 1 thay đổi dựán mà sẽgia tăng rủi ro của dự\nán. Điều nào dưới đây bạn nên làm trước tất cảmọi người?\n  ",
+    "options": [
+      [
+        "A",
+        "Tính đến giá trịtiền tệ dự kiến của rủi ro trong ước tính chi phí mới  "
+      ],
+      ["B", "Nói với khách hàng về ảnh hưởng của thay đổi "],
+      ["C", "Phân tích ảnh hưởng của thay đổi cùng với đội dự án  "],
+      ["D", " Thay đổi kếhoạch quản lý rủi ro"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Điều nào dưới đây là tính chất quan trọng của kỹthuật Delphi?",
+    "options": [
+      [
+        "A",
+        "Sự kết luận từ các bản ghi lịch sử từ các dự án đã thực hiện trước đó   "
+      ],
+      ["B", "Ý kiến chuyên gia   "],
+      ["C", "Quá trình phân tích theo cấp bậc  "],
+      ["D", " Cách tiếp cận từ dưới lên.  "]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Một dựán có 1 vài vấn đề, nhưng vẫn trong khảnăng kiểm soát. Vào những \ntháng cuối của dựán, phần lớn các khoản dựphòng đã được sửdụng và phần lớn các \nảnh hưởng tiêu cực của các sựkiện được dựbáo trước đều đã xảy ra. Có 4 hoạt động \ncòn sót lại và 2 hoạt động trong số đó nằm trên đường tới hạn. Ban lãnh đạo đã \nthông báo với PM rằng công ty thích hoàn thành dựán sớm hơn 2 tuần theo lịch để\nnhận được thêm lợi nhuận. Đểphản hồi lại, PM gửi một yêu cầu đềxuất cho 1 vài \ncông việc đội dựán chuẩn bịlàm, với hi vọng một công ty khác sẽhoàn thành \ncông việc nhanh hơn. PM tốt nhất nên cốgắng đểlàm việc với",
+    "options": [
+      ["A", "Khoản dự phòng"],
+      ["B", " Các cơ hội. "],
+      ["C", "Xác minh phạm vi "],
+      ["D", "Các nguy cơ.   "]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Một khi đã k{, hợp đồng là ràng buộc pháp lý trừ phi\n  ",
+    "options": [
+      ["A", "Một bên không thể thực hiện  "],
+      ["B", "Một bên không đủ khả năng tài chính cho phần công việc của họ  "],
+      ["C", "Vi phạm luật pháp   "],
+      [
+        "D",
+        "Hợp đồng được tuyên bốlà vô hiệu lực thông qua luật sư của 1 trong 2 bên  "
+      ]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Với một hợp đồng rõ ràng, một người bán hoàn thành công việc được chỉrõ, \nnhưng người mua không hài lòng với kết quả. Hợp động sẽ được xem xét để:",
+    "options": [
+      ["A", "Vô hiệu hóa (null and void)"],
+      ["B", "Không hoàn thành.   "],
+      ["C", "Hoàn thành  "],
+      ["D", "Từ bỏ "]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Tuyên bố nào liên quan tới tài liệu thầu là đúng?",
+    "options": [
+      [
+        "A",
+        "Tài liệu thầu được thiết kếtốt có thểlàm đơn giản quá việc so sánh của việc phản \nứng (response)  "
+      ],
+      [
+        "B",
+        "Tài liệu thầu phải nghiêm ngặt và không có tính mềm dẻo đểcho phép các ý\nkiến, đềnghịcủa người mua được cân nhắc  "
+      ],
+      [
+        "C",
+        "Nói chung, tài liệu thầu không nên bao gồm tiêu chuẩn ước tính   "
+      ],
+      [
+        "D",
+        "Tài liệu thầu được thiết kế tốt không bao gồm hợp đồng tuyên bốcông việc  "
+      ]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Một PM cho người bán được ban lãnh đạo của cô ấy nói rằng dựán nên làm điều \ngì có thể đểthưởng tiền ưu đãi. Mục tiêu chính của các điều khoản ưu đãi trong \nhợp đồng là \n  ",
+    "options": [
+      ["A", "Giảm giá thành từ người mua  "],
+      ["B", "Giúp người bán kiểm soát chi phí  "],
+      ["C", "Đồng bộ hóa các mục tiêu   "],
+      [
+        "D",
+        "Giảm rủi ro từ người bán bằng cách chuyển rủi ro sang phía người mua   "
+      ]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Tuyên bố nào dưới đây về kiểm soát thay đổi là đúng? \n  ",
+    "options": [
+      [
+        "A",
+        "Một hợp đồng giá cố định (fixed) sẽlàm giảm sựcần thiết phải kiểm soát thay \nđổi  "
+      ],
+      ["B", "Các thay đổi hiếm khi cung cấp lợi ích thực cho dựán "],
+      [
+        "C",
+        " Các hợp đồng nên bao gồm các thủ tục phù hợp với các thay đổi   "
+      ],
+      ["D", "Các thông số càng chi tiết sẽloại trừ các nguyên nhân thay đổi  "]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": " Một thủtục kiểm tra của hợp đồng có thểhoàn trảchi phí (cost reimbursable \nCR) xác định báo giá cao đã được thực hiện. Nếu hợp đồng không chỉrõ các hành \nđộng hiệu chỉnh, người mua nên:\n  ",
+    "options": [
+      ["A", " Tiếp tục thực hiện trả tiền cho dự án"],
+      ["B", "Trả 1 nửa cho đến khi vấn đề được khắc phục  "],
+      [
+        "C",
+        "Vô hiệu hóa hợp đồng và bắt đầu các hành động pháp l{ đểthu hồi khoản thanh \ntoán vượt quá  "
+      ],
+      ["D", "Thay đổi hợp đồng đểyêu cầu nhiều kiểm tra thường xuyên hơn "]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Mục tiêu chính của thương lượng đàm phán hợp đồng là:  \n  ",
+    "options": [
+      ["A", "Có thêm nhiều hơn từ bên kia"],
+      ["B", " Bảo vệmối quan hệ   "],
+      [
+        "C",
+        "Có được sự quay vòng tiền tệ cao nhất(highest monetary return).    "
+      ],
+      ["D", "Xác định mục tiêu và gắn bó với mục tiêu đó   "]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Một người bán đang thực hiện hợp đồng hoàn trảchi phí CR khi người mua \nquyết định sẽmởrộng phạm vi dịch vụvà thay đổi thành hợp đồng giá cố định \n(fixed price FP). Tất cảcác điều dưới đây là lựa chọn của người bán, ngoại trừ\n  ",
+    "options": [
+      [
+        "A",
+        "Hoàn thành công việc lúc đầu trong hoàn trảchi phí cơbản và sau đó thương \nlượng 1 giá sẵn đối với các công việc thêm vào"
+      ],
+      ["B", "Hoàn thành công việc lúc đầu và từchối các công việc thêm vào   "],
+      [
+        "C",
+        "Thương lượng một hợp đồng giá cố định bao gồm tất cảcác công việc  "
+      ],
+      ["D", "Bắt đầu một hợp đồng mới "]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Hội nghịcác nhà thầu là một phần của: \n  ",
+    "options": [
+      ["A", " Kếhoạch kýhợp đồng "],
+      ["B", "Quản lýhợp đồng   "],
+      ["C", "Yêu cầu trảlời từngười bán(request seller responses) "],
+      ["D", "Kếhoạch mua bán và những thứthu lại được "]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": " Tất cảnhững điều dưới đây phải có đểcó một hợp đồng, ngoại trừ:",
+    "options": [
+      ["A", "Hợp đồng tuyên bố công việc.  "],
+      ["B", "Sự chấp nhận  "],
+      ["C", "Địa chỉ của người bán   "],
+      ["D", "Chữ ký của người mua.   "]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Điều nào dưới đây mô tả đúng nhất vai trò của PM trong quá trình kýkết hợp \nđồng?",
+    "options": [
+      ["A", "PM chỉcó vai trò không quan trọng"],
+      ["B", "PM nên là người thương lượng đàm phán.   "],
+      ["C", " PM nên cung cấp sựhiểu biết rõ vềrủi ro của dự án. "],
+      [
+        "D",
+        "PM nên nói với người quản lýhợp đồng làm thếnào đểcó thể đảm trách được quá \ntrình k{ kết hợp đồng."
+      ]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Đâu là một trong những mục tiêu chính trong quá trình thương lượng",
+    "options": [
+      ["A", ". Có được mức giá hợp lý(a fair and reasonable price)). "],
+      ["B", "Thương lượng một mức giá theo dựtoán của người bán"],
+      ["C", "Chắc chắn rằng tất cảcác rủi ro của dựán được mô tả kỹ lưỡng  "],
+      ["D", "Chắc chắn rằng đã có một kếhoạch quản lýtruyền thông hiệu quả   "]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Hành động nào dưới đây xảy ra trong khi lên kế hoạch cho việc thu mua? ",
+    "options": [
+      ["A", "Quyết định làm hay bán (make-or-buy) "],
+      ["B", "Trảlời câu hỏi của người bán vềcác tài liệu thầu   "],
+      ["C", "Tạo ra các điều kiện và điều khoản trong hợp đồng    "],
+      ["D", "Tạo ra các yêu cầu vềcác tài liệu đềnghịhoặc tài liệu thầu"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Điều nào dưới đây là tốt nhất cho PM thực hiện trong phần yêu cầu hồi đáp từ\nngười bán của hoạt động quản lýhợp đồng",
+    "options": [
+      ["A", "Ước tính các rủi ro "],
+      ["B", "Xác nhận rằng sự quy thuận (submittal) đã được gửi."],
+      ["C", "Xác nhận rằng các thay đổi với hợp đồng đã được thực hiện "],
+      ["D", "Trảlời câu hỏi của khách hàng vềtài liệu thầu"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Nhà tài trợ đang lo lắng vềngười bán phát sinh thêm lợi nhuận trong hợp \nđồng chi phí cộng phí cố định (cost plus fixed fee CPFF). Mỗi tháng người bán yêu \ncầu PM đệtrình các tính toán CPI và một phân tích của chi phí đểhoàn thành. PM \ngiải thích với nhà tài trợ rằng các khoản lợi nhuận phát sinh không nên phải bận \ntâm trong dựán này do:  ",
+    "options": [
+      ["A", "Đội dựán đã chắc chắn người bán không cắt giảm phạm vi "],
+      ["B", "Tất cả các chi phí được lập hóa đơn sẽ được kiểm tra "],
+      ["C", "Chỉcó thểtăng tối đa 10% nếu có chi phí bất ngờ vượt quá    "],
+      ["D", "Chi phí chỉnhận được từngười bán khi dựán hoàn thành   "]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": " Trong một hợp đồng giá cố định, lệphí hay lợi nhuận là",
+    "options": [
+      ["A", ". Không xác định  "],
+      [
+        "B",
+        "Là 1 phần trong thương lượng liên quan trong việc chi trảmọi hóa đơn  "
+      ],
+      ["C", "Áp dụng như một mục hàng trong mọi hóa đơn     "],
+      ["D", "Đc xác định với các bên khác vào cuối dự án   "]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Một dựán thực hiện theo hợp đồng có thểhoàn lại chi phí cuối cùng đã sắp \nkết thúc. Người mua phải nhớphải làm gì",
+    "options": [
+      ["A", " Giảm mức độrủi ro của dự án"],
+      ["B", "Kiểm tra sự đồng thuận với giá của người bán"],
+      ["C", " Ước tính lệphí anh ta phải trả "],
+      ["D", " Chắc chắn rằng người bán không thêm nguồn lực nào  "]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Giám đốc dự án đang xây dựng kế hoạch cho dự án. Giám đốc dự án đã xác định các nhiệm vụ và chỉ định nguồn lực thích hợp. Công cụ được sử dụng thông báo rằng một vài nguồn lực được phân bổ xong. Bước tiếp theo của giám đốc dự án sẽ là gì? ",
+    "options": [
+      ["A", "Di chuyển các nguồn lực.  "],
+      ["B", "Yêu cầu thêm nguồn lực.   "],
+      ["C", "Điều chỉnh nguồn lực   "],
+      ["D", "Dự thảo ngân sách ngoài giờ   "]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Giám đốc dự án đã khám phá vấn đề với môđun thống kê của dự án. Các số đo đã được ghi rõ cho các đơn vị của của Mỹ nhưng các nhà lập trình nước ngoài sử dụng các đơn vị quốc tế. Vấn đề này có thể tránh được ở chỗ nào trong dự án?",
+    "options": [
+      ["A", "Lập kế hoạch dự án"],
+      ["B", "Kiểm thử dự án.  "],
+      ["C", "Kiểm soát dự án.   "],
+      ["D", "Quay vòng dự án"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Giám đốc dự án được chỉ định cho một dự án lớn đã và đang được thực hiện một số lần. Đội dự án vừa hoàn tất giai đoạn thiết kế của dự án và đang tiến hành trong giai đoạn triển khai. Tại điểm này, thay đổi nào có thể xẩy ra mà không phải gánh chịu rủi ro của việc tiến hành lại toàn bộ giai đoạn thiết kế? ",
+    "options": [
+      ["A", "Phạm vi "],
+      ["B", "Nhiệm vụ "],
+      ["C", "Thiết kế chi tiết  "],
+      ["D", "Ngày tháng chuyển giao "]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Giám đốc dự án được khách hàng đề nghị thực hiện những thay đổi quan trọng cho dự án. Những thay đổi này không được chú tâm trong Tài liệu thiết kế hay Phạm vi dự án. Cách tốt nhất để giám đốc dự án đáp lại yêu cầu là gì? ",
+    "options": [
+      [
+        "A",
+        "Thông báo với khách hàng rằng thay đổi phạm vi là không được phép. "
+      ],
+      ["B", "Trình yêu cầu thay đổi lên Ban quản lý thay đổi.  "],
+      ["C", "Triển khai các thay đổi theo yêu cầu ngay lập tức. "],
+      ["D", "Thiết kế lại toàn bộ dự án từ vạch xuất phát. "]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Nhà tài trợvà PM đang thảo luận loại hợp đồng nào mà PM lên kếhoạch sử\ndụng trong dựán. Người bán chỉra rằng tổchức thực hiện đã dành ra nhiều tiền để\nthuê đội ngũthiết kế để đưa ra bản thiết kế. PM lo lắng rằng rủi ro từngười mua sẽ\nít nhất có thể. Một lợi thếtừhợp đồng giá cô định cho người bán là ",
+    "options": [
+      ["A", ". Chi phí rủi ro nhỏhơn "],
+      ["B", "Chi phí rủi ro cao hơn."],
+      ["C", "Chỉcó ít rủi ro. "],
+      ["D", "Rủi ro được chia đều cho tất cảcác bên. "]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Nhưmột phần của hệthống quản lýsổsách, bạn đang cốgắng chắc chắn rằng \ntoàn bộhồsơtừhợp đồng đã được ghi lại và ghi vào bản mục lục. Điều nào dưới \nđây bạn không nên lo lắng? ",
+    "options": [
+      ["A", "Sự đềnghị(proposal)"],
+      ["B", " Tuyên bốcông việc"],
+      ["C", " Các điều khoản và điều kiện  "],
+      ["D", " Quá trình thương lượng "]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Bạn đang ởtrong một thương lượng phức tạp khi bên kia nói:”chúng tôi cần \nhoàn thành trong 1h do tôi phải đón máy bay”. Người này đang sửdụng chiến lược \nthương lượng nào?",
+    "options": [
+      ["A", "Người xấu, người tốt (good guy, bad guy) "],
+      ["B", "Trì hoãn "],
+      ["C", "Thời hạn cuối cùng (deadline) "],
+      ["D", "  Các yêu cầu quá khích (extreme demands)."]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Điều nào dưới đây là một lợi thếcủa hợp đồng tập trung?",
+    "options": [
+      ["A", "Cho phép việc truy cập dễdàng hơn đểkýhợp đồng chuyên môn "],
+      ["B", "Gia tăng chuyên môn của cônt ty trong việc kýhợp đồng "],
+      ["C", " Trung thành hơn với dựán."],
+      [
+        "D",
+        " Cho phép 1 người có hợp đồng có thểlàm việc trong một dựán riêng (allow a \ncontracts person to work on a single project)"
+      ]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": " Với loại hợp đồng nào dưới đây, người bán có liên quan nhiều nhất tới phạm \nvi dựán?  ",
+    "options": [
+      ["A", "Hợp đồng giá cố định "],
+      ["B", "Hợp đồng chi phí cộng phí cố định "],
+      ["C", "  Hợp đồng thời gian và nguyên vật liệu"],
+      ["D", " Hợp đồng đơn đặt hàng (purchase order "]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Công ty của bạn có một việc khẩn cấp và cần các công việc hợp đồng hoàn \nthành càng sớm càng tốt. Với tình huống này, điều nào dưới đây là có ích nhất để\nthêm vào hợp đồng? ",
+    "options": [
+      ["A", " Một tuyên bốhợp đồng làm việc"],
+      ["B", " Các yêu cầu mà trong đó các hợp đồng con có thểsửdụng"],
+      ["C", " Các ưu đãi "],
+      ["D", "  Một điều khoản không thểbào chữa (a force majeure clause)"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Trong phần nào của quá trình kýhợp đồng mà việc thương lượng hợp đồng \ndiễn ra?  ",
+    "options": [
+      ["A", " Kếhoạch thu mua"],
+      ["B", " Kếhoạch kýhợp đồng"],
+      ["C", " Yêu cầu trảlời người bán "],
+      ["D", "  Lựa chọn người bán."]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": " Đội dựán đang cãi nhau vềngười bán tiềm năng mà chấp nhận các đềnghị. \nMột nhân viên dự án tranh luận vềmột người bán tin cậy trong khi 1 nhân viên \nkhác muốn dựán được trao cho một người bán khác. Đội dựán đang ởtrong phần \nnào của quá trình quản lýthu mua? ",
+    "options": [
+      ["A", "Kếhoạch thu mua "],
+      ["B", "Kếhoạch kýhợp đồng "],
+      ["C", " Yêu cầu trảlời người bán  "],
+      ["D", "Lựa chọn người bán. "]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Đội dựán dường nhưthích tranh luận: họ đã tranh luận vềmọi thứ. Thật may \nlà PM đã thiết lập 1 hệthống kiểm tra và các buổi họp xây dựng đội mà sẽgiúp đỡ\nvà khuyến khích đội dựán hợp tác nhiều hơn với nhau. Điều mới nhất họtranh \nluận là họnên tựhoàn thành gói công việc của mình hay thuê ngoài. Họ đang ở\ntrong quá trình nào của việc quản lýthu mua?",
+    "options": [
+      ["A", "Quản trịhợp đồng "],
+      ["B", " Kếhoạch thu mua"],
+      ["C", " Yêu cầu trảlời người bán"],
+      ["D", " Lựa chọn người bán "]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Một PM đang tạo ra các yêu cầu đềnghị(request for proposal RFP). Anh ấy \nđang ởtrong quá trình nào của việc quản lýthu mua?  ",
+    "options": [
+      ["A", "Kếhoạch thu mua "],
+      ["B", "Kếhoạch kýhợp đồng "],
+      ["C", " Yêu cầu trảlời người bán  "],
+      ["D", "Lựa chọn người bán. "]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Bạn là 1 PM, người quản lý chương trình đến đểgiúp đỡvềgiá thầu cho dự\nán mới nhất của cô ấy. bạn muốn bảo vệcông ty của bạn khỏi các rủi ro tài chính. \nBạn đã có định nghĩa phạm vi giới hạn. Loại hình hợp đồng nào là tốt nhất đểlựa \nchọn? ",
+    "options": [
+      ["A", "Hợp đồng giá cố định "],
+      [
+        "B",
+        "Hợp đồng chi phí cộng phần trăm chi phí (cost plus percent of cost CPPC) "
+      ],
+      ["C", " Hợp đồng thời gian và nguyên vật liệu "],
+      ["D", " Hợp đồng chi phí cộng phí cố định CPFF"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Thương lượng giữa 2 bên đang trởnên phức tạp, nên bên A làm một vài ghi \nchép mà cả2 bên đều kývào. Tuy nhiên, khi công việc hoàn thành, bên B khẳng \nđịnh rằng họkhông yêu cầu cung cấp một hạng mục mà cả2 bên đều đồng { trong \nquá trình thương lượng, do nó không có trong hợp đồng tiếp theo. Trong trường \nhợp này, bên B:",
+    "options": [
+      ["A", " Không đúng, do cả2 bên phải tuân theo với những gì họ đã đồng ý"],
+      ["B", " Đúng, do đó là một lời đềnghị"],
+      [
+        "C",
+        " Nhìn chung là đúng, do cả2 bên chỉyêu cầu thực hiện những gì ghi trong hợp \nđồng.  "
+      ],
+      ["D", "  Nhìn chung là sai, do tất cảhợp đồng phải được tôn trọng"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Dựán của bạn vừa được xúc tiến và bạn đang tìm kiếm một nhà thầy phụ để\nhoàn thiện mạng lưới nhanh chóng. Không có thời gian để đưa ra yêu cầu cho các \nđềnghị(RFP) nên bạn chọn sửdụng một công ty bạn đã sửdụng nhiều lần đểphát \ntriển phần mềm. Mối bận tâm chính trong tình huống này là ",
+    "options": [
+      ["A", "Sựthông đồng giữa các nhà thầu phụ"],
+      ["B", " Trình độchuyên môn của các nhà thầu "],
+      ["C", " Tiêu chuẩn đánh giá của các nhà thầu "],
+      ["D", " Tổchức hội nghịnhà thầu."]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "PM và nhà tài trợdựán đang thảo luận vềchi phí dựán và khi nào tốt đểcông \nty của họtham gia vào dựán hoặc thuê một công ty khác làm việc này. Nếu họhỏi \nýkiến của bạn, bạn nên nói rằng công ty nên tựlàm dựán này sẽtốt hơn nếu như:",
+    "options": [
+      ["A", "Có quá nhiều dữliệu độc quyền "],
+      ["B", "Công ty có chuyên môn nhưng k sẵn có nhân lực  "],
+      ["C", "  Công ty không cần kiểm soát công việc "],
+      ["D", " Các nguồn lực của công ty là giới hạn "]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Sau rất nhiều hứng thú và các công việc nặng nhọc, hợp đồng tuyên bốcông \nviệc cho dựán đã hoàn thành. Ngay cảkhi có được sự đồng ýrằng hợp đồng tuyên bố\ncông việc đã hoàn thành, PM vẫn lo lắng khi nào xác định thật sựtất cảcác yêu \ncầu của người mua. PM tham dựhội nghịcác nhà thầu. Anh ta hỏi bạn lời khuyên \nnên làm gì tiếp trong cuộc họp hội nghị. Lời khuyên nào là tốt nhất bạn có thểgiúp \nđỡ anh ta?:",
+    "options": [
+      [
+        "A",
+        "Bạn không cần phải tham gia vào hội nghị, người quản lýhội nghịsẽlàm việc \nđó "
+      ],
+      ["B", "Chắc chắn rằng bạn không thương lượng phạm vi dựán "],
+      [
+        "C",
+        " Chắc chắn bạn đã cho toàn bộngười bán đủthời gian đểtrảlời câu hỏi. họ\nkhông muốn trảlời câu hỏi khi đối thủcạnh tranh của họcũng có mặt trong hội \nnghị.  "
+      ],
+      [
+        "D",
+        " Đểnhà tài trợdựán điều khiển hội nghịvà bạn sẽ đóng vai trò “người tốt” trong \nhội nghị. "
+      ]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Một người bán được thưởng một hợp đồng đểxây dựng một đường ống. các \nđiều khoản và điều kiện trong hợp đồng yêu cầu kếhoạch công việc được đưa ra \nđểngười mua phê duyệt trước khi bắt đầu công việc, nhưng người bán không cung \ncấp được kếhoạch công việc. điều nào dưới đây là tốt nhất cho PM của người bán để\nthực hiện",
+    "options": [
+      ["A", " Đưa ra một văn bản có mục đích (file a letter of intent) "],
+      [
+        "B",
+        " Xác dựng kếhoạch công việc và đưa ra cho người bán đểlàm công việc được trôi \nchảy (move thing along)"
+      ],
+      ["C", " Đưa ra một văn bản mặc định (default letter) "],
+      [
+        "D",
+        "Yêu cầu người bán ngừng làm việc cho tới khi kếhoạch công việc được chuẩn bị."
+      ]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Kết thúc hợp đồng khác với kết thúc hoạt động quản trị ởchỗ, kết thúc hợp \nđồng",
+    "options": [
+      ["A", "Xảy ra trước khi kết thúc các hoạt động quản trị "],
+      ["B", " Là điều duy nhất liên quan tới khách hàng  "],
+      ["C", " Bao gồm cảthu hồi tài sản (return of property) "],
+      ["D", " Có thểhoàn thành nhiều hơn 1 lần trong mỗi hợp đồng"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Bạn vừa bắt đầu quản trịmột hợp đồng khi ban lãnh đạo quyết định chấm dứt \nhợp đồng. bạn nên làm gì trước tiên?",
+    "options": [
+      ["A", "Quay lại yêu cầu sựtrảlời của người bán"],
+      ["B", "Quay lại đểlên kếhoạch hợp đồng. "],
+      ["C", " Hoàn thành việc quản lýhợp đồng(contract admin). "],
+      ["D", " Đến giai đoạn kết thúc hợp đồng."]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Đội dự án đang tranh luận về người bán sắp tới, người đã đệ trình các đề nghị\n(submit proposals). Một nhân viên tranh luận về một người bán tin cậy, trong khi\nmột nhân viên khác muốn một nguòi bán khác sẽ có dự án. Điều tốt nhất mà PM\nnên nhắc nhở đội của mình tập trung vào trong quá trình tìm ra lựa chọn là:\n",
+    "options": [
+      ["A", "A. Các tài liệu hợp đồng\n"],
+      ["B", "B. Kiểm tra hợp đồng\n"],
+      ["C", "C. Các tiêu chuẩn đánh giá\n"],
+      ["D", "D. Kế hoạch quản lý hợp đồng"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Tổ chức đang cố gắng quyết định có nên chia phòng ban quản lý hợp đồng và\nphân công trách nhiệm ký kết hợp đồng cho một phòng ban có trách nhiệm trực\ntiếp với dự án hay không. Một chuyên gia về hợp đồng không thực sự muốn có sự chia\ntách này do họ sẽ mất……………………… trong môi trường phân tán việc ký kết\nhợp đồng(or phi tập trung- decentralized)\n",
+    "options": [
+      ["A", "A. Tiêu chuẩn thực hiện quản lý dự án của công ty\n"],
+      ["B", "B. Sự trung thành với dự án (loyalty)\n"],
+      ["C", "C. Kinh nghiệm\n"],
+      [
+        "D",
+        "D. Quyền được truy cập cho những người khác với những chuyên môn tương tự"
+      ]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Trong giai đoạn thực thi dự án, các nhân viên đội dự án bàn giao sản phẩm\ncủa dự án cho người bán. Tuy nhiên, người bán từ chối những sản phẩm này, tuyên\nbố rằng nó không đáp ứng yêu cầu ở trang 300 của tài liệu đặc tả chi tiết kỹ thuật.\nbạn đã xem lại tài liệu và cũng đồng {. Điều tốt nhất nên làm là gì?\n",
+    "options": [
+      ["A", "A. Giải thích rằng hợp đồng đã sai và nên được thay đổi\n"],
+      ["B", "B. Đưa ra yêu cầu thay đổi\n"],
+      [
+        "C",
+        "C. Xem lại các yêu vầu và gặp nhân viên chịu trách nhiệm với việc này để xem lại\ntừ điển WBS\n"
+      ],
+      ["D", "D. Họp đội dự án để xem xét lại yêu cầu ở trang 300"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Loại hợp đồng nào bạn KHÔNG muốn sử dụng nếu bạn không đủ nhân lực để\nkiểm tra các hóa đơn?\n",
+    "options": [
+      ["A", "A. Hợp đồng chi phí cộng phí cố định (CPFF)\n"],
+      ["B", "B. Hợp đồng thời gian và nguyên vật liệu (TM)\n"],
+      ["C", "C. Hợp đồng giá cố định (FP)\n"],
+      [
+        "D",
+        "D. Hợp đồng khuyến mại giá cố định (FPIF-fixed price incentive fee)"
+      ]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Một PM mới đang bắt đầu tạo ra bản hợp đồng tuyên bố công việc. Một bên\ncó liên quan muốn thêm 1 vài hạng mục vào bản hợp đồng tuyên bố công việc.\nMột bên có liên quan khác chỉ muốn mô tả các yêu cầu chức năng. dự án rất quan\ntrọng với công ty của PM, nhưng một người bán sẽ làm việc này. Bạn sẽ khuyên\nPM này điều gì?\n",
+    "options": [
+      [
+        "A",
+        "A. Bản hợp đồng tuyên bố công việc nên chung chung(general) để cho phép người\nbán có quyết định của riêng mình\n"
+      ],
+      [
+        "B",
+        "B. Bản hợp đồng tuyên bố công việc nên chung chung để cho phép các hiệu chỉnh\nsau này\n"
+      ],
+      [
+        "C",
+        "C. Bản hợp đồng tuyên bố công việc nên chi tiết để cho phép các hiệu chỉnh sau\nnày\n"
+      ],
+      [
+        "D",
+        "D. Bản hợp đồng tuyên bố công việc nên càng chi tiết càng tốt cho loại dự án"
+      ]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Một khách hàng đưa cho bạn bản hợp đồng tuyên bố công việc cho một dự án\n8 tháng khá phức tạp và có 1 vài điểm chưa biết. Khách hàng yêu cầu bạn chỉ làm\nviệc (just “get it done”) và chỉ muốn gặp bạn vào cuối tháng thứ 8 khi bạn bàn giao\ndự án hoàn thiện. trong tình huống này, điều tốt nhất nên làm là:\n",
+    "options": [
+      [
+        "A",
+        "A. Hoàn thành dự án như được yêu cầu, nhưng thỉnh thoảng xác minh phạm vi với\nkhách hàng trong suốt dự án\n"
+      ],
+      [
+        "B",
+        "B. Hoàn thành dự án chỉ trong 8 tháng mà không hề liên lạc với khách hàng trong\nkhoảng thời gian này\n"
+      ],
+      ["C", "C. Hỏi ban lãnh đạo để thỉnh thoảng xác nhận với khách hàng\n"],
+      [
+        "D",
+        "D. Hoàn thành dự án, nhưng ghi lại rằng khách hàng không muốn liên lạc"
+      ]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Gần cuối dự án cuối cùng của bạn, một nhóm các bên có liên quan muốn thêm\ncác yêu cầu vào khi họ biết rằng họ sẽ bị ảnh hưởng từ dự án của bạn. điều này sẽ\nlà một rắc rối do bạn không bao gồm thời gian và chi phí trong kế hoạch quản lý\ndự án cho những yêu cầu kiểu này. Điều tốt nhất bạn nên làm đề ngăn chặn những\nvấn đề này trong các dự án sắp tới là:\n",
+    "options": [
+      [
+        "A",
+        "A. Xem xét lại từ điển WBS thật kỹ lưỡng, tìm kiếm các mô tả chưa hoàn tất\n"
+      ],
+      [
+        "B",
+        "B. Xem xét lại tôn chỉ dự án thật kỹ lưỡng, kiểm tra các lỗ hổng nghiệp vụ\n"
+      ],
+      ["C", "C. Làm thêm một công việc kỹ lưỡng về lên kế hoạch hợp đồng\n"],
+      ["D", "D. Chú { thêm vào ban lãnh đạo các bên có liên quan"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Dự án phát triển phần mềm không phát triển tốt. có hơn 30 bên có liên quan,\nvà không ai đồng ý với mục tiêu dự án. Một bên có liên quan tin rằng dự án có thể\ncó được 30% cải thiện trong khi một bên khác tin rằng có thể lên tới 50%. PM thì là\n10% cải thiện là thực tế hơn. Cách giải quyết tốt nhất là:\n",
+    "options": [
+      [
+        "A",
+        "A. Tiếp tục phát triển dự án và tìm kiếm thêm thông tin sau đó để giải quyết vấn đề\n"
+      ],
+      ["B", "B. Lấy số liệu trung bình và sử dụng làm mục tiêu\n"],
+      ["C", "C. Thực hiện một phân tích khả thi\n"],
+      ["D", "D. Hỏi nhà tài trợ để có quyết định cuối cùng"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Một đội dự án đã hoàn thành, và khách hàng đã chấp nhận, phạm vi dự án đã\nhoàn thành. Tuy nhiên, các bài học rút ra do phòng ban quản lý dự án yêu cầu vẫn\nchưa dc hoàn thành. Trạng thái của dự án là ntn?\n",
+    "options": [
+      ["A", "A. Dự án chưa hoàn thành do dự án cần phải lên kế hoạch lại\n"],
+      [
+        "B",
+        "B. Dự án chưa hoàn thành cho tới khi toàn bộ dự án và sản phẩm bàn giao là hoàn\nthành và được chấp nhận\n"
+      ],
+      [
+        "C",
+        "C. Dự án là hoàn thành do khách hàng đã chấp nhận sản phẩm bàn giao\n"
+      ],
+      [
+        "D",
+        "D. Dự án hoàn thành do dự án đã đến ngày kết thúc (reach the due date)"
+      ]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Bạn đang ở giai đoạn giữa dự án của một sản phẩm mới phát triển cho 1công\nty công khai giao dịch, bạn biết được người PM trước đã chi trả 3000000$ mà không\nđược phê chuẩn theo chính sách công ty. Thật may mắn, CPI=1.2. bạn nên làm gì?\n",
+    "options": [
+      ["A", "A. Liên lạc với người quản lý của bạn\n"],
+      [
+        "B",
+        "B. Đặt khoản chi đó vào một tài khoản của bên thứ 3 (escrow account) để làm bằng\nchứng\n"
+      ],
+      [
+        "C",
+        "C. Che giấu khoản chi này trong phần tập trung chi phí lớn nhất sẵn có (the largest\ncost center available)\n"
+      ],
+      ["D", "D. Từ chối khoản chi này"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Trong cuộc họp với một vài bên có liên quan, PM được yêu cầu thêm công việc\nvào phạm vi dự án. PM đã sử dụng thông tin phù hợp với dự án trước khi tôn chỉ\ndự án được k{ và nhớ rằng nhà tài trợ đã từ chối rõ ràng các khoản vốn cho phạm vi\nđược đề cập bởi các bên có liên quan. Điều tốt nhất mà PM nên làm là:\n",
+    "options": [
+      ["A", "A. Cho nhà tài trợ biết các yêu cầu của các bên có liên quan\n"],
+      ["B", "B. Đánh giá ảnh hướng của các phạm vi thêm vào\n"],
+      ["C", "C. Nói với các bên có liên quan rằng không thể thêm phạm vi\n"],
+      ["D", "D. Thêm công việc nếu còn thời gian trong lịch trình dự án"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Khi kiểm tra lịch của một nhân viên để lên lịch họp, bạn nhìn thấy cô ấy đã\nđặt lịch gặp với 1 bên có liên quan chính nhưng bạn đã không được thông báo. Cách\nthăm dò tốt nhất là:\n",
+    "options": [
+      [
+        "A",
+        "A. Từ chối đề cập vấn đề này với nhân viên đó nhưng vẫn tiếp tục theo dõi các\nhành động của cô ta.\n"
+      ],
+      ["B", "B. Thông báo với thủ trưởng của bạn về vấn đề này\n"],
+      ["C", "C. Nói chuyện về việc này với thủ trưởng của cô ta\n"],
+      ["D", "D. Nói chuyện về việc này với cô ấy"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "PM đang có một thời gian khó khăn khi giữ cho dự án phát triển đúng lịch\ntrình. Dự án yêu cầu 220 người để hoàn thành. Tất cả các vấn đề của dự án đã được\ngiải quyết và PM hài lòng, SPI=0.67, CPI=1.26, có 23 hoạt động trong đường tới\nhạn và độ dài PERT của dự án là 26. Trong điều kiện này, báo cáo trạng thái hàng\ntháng nên báo cáo rằng:\n",
+    "options": [
+      ["A", "A. Dự án vẫn hoạt động tốt\n"],
+      ["B", "B. Dự án sẽ bị chậm tiến độ\n"],
+      ["C", "C. Chi phí dự án thấp hơn ngân sách\n"],
+      ["D", "D. Các vấn đề và các tùy chọn"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Nhân viên của bạn đã chậm 3 ngày so với lịch báo cáo. 5 phút trước khi cuộc\nhọp mà chủ đề của báo cáo sẽ được thảo luận thì cô ấy mới đưa cho bạn báo cáo. Bạn\nnhận thấy có 1 vài lỗi nghiêm trọng trong đó, bạn nên làm gì?\n",
+    "options": [
+      [
+        "A",
+        "A. Hủy cuôc họp và lên lịch họp lại sau khi báo cáo đã được sửa chữa\n"
+      ],
+      [
+        "B",
+        "B. Tới buổi họp và nói với mọi người tham gia là có lỗi trong báo cáo\n"
+      ],
+      [
+        "C",
+        "C. Bắt buộc nhân viên phải thuyết trình và những người tham gia khác im lặng tìm \nlỗi\n"
+      ],
+      ["D", "D. Hủy cuộc họp và tự viết lại báo cáo"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Một người quản lý có trách nhiệm cho 1 dự án có được sự hỗ trợ từ người lãnh\nđạo cấp cao. Từ khi bắt đầu, bạn đã không đồng ý với ng quản lý này về việc dự án\nnên tiến hàng ntn và các sản phẩm bàn giao là gì. Bạn và cô ấy đã bất đồng quan\nđiểm rất nhiều vấn đề trong quá khứ. Phòng ban của bạn được giao nhiệm vụ cung\ncấp 1 vài gói công việc quan trọng do dự án. Bạn nên làm gì?\n",
+    "options": [
+      ["A", "A. Cung cấp cho cô ta những gì cô ấy cần\n"],
+      [
+        "B",
+        "B. Thông báo với quản lý của bạn về mối lo âu về sự hỗ trợ của cô ấy\n"
+      ],
+      [
+        "C",
+        "C. Nói chuyện với cô ta vào lúc bắt đầu dự án và cố gắng mô tả tại sao bạn phản\nđối và tìm ra 1 cách để giải quyết vấn đề\n"
+      ],
+      ["D", "D. Hỏi để được thoát ra khỏi dự án"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Một dự án lớn và phức tạp về xây dựng trong một công ty nc ngoài yêu cầu sự\nkết hợp để di chuyển các thiết bị yêu cầu qua 1 con phố đông đúc. Để chắc chắn\nthiết bị được vận chuyển an toàn, các mối liên hệ của bạn ở nc này thông báo rằng\nbạn phải trả cho các cảnh sát địa phương 1 khoản để thuận tiện cho việc vận\nchuyển. bạn nên làm gì?\n",
+    "options": [
+      ["A", "A. Không trả do đó là tiền hối lộ\n"],
+      ["B", "B. Loại trừ công việc\n"],
+      ["C", "C. Trả khoản phí\n"],
+      ["D", "D. Không trả phí nếu đấy không phải là 1 phần của ước lượng dự án"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Một cuộc thương lượng lớn với 1 nhà thầu phụ tiềm năng đã được lên lịch vào\nngày mai, bạn phát hiện ra có 1 cơ hội tốt mà dự án sẽ bị hoãn. Bạn nên làm gì?\n",
+    "options": [
+      ["A", "A. Không giành nhiều thời gian chuẩn bị cho cuộc thương lượng\n"],
+      ["B", "B. Cắt giảm thời gian thương lượng\n"],
+      ["C", "C. Chỉ thương lượng các hạng mục chunhs\n"],
+      ["D", "D. Hoãn cuộc thương lượng"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Bạn được phân công quản lý 1 dự án đã hoàn thành được 1 nửa theo lịch trình. Sau\nđánh giá bao quát, bạn phát hiện ra dự án đang đi chậm hơn lịch trình(far behind\nschedule), và dự án có thể sẽ kéo dài gấp đôi thời gian ước tính ban đầu của PM\ntrước. tuy nhiên, nhà tài trợ đã được nói là dự án đang đúng lịch trình. Hành đông tốt\nnhất là:\n",
+    "options": [
+      [
+        "A",
+        "A. Cố gắng cấu trúc lại lịch trình để đáp ứng với thời hạn cuối cùng của dự án\n"
+      ],
+      ["B", "B. Báo cáo đánh giá của bạn với nhà tài trợ\n"],
+      ["C", "C. Chuyển lại dự án cho PM cũ\n"],
+      [
+        "D",
+        "D. Tiếp tục thực hiện với lịch trình được PM cũ lên kế hoạch và báo cáo điều này vào\nđiểm mốc bị lỡ đầu tiên (first missed milestone)"
+      ]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Bạn đang đi được ½ chặng đường qua 1 buổi giới thiệu máy bay mạng lớn\n(major network rollout). Có 300 địa điểm trong US và 20 ở UK. Một người bán\nphần mềm vừa phát hành một phần mềm lớn nâng cao chất lượng cho 1 vài thiết bị\nđược cài đặt. việc nâng cao chất lượng cung cấp cho khách hàng chức năng họ yêu\ncầu mà không có sẵn tại thời điểm dự án bắt đầu. trong điều kiệnnày, hành động\nnào là tốt nhất?\n",
+    "options": [
+      [
+        "A",
+        "A. Tiếp tục theo kế hoạch, khách hàng của bạn sẽ không yêu cầu thay đổi\n"
+      ],
+      [
+        "B",
+        "B. Thông báo với khách hàng về việc nâng cao chất lượng và ảnh hưởng của nó tới\nthời gian và các chức năng của dự án\n"
+      ],
+      [
+        "C",
+        "C. Cài đặt thay đổi và điều chỉnh lịch trình nếu cần thiết vì nó hỗ trợ yêu cầu đầu\ntiên của khách hàng\n"
+      ],
+      [
+        "D",
+        "D. Cài đặt thay đổi đối với các địa điểm còn lại và tiếp tục theo lịch trình"
+      ]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Bạn đang làm việc trong dự án nghiên cứu và phát triển, khách hàng yêu cầu\nbạn bao gồm một thành phần đặc biệt vào dự án. Bạn biết rằng nó có nghĩa là thêm\ncông việc, và bạn k muốn có sự vượt quá nguồn dự trữ có sẵn. bạn nên làm gì?\n",
+    "options": [
+      [
+        "A",
+        "A. Xóa gói công việc có mức ưu tiên thấp hơn để dành thời gian và nguồn dự trữ\ncó sẵn\n"
+      ],
+      [
+        "B",
+        "B. Sử dụng nguồn dự trữ từ khoản dành riêng ngẫu nhiên để bù đắp chi phí\n"
+      ],
+      ["C", "C. Tuân theo quy trình kiểm soát thay đổi hợp đồng\n"],
+      ["D", "D. Yêu cầu thêm nguồn dự trữ từ nhà tài trợ"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Bạn là PM cho 1 trong nhiều dự án trong 1 chương trình lớn và quan trọng. tại\nbuổi họp quan trọng, bạn chú ý rằng một PM khác đã báo cáo dự án của cô ấy đúng\nlịch trình. Tìm kiếm trong dự án của bạn khoảng 1 vài tuần trc, bạn nhớ rằng nhiều\nsản phẩm bàn giao từ dự án khác đã bị chậm trễ. Bạn nên làm gì?\n",
+    "options": [
+      ["A", "A. Gặp người quản l{ chương trình\n"],
+      ["B", "B. Xây dựng kế hoạch kiểm soát rủi ro\n"],
+      ["C", "C. Thảo luận vấn đề với thủ trường của bạn\n"],
+      ["D", "D. Gặp người PM kia"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Bạn luôn được ban lãnh đạo yêu cầu cắt giảm ước tính dự án 10% sau khi bạn\nđưa nó cho họ. phạm vi của dự án mới là k rõ ràng và có hơn 30 bên có liên quan.\nBan lãnh đạo mong muốn giảm thời gian giải lao 25% như 1 kết quả của dự án.\nĐiều nào dưới đây là hành động tốt nhất trong tình huống này?\n",
+    "options": [
+      ["A", "A. Lên kế hoạch lại để có được 35% cải thiện thời gian giải lao\n"],
+      [
+        "B",
+        "B. Giảm ước tính và ghi lại thay đổi trong kế hoạch phản ứng rủi ro\n"
+      ],
+      [
+        "C",
+        "C. Cung cấp một ước tính chính xác của chi phí thực tế và cố gắng chứng minh nó\n"
+      ],
+      ["D", "D. Gặp đội dự án để xác định bạn có thể tiết kiệm 10% ở đâu"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Nhân viên của bạn đã chậm 3 ngày so với lịch báo cáo. 5 phút trước khi cuộc\nhọp mà chủ đề của báo cáo sẽ được thảo luận thì cô ấy mới đưa cho bạn báo cáo. Bạn\nthấy có 1 vài lỗi nghiêm trọng trong báo cáo. Điều này có thể ngăn chặn ntn?\n",
+    "options": [
+      ["A", "A. Yêu cầu các nhân viên cập nhật định kz\n"],
+      ["B", "B. Huấn luyện và cố vấn cho nhân viên\n"],
+      ["C", "C. Chắc chắn nhân viên có khả năng làm công việc\n"],
+      [
+        "D",
+        "D. Hoãn buổi họp sớm hơn do bạn không có thời gian xem lại báo cáo"
+      ]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Dự án đang đi được nửa đường khi bạn phát hiện có 1 ng bán phần mềm cho dự\nán của bạn có khó khăn lớn trong việc giữ nhân viên do bất đồng lao động. nhiều\ndự án khác trong công ty của bạn cũng sử dụng các dịch vụ của công ty. Bạn nên\nlàm gì?\n",
+    "options": [
+      ["A", "A. Cố gắng giữ yêu cầu của họ trong dự án của bạn\n"],
+      ["B", "B. Nói với các PM khác trong công ty về vấn đề lao động\n"],
+      [
+        "C",
+        "C. Liên lạc với công ty và hỏi ý kiến rằng bạn sẽ hủy công việc của họ trong dự án\ntrừ phi họ giải quyết được vấn đề bất đồng lao động\n"
+      ],
+      ["D", "D. Kết thúc công việc kinh doanh với công ty này"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Điều nào dưới đây KHÔNG phải là trách nhiệm của PM\n",
+    "options": [
+      ["A", "A. Duy trì sự bí mật của thông tin bảo mật của khách hàng\n"],
+      ["B", "B. Xác định tính hợp pháp của các thủ tục công ty\n"],
+      [
+        "C",
+        "C. Chắc chắn rằng một xung đột về lợi ích không làm ảnh hưởng tới tính hợp pháp\nlợi ích của khách hàng\n"
+      ],
+      [
+        "D",
+        "D. Cung cấp kết quả chính xác và trung thực trong ước tính chi phí"
+      ]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Để hoàn thành công việc trong dự án của bạn, bạn đã được cung cấp các thông\ntin bí mật từ tất cả khách hàng của bạn. một trường đại học liên lạc với bạn để nhờ\ngiúp đỡ trong nghiên cứu của họ. sự giúp đỡ như vậy sẽ đòi hỏi bạn cung cấp cho\ncông ty 1 vài dữ liệu khách hàng từ file của bạn. bạn nên làm gì?\n",
+    "options": [
+      [
+        "A",
+        "A. Phát hành(release) thông tin, nhưng xóa hết những liên quan tới danh tính của\nkhách hàng\n"
+      ],
+      [
+        "B",
+        "B. Chỉ cung cấp những thông tin quan trọng ( or cần thiết? – high-level)\n"
+      ],
+      [
+        "C",
+        "C. Liên lạc với khách hàng của bạn và tìm kiếm sự cho phép để cung cấp các thông\ntin của họ\n"
+      ],
+      ["D", "D. Cung cấp thông tin"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Ban lãnh đạo đã hứa với bạn 1 phần phí ưu đãi từ khách hàng nếu bạn hoàn\nthành dự án sớm hạn. trong khi hoàn thành 1 sản phẩm bàn giao quan trọng, đội\ncủa bạn thông báo rằng sản phẩm đã đáp ứng các yêu cầu trong hợp đồng nhưng\nkhông cung cấp chức năng mà khách hàng cần. nếu sản phẩm bàn giao muộn, dự\nán không thể hoàn thành sớm hạn. bạn nên làm gì /\n",
+    "options": [
+      [
+        "A",
+        "A. Cung cấp sản phẩm như nó vốn thế( provide the deliverable as it is)\n"
+      ],
+      [
+        "B",
+        "B. Thông báo với khách hàng về tình hình và tìm ra giải pháp chung có thể chấp\nnhận được\n"
+      ],
+      [
+        "C",
+        "C. Bắt đầu biên tập 1 danh sách các nguyên nhân chậm trễ do khách hàng để chuẩn\nbị cho thương lượng\n"
+      ],
+      [
+        "D",
+        "D. Cắt giảm các hoạt động khác theo cách mà sẽ không bị chú { để cung cấp nhiều\nthời gian hơn để sửa sản phẩm bàn giao"
+      ]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Bạn vừa phát hiện ra 1 lỗi trong kế hoạch cài đặt mà sẽ ngăn cản 1 cuộc họp\nquan trọng(milestone date). điều tốt nhất bạn nên làm là:\n",
+    "options": [
+      ["A", "A. Phát triển các tùy chọn để có được ngày quan trọng\n"],
+      ["B", "B. Thay đổi ngày quan trọng\n"],
+      [
+        "C",
+        "C. Xóa 1 vài thảo luận về thời gian theo báo cáo trang thái dự án\n"
+      ],
+      ["D", "D. Huấn luyện đội về sự cần thiết để có được ngày quan trọng"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Trong khi kiểm tra độ bền của bêtông được đổ trong dự án của bạn, bạn phát\nhiện ra hơn 35% bê tông không đáp ứng được tiêu chuẩn chất lượng của công ty bạn.\nbạn cảm thấy chắc chắn rằng bê tông sẽ hoạt động tốt, và bạn k nghĩ rằng bê tông\ncần đáp ứng các tiêu chuẩn chất lượng. bạn nên làm gì?\n",
+    "options": [
+      [
+        "A",
+        "A. Thay đổi tiêu chuẩn chất lượng phù hợp với mức độ có thể có\n      "
+      ],
+      [
+        "B",
+        " B. Liệt kê trong báo cáo rằng bê tông đơn giản là”đáp ứng yêu cầu của chúng tôi”\n"
+      ],
+      ["C", "C. Chắc chắn rằng số bê tông còn lại sẽ đạt tiêu chuẩn\n"],
+      ["D", "D. Báo cáo về chất lượng kém và cố gắng tìm 1 giải pháp"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Bạn là PM cho 1 dự án đa quốc gia mới và đội dự án của bạn bao gồm nhân\nviên đến từ 4 quốc gia. Phần lớn nhân viên chưa bao h làm việc trong 1 dự án kiểu\nnhư thế này, nhưng dự án có sự hỗ trợ lớn từ ban lãnh đạo cấp cao. Điều tốt nhất để\nchắc chắn rằng sự khác biệt văn hóa không ảnh hưởng tới dự án là:\n",
+    "options": [
+      [
+        "A",
+        "A. Dành thêm 1 khoảng thời gian để tạo WBS và chắc chắn nó hoàn thành\n"
+      ],
+      [
+        "B",
+        "B. Là một PM, chắc chắn bạn chọn từ ngữ cẩn thận khi bạn giao tiếp\n"
+      ],
+      [
+        "C",
+        "C. Yêu cầu 1 người trong mỗi buổi họp mô tả những điều đặc biệt về văn hóa của\nhọ\n"
+      ],
+      ["D", "D. Mã hóa cẩn thận tất cả các giao tiếp của PM"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Một dự án có ngân sách eo hẹp khi bạn bắt đầu thương lượng với 1 người bán\nvề thiết bị. người bán nói với bạn rằng giá của thiết bị này là cố định. Ng quản lý\ncủa bạn nói với bạn thương lượng giá cả với người bán. Hành động nào là tốt nhất/\n",
+    "options": [
+      ["A", "A. Thực hiện nỗ lực cam kết tốt để tìm cách giảm giá\n"],
+      [
+        "B",
+        "B. Hoãn thương lượng cho tới khi bạn thuyết phục được ng quản lý của bạn thay đổi\nquyết định\n"
+      ],
+      [
+        "C",
+        "C. Vẫn thương lượng, nhưng chỉ về những khía cạnh khác của dự án\n"
+      ],
+      ["D", "D. Hủy thương lượng"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Bạn đang làm việc trong 1 dự án xây dựng lớn đang thực hiện trong đường\ngiới hạn. các nguồn lực được sử dụng từ từ(remain steady), thủ trưởng của bạn vừa\nthưởng bạn vì nỗ lực của bạn. một thành viên đội dự án trở về từ 1 cuộc họp với\nkhách hàng và nói với bạn rằng khách hàng không hài lòng với việc thực hiện dự\nán. Điều đầu tiên bạn nên làm là:\n",
+    "options": [
+      ["A", "A. Nói với ng quản lý của bạn\n"],
+      [
+        "B",
+        "B. Hoàn thành các bài tập xây dựng đội dự án và mời đại diện khách hàng tham dự\n"
+      ],
+      ["C", "C. Thay đổi đường lịch trình cơ bản\n"],
+      ["D", "D. Gặp khách hàng để tìm ra chi tiết (uncover detail)"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Một PM phát hiện một khuyết điểm trong sản phẩm mà phải bàn giao cho\nkhách hàng hôm nay. PM biết khách hàng k có hiểu biết kĩ thuật để chú ý tới\nkhuyết điểm này. Sản phẩm đáp ứng các yêu cầu của hợp đồng, nhưng không đáp \nứng tiêu chuẩn chất lượng của PM. PM nên làm gì trong tình huống này?\n",
+    "options": [
+      [
+        "A",
+        "A. Đưa ra sản phẩm và lấy sự chấp nhận chính thức từ khách hàng\n"
+      ],
+      [
+        "B",
+        "B. Ghi lại vấn đề trong các bài học thu được để các dự án trong tương lai sẽ không\nmắc phải vấn đề đó nữa\n"
+      ],
+      ["C", "C. Thảo luận vấn đề với khách hàng\n"],
+      ["D", "D. Thông báo với khách hàng sản phẩm sẽ bị chậm trễ"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Ban lãnh đạo nói với 1 PM để thầu lại một phần của dự án cho 1 công ty mà\nban lãnh đạo đã làm việc nhiều lần. trong tình huống này, PM nên bận tâm lớn nhất\nvề:\n",
+    "options": [
+      ["A", "A. Chắc chắn công ty có đủ khả năng để hoàn thành dự án\n"],
+      ["B", "B. Đáp ứng yêu cầu thời gian của ban lãnh đạo\n"],
+      ["C", "C. Chi phí của công việc thầu lại\n"],
+      ["D", "D. Các điều khoản và điều kiện hợp đồng"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Khách hàng trong một dự án nói với PM rằng anh ta đã hết tiền chi trả cho dự\nán. PM nên làm gì đầu tiên?\n",
+    "options": [
+      [
+        "A",
+        "A. Thay đổi lịch trình các công việc để thực hiện thời gian muộn hơn so với lịch\ntrình cũ để khách hàng có thêm nguồn vốn\n"
+      ],
+      ["B", "B. Bắt đầu kết thúc các hoạt động quản trị\n"],
+      ["C", "C. Dừng công việc\n"],
+      ["D", "D. Cắt giảm nhân sự 1 phần đội dự án(release part of the team)"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Bạn là PM cho 1 dự án lớn trong hợp đồng với chính phủ. Hợp đồng 2 năm,\nnhiều triệu $ đã được k{ 6 tháng trước. bạn không được kéo theo trong thương lượng\nhợp đồng hay thiết lập các thủ tục cho việc quản l{ các thay đổi, nhưng bạn đang\ntràn ngập với các thay đổi từ khách hàng và từ những người trong tổ chức của bạn.\nthông thường, ai sẽ có trách nhiệm cho việc xem xét chính thức các thay đổi lớn\nđối với dự án/hợp đồng?\n",
+    "options": [
+      ["A", "A. Ban kiểm soát thay đổi\n"],
+      ["B", "B. Ban ký hợp đồng/pháp lý\n"],
+      ["C", "C. PM\n"],
+      ["D", "D. Lãnh đạo cấp cao"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Phòng kĩ thuật muốn mục tiêu dự án cải thiện 10%. Phòng IT muốn nguồn lực\ncủa phòng k bị sử dụng nhiều hơn 5% vào dự án. Ban lãnh đạo, cũng là thủ trưởng\ncủa bạn, muốn đội dự án giảm thuế pháp l{ (tax liability). Điều tốt nhất bạn nên\nlàm là:\n",
+    "options": [
+      ["A", "A. Xây dựng 1 kế hoạch đáp ứng tất cả các mục tiêu trên\n"],
+      ["B", "B. Mọi người cùng bàn bạc và đồng ý 1 mục tiêu\n"],
+      [
+        "C",
+        "C. Tính đến mục tiêu của phòng kỹ thuật và phòng IT nhưng đáp ứng ít đối với\nmục tiêu của ban lãnh đạo(holding a further meeting)\n"
+      ],
+      ["D", "D. Chỉ tính đến mục tiêu của ban lãnh đạo."]
+    ]
+  }
+]
