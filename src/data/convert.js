@@ -22,7 +22,7 @@ fs.readFile(`${path}.json`, "utf8", function (err, data) {
       "index": index + 1,
       "id": id,
       "question": item.question,
-      "answers": item.options.map(k => k[1].slice(2, k[1].length)),
+      "answers": item.options.map(k => k[1]),
       "correct": item.Ans === "A" ? 0 : item.Ans === "B" ? 1 : item.Ans === "C" ? 2 : 3
     }
 
